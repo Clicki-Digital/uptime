@@ -137,7 +137,6 @@ sites:
 
 
 status-website:
-  theme: night
   cname: status.clicki.digital
   # baseUrl: /uptime
   logoUrl: https://getlucid.solutions/wp-content/uploads/2021/01/LS-logo.png
