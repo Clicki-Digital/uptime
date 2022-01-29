@@ -140,6 +140,7 @@ sites:
 
 
 status-website:
+  theme: ocean
   cname: status.getlucid.solutions
   #baseUrl: /uptime
   logoUrl: https://getlucid.solutions/wp-content/uploads/2021/01/LS-logo.png
@@ -149,10 +150,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Lucid Solutions
-      href: https://getlucid.solutions
-    - title: Clicki Digital
-      href: https://clickidigital.com.au
   workflowSchedule:
     graphs: "0 0 * * *"
     responseTime: "0 23 * * *"
