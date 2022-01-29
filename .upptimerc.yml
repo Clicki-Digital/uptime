@@ -140,7 +140,7 @@ sites:
 
 
 status-website:
-  theme: ocean
+  theme: night
   cname: status.getlucid.solutions
   #baseUrl: /uptime
   logoUrl: https://getlucid.solutions/wp-content/uploads/2021/01/LS-logo.png
