@@ -140,12 +140,16 @@ status-website:
   cname: status.clicki.digital
   # baseUrl: /uptime
   logoUrl: https://getlucid.solutions/wp-content/uploads/2021/01/LS-logo.png
-  name: Upptime
+  name: Lucid Solutions | Status
   introTitle: "**Lucid Solutions** web hosting status"
   introMessage: "This status page provides *real-time* updates for the below listed sites that are managed by Lucid Solutions and Clicki Digital."
   navbar:
     - title: Status
       href: /
+    - title: Lucid Solutions
+      href: https://getlucid.solutions
+    - title: Clicki Digital
+      href: https://clickidigital.com.au
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
