@@ -137,8 +137,8 @@ sites:
 
 
 status-website:
-  cname: status.clicki.digital
-  # baseUrl: /uptime
+  #cname: status.clicki.digital
+  baseUrl: /uptime
   logoUrl: https://getlucid.solutions/wp-content/uploads/2021/01/LS-logo.png
   name: Lucid Solutions | Status
   introTitle: "**Lucid Solutions** web hosting status"
