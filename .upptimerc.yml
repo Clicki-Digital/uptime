@@ -4,6 +4,7 @@ repo: uptime
 sites:
   - name: Lucid Solutions
     url: https://getlucid.solutions
+    icon: https://getlucid.solutions/wp-content/uploads/2020/12/cropped-ls-icon-32x32.png
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
