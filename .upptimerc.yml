@@ -137,6 +137,7 @@ sites:
 
 
 status-website:
+  theme: night
   cname: status.clicki.digital
   # baseUrl: /uptime
   logoUrl: https://getlucid.solutions/wp-content/uploads/2021/01/LS-logo.png
@@ -150,6 +151,14 @@ status-website:
       href: https://getlucid.solutions
     - title: Clicki Digital
       href: https://clickidigital.com.au
+  workflowSchedule:
+    graphs: "0 0 * * *"
+    responseTime: "0 23 * * *"
+    staticSite: "* * * * *"
+    summary: "0 0 * * *"
+    updateTemplate: "0 0 * * *"
+    updates: "0 3 * * *"
+    uptime: "*/5 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
