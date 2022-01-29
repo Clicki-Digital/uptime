@@ -2,31 +2,147 @@ owner: Clicki-Digital
 repo: uptime
 
 sites:
+  - name: Adam Brand Music
+    url: https://adambrandmusic.com
+    maxResponseTime: 5000
+  - name: Aset App
+    url: https://asetapp.com
+    maxResponseTime: 5000
+  - name: Ausource International
+    url: https://ausourceintl.com.au
+    maxResponseTime: 5000
+  - name: Australian Anti Ice Campaign
+    url: https://australianantiicecampaign.org.au
+    maxResponseTime: 5000
+  - name: Bookkeeper to the Smart People
+    url: https://bksp.com.au
+    maxResponseTime: 5000
+  - name: Burdi
+    url: https://burdi.com.au
+    maxResponseTime: 5000
+  - name: Burdi - Selfservice
+    url: https://manage.burdi.com.au
+    maxResponseTime: 5000
+  - name: Cafe7
+    url: https://cafe7.com.au
+    maxResponseTime: 5000
+  - name: CC Electrical and Air 
+    url: https://ccelectricalandair.com.au
+    maxResponseTime: 5000
+  - name: Chariots of Light Australia 
+    url: https://chariotsoflight.org.au
+    maxResponseTime: 5000
+  - name: ClaimsWrights
+    url: https://claimswrights.co.uk
+    maxResponseTime: 5000
+  - name: Clicki Digital
+    url: https://clickidigital.com.au
+    maxResponseTime: 5000
+  - name: Col Stringer
+    url: https://colstringer.com
+    maxResponseTime: 5000
+  - name: Diverse AirCon & Mechanical
+    url: https://diverseaircon.com.au
+    maxResponseTime: 5000
+  - name: EntVenture
+    url: https://entventure.org
+    maxResponseTime: 5000
+  - name: Eyrth
+    url: https://eyrth.com
+    maxResponseTime: 5000
+  - name: Flameright
+    url: https://flameright.com.au
+    maxResponseTime: 5000
+  - name: Gracious5
+    url: https://gracious5.com
+    maxResponseTime: 5000
+  - name: Heritage of Faith Christian Church - Gold Coast
+    url: https://heritageoffaith.com.au
+    maxResponseTime: 5000
+  - name: Ian Slack
+    url: https://ianslack.com.au
+    maxResponseTime: 5000
+  - name: Independent Wealth Management Australia
+    url: https://iwmaus.com.au
+    maxResponseTime: 5000
+  - name: Jerry Savelle Ministries International Australia
+    url: https://jsmiaustralia.org
+    maxResponseTime: 5000
+  - name: K-Thorne
+    url: https://k-thorne.com
+    maxResponseTime: 5000
+  - name: Lance N. Solomon
+    url: https://lancensolomon.com.au
+    maxResponseTime: 5000
+  - name: Lil Fi
+    url: https://lilfi.com
+    maxResponseTime: 5000
+  - name: Living Word Church
+    url: https://livingword.org.au
+    maxResponseTime: 5000
+  - name: The Local Paradise Point (The Local PP)
+    url: https://thelocalpp.com.au
+    maxResponseTime: 5000
+  - name: LT Consulting
+    url: https://ltconsulting.com.au
+    maxResponseTime: 5000
   - name: Lucid Solutions
     url: https://getlucid.solutions
     icon: https://getlucid.solutions/wp-content/uploads/2020/12/cropped-ls-icon-32x32.png
-  - name: Clicki Digital
-    url: https://clickidigital.com.au
-  - name: Heritage of Faith Christian Church - Gold Coast
-    url: https://heritageoffaith.com.au
-  - name: Jerry Savelle Ministries International Australia
-    url: https://jsmiaustralia.org
-  - name: Adam Brand Music
-    url: https://adambrandmusic.com
-  - name: Ausource International
-    url: https://ausourceintl.com.au
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    maxResponseTime: 5000
+  - name: Minds and Hearts
+    url: https://mindsandhearts.net
+    maxResponseTime: 5000
+  - name: Moncai
+    url: https://moncai.com.au
+    maxResponseTime: 5000
+  #- name: New Wave Construction
+   # url: https://newwavecon.com.au
+    #maxResponseTime: 5000
+  - name: NicNax
+    url: https://nicnax.com.au
+    maxResponseTime: 5000
+  - name: Nomolos
+    url: https://nomolos.com.au
+    maxResponseTime: 5000
+  - name: OhDee
+    url: https://ohdee.com.au
+    maxResponseTime: 5000
+  - name: ODIGDesigns
+    url: https://www.odigdesigns.com.au
+    maxResponseTime: 5000
+  - name: Omega Communication Services
+    url: https://omegacoms.com.au
+    maxResponseTime: 5000
+  - name: RAC Equipment
+    url: https://racequipment.com.au
+    maxResponseTime: 5000
+  - name: Solomon Ninja
+    url: https://solomon.ninja
+    maxResponseTime: 5000
+  - name: Swell Plumbing and Gas
+    url: https://swellplumbingandgas.com.au
+    maxResponseTime: 5000
+  - name: TEDx CYW
+    url: https://tedxycyw.com
+    maxResponseTime: 5000
+  #- name: VetAnswers
+   # url: https://vetanswers.com.au
+    #maxResponseTime: 5000
+  - name: Worship Ministries International
+    url: https://worshipministriesinternational.com	
+    maxResponseTime: 5000
+    
+
+
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: status.clicki.digital
-  baseUrl: /uptime
+  cname: status.clicki.digital
+  # baseUrl: /uptime
   logoUrl: https://getlucid.solutions/wp-content/uploads/2021/01/LS-logo.png
   name: Upptime
-  introTitle: "**Lucid Solutions** web hosting status
-  introMessage: This status page provides *real-time* updates for the below listed sites that are managed by Lucid Solutions and Clicki Digital.
+  introTitle: "**Lucid Solutions** web hosting status"
+  introMessage: "This status page provides *real-time* updates for the below listed sites that are managed by Lucid Solutions and Clicki Digital."
   navbar:
     - title: Status
       href: /
