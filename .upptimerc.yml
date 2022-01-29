@@ -146,7 +146,8 @@ status-website:
   logoUrl: https://getlucid.solutions/wp-content/uploads/2021/01/LS-logo.png
   name: Uptime Status
   introTitle: "**Lucid Solutions** web hosting status"
-  introMessage: "This status page provides *real-time* updates for the below listed sites that are managed by Lucid Solutions and Clicki Digital."
+  introMessage: "This status page provides *real-time* updates for the below listed sites that are managed by Lucid Solutions and Clicki Digital.
+  <br>Lucid Solutions utilises this tool to assist with unplanned outages."
   navbar:
     - title: Status
       href: /
