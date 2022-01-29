@@ -5,12 +5,16 @@ sites:
   - name: Lucid Solutions
     url: https://getlucid.solutions
     icon: https://getlucid.solutions/wp-content/uploads/2020/12/cropped-ls-icon-32x32.png
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Clicki Digital
+    url: https://clickidigital.com.au
+  - name: Heritage of Faith Christian Church - Gold Coast
+    url: https://heritageoffaith.com.au
+  - name: Jerry Savelle Ministries International Australia
+    url: https://jsmiaustralia.org
+  - name: Adam Brand Music
+    url: https://adambrandmusic.com
+  - name: Ausource International
+    url: https://ausourceintl.com.au
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
