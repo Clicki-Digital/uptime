@@ -137,10 +137,10 @@ sites:
 
 
 status-website:
-  #cname: status.clicki.digital
-  baseUrl: /uptime
+  cname: status.clicki.digital
+  #baseUrl: /uptime
   logoUrl: https://getlucid.solutions/wp-content/uploads/2021/01/LS-logo.png
-  name: Lucid Solutions | Status
+  name: Uptime Status
   introTitle: "**Lucid Solutions** web hosting status"
   introMessage: "This status page provides *real-time* updates for the below listed sites that are managed by Lucid Solutions and Clicki Digital."
   navbar:
