@@ -707,18 +707,18 @@
     "icon": "https://favicons.githubusercontent.com/tedxycyw.com",
     "slug": "te-dx-cyw",
     "status": "down",
-    "uptime": "26.13%",
-    "uptimeDay": "26.13%",
-    "uptimeWeek": "26.13%",
-    "uptimeMonth": "26.13%",
-    "uptimeYear": "26.13%",
+    "uptime": "17.22%",
+    "uptimeDay": "17.22%",
+    "uptimeWeek": "17.22%",
+    "uptimeMonth": "17.22%",
+    "uptimeYear": "17.22%",
     "time": 4097,
     "timeDay": 4097,
     "timeWeek": 4097,
     "timeMonth": 4097,
     "timeYear": 4097,
     "dailyMinutesDown": {
-      "2022-01-29": 0
+      "2022-01-29": 1
     }
   },
   {
