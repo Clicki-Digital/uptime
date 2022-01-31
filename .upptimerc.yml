@@ -123,9 +123,9 @@ sites:
   - name: Swell Plumbing and Gas
     url: https://swellplumbingandgas.com.au
     maxResponseTime: 5000
-  # - name: TEDx CYW
-  #   url: https://tedxycyw.com
-  #   maxResponseTime: 10000
+  - name: TEDx CYW
+    url: https://tedxycyw.com
+    maxResponseTime: 10000
   #- name: VetAnswers
    # url: https://vetanswers.com.au
     #maxResponseTime: 5000
