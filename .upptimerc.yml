@@ -134,7 +134,7 @@ sites:
     maxResponseTime: 5000
   - name: Young Discoverers
     url: https://youngdiscoverers.org.au	
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     
 
 
