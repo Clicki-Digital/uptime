@@ -5,124 +5,280 @@ sites:
   - name: Adam Brand Music
     url: https://adambrandmusic.com
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Aset App
     url: https://asetapp.com
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Ausource International
     url: https://ausourceintl.com.au
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Australian Anti Ice Campaign
     url: https://australianantiicecampaign.org.au
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
     maxResponseTime: 5000
   - name: Bookkeeper to the Smart People
     url: https://bksp.com.au
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Burdi
     url: https://burdi.com.au
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Burdi - Selfservice
     url: https://manage.burdi.com.au
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Cafe7
     url: https://cafe7.com.au
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: CC Electrical and Air 
     url: https://ccelectricalandair.com.au
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Chariots of Light Australia 
     url: https://chariotsoflight.org.au
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: ClaimsWrights
     url: https://claimswrights.co.uk
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Clicki Digital
     url: https://clickidigital.com.au
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Col Stringer
     url: https://colstringer.com
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Diverse AirCon & Mechanical
     url: https://diverseaircon.com.au
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: EntVenture
     url: https://entventure.org
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Eyrth
     url: https://eyrth.com
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Flameright
     url: https://flameright.com.au
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Gracious5
     url: https://gracious5.com
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Heritage of Faith Christian Church - Gold Coast
     url: https://heritageoffaith.com.au
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Ian Slack
     url: https://ianslack.com.au
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Independent Wealth Management Australia
     url: https://iwmaus.com.au
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Jerry Savelle Ministries International Australia
     url: https://jsmiaustralia.org
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: K-Thorne
     url: https://k-thorne.com
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Lance N. Solomon
     url: https://lancensolomon.com.au
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Lil Fi
     url: https://lilfi.com
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Living Word Church
     url: https://livingword.org.au
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: The Local Paradise Point (The Local PP)
     url: https://thelocalpp.com.au
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: LT Consulting
     url: https://ltconsulting.com.au
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Lucid Solutions
     url: https://getlucid.solutions
     icon: https://getlucid.solutions/wp-content/uploads/2020/12/cropped-ls-icon-32x32.png
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Minds and Hearts
     url: https://mindsandhearts.net
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Moncai
     url: https://moncai.com.au
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   #- name: New Wave Construction
    # url: https://newwavecon.com.au
     #maxResponseTime: 5000
   - name: NicNax
     url: https://nicnax.com.au
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Nomolos
     url: https://nomolos.com.au
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: OhDee
     url: https://ohdee.com.au
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: ODIGDesigns
     url: https://www.odigdesigns.com.au
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Omega Communication Services
     url: https://omegacoms.com.au
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: RAC Equipment
     url: https://racequipment.com.au
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Solomon Ninja
     url: https://solomon.ninja
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Swell Plumbing and Gas
     url: https://swellplumbingandgas.com.au
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   # - name: TEDx CYW
   #   url: https://tedxycyw.com
   #   maxResponseTime: 10000
@@ -132,9 +288,17 @@ sites:
   - name: Worship Ministries International
     url: https://worshipministriesinternational.com	
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Young Discoverers
     url: https://youngdiscoverers.org.au	
-    maxResponseTime: 10000
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
     
 
 
