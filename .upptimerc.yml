@@ -305,7 +305,7 @@ sites:
 
 status-website:
   theme: light
-  cname: status.clicki.digital
+  cname: status.getlucid.solutions
   #baseUrl: /uptime
   logoUrl: https://clickidigital.com.au/wp-content/uploads/2021/02/ClickiDigital-horizontal-logo-FullColor.png
   name: Uptime Status
