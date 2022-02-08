@@ -310,7 +310,7 @@ status-website:
   logoUrl: https://clickidigital.com.au/wp-content/uploads/2021/02/ClickiDigital-horizontal-logo-FullColor.png
   name: Uptime Status
   introTitle: "**Clicki Digital** web hosting status"
-  introMessage: "This status page provides *real-time* updates for the below listed sites that are managed by the Clicki Digital Infrstructure as a Service solution.
+  introMessage: "This status page provides *real-time* updates for the below listed sites that are managed by the Clicki Digital Infrastructure as a Service (IaaS) solution.
   <br>Clicki Digital utilises this tool to assist with unplanned outages."
   navbar:
     - title: Status
