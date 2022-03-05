@@ -49,7 +49,7 @@
     "time": 2437,
     "timeDay": 1349,
     "timeWeek": 4162,
-    "timeMonth": 2477,
+    "timeMonth": 2490,
     "timeYear": 2437,
     "dailyMinutesDown": {
       "2022-03-01": 23,
@@ -71,7 +71,7 @@
     "time": 1650,
     "timeDay": 1579,
     "timeWeek": 1645,
-    "timeMonth": 1577,
+    "timeMonth": 1581,
     "timeYear": 1650,
     "dailyMinutesDown": {}
   },
@@ -89,7 +89,7 @@
     "time": 1407,
     "timeDay": 1373,
     "timeWeek": 1324,
-    "timeMonth": 1297,
+    "timeMonth": 1295,
     "timeYear": 1407,
     "dailyMinutesDown": {
       "2022-02-04": 32,
@@ -110,7 +110,7 @@
     "time": 1336,
     "timeDay": 1347,
     "timeWeek": 1282,
-    "timeMonth": 1338,
+    "timeMonth": 1328,
     "timeYear": 1336,
     "dailyMinutesDown": {
       "2022-02-04": 16,
@@ -131,7 +131,7 @@
     "time": 956,
     "timeDay": 3734,
     "timeWeek": 2152,
-    "timeMonth": 1188,
+    "timeMonth": 1214,
     "timeYear": 956,
     "dailyMinutesDown": {}
   },
@@ -149,7 +149,7 @@
     "time": 1963,
     "timeDay": 1988,
     "timeWeek": 1640,
-    "timeMonth": 1904,
+    "timeMonth": 1910,
     "timeYear": 1963,
     "dailyMinutesDown": {}
   },
@@ -167,7 +167,7 @@
     "time": 942,
     "timeDay": 917,
     "timeWeek": 723,
-    "timeMonth": 891,
+    "timeMonth": 882,
     "timeYear": 942,
     "dailyMinutesDown": {}
   },
@@ -185,7 +185,7 @@
     "time": 2128,
     "timeDay": 4160,
     "timeWeek": 2817,
-    "timeMonth": 2352,
+    "timeMonth": 2376,
     "timeYear": 2128,
     "dailyMinutesDown": {}
   },
@@ -203,7 +203,7 @@
     "time": 3306,
     "timeDay": 2277,
     "timeWeek": 3097,
-    "timeMonth": 3162,
+    "timeMonth": 3165,
     "timeYear": 3306,
     "dailyMinutesDown": {
       "2022-02-02": 96
@@ -223,7 +223,7 @@
     "time": 869,
     "timeDay": 1022,
     "timeWeek": 828,
-    "timeMonth": 853,
+    "timeMonth": 848,
     "timeYear": 869,
     "dailyMinutesDown": {
       "2022-02-04": 16
@@ -243,7 +243,7 @@
     "time": 1663,
     "timeDay": 1318,
     "timeWeek": 1097,
-    "timeMonth": 1136,
+    "timeMonth": 1118,
     "timeYear": 1663,
     "dailyMinutesDown": {
       "2022-02-04": 16,
@@ -265,7 +265,7 @@
     "time": 1228,
     "timeDay": 1353,
     "timeWeek": 1217,
-    "timeMonth": 1259,
+    "timeMonth": 1250,
     "timeYear": 1228,
     "dailyMinutesDown": {
       "2022-02-04": 15
@@ -285,7 +285,7 @@
     "time": 2470,
     "timeDay": 1235,
     "timeWeek": 2001,
-    "timeMonth": 2052,
+    "timeMonth": 2042,
     "timeYear": 2470,
     "dailyMinutesDown": {
       "2022-02-01": 27
@@ -305,7 +305,7 @@
     "time": 3057,
     "timeDay": 4720,
     "timeWeek": 2967,
-    "timeMonth": 2984,
+    "timeMonth": 3022,
     "timeYear": 3057,
     "dailyMinutesDown": {
       "2022-02-01": 26
@@ -325,7 +325,7 @@
     "time": 2644,
     "timeDay": 2560,
     "timeWeek": 2294,
-    "timeMonth": 2409,
+    "timeMonth": 2424,
     "timeYear": 2644,
     "dailyMinutesDown": {}
   },
@@ -343,7 +343,7 @@
     "time": 775,
     "timeDay": 914,
     "timeWeek": 723,
-    "timeMonth": 774,
+    "timeMonth": 770,
     "timeYear": 775,
     "dailyMinutesDown": {}
   },
@@ -361,7 +361,7 @@
     "time": 809,
     "timeDay": 942,
     "timeWeek": 732,
-    "timeMonth": 799,
+    "timeMonth": 797,
     "timeYear": 809,
     "dailyMinutesDown": {}
   },
@@ -379,7 +379,7 @@
     "time": 3004,
     "timeDay": 4206,
     "timeWeek": 2893,
-    "timeMonth": 2865,
+    "timeMonth": 2881,
     "timeYear": 3004,
     "dailyMinutesDown": {}
   },
@@ -397,7 +397,7 @@
     "time": 1429,
     "timeDay": 1522,
     "timeWeek": 1389,
-    "timeMonth": 1410,
+    "timeMonth": 1402,
     "timeYear": 1429,
     "dailyMinutesDown": {}
   },
@@ -415,7 +415,7 @@
     "time": 2036,
     "timeDay": 1818,
     "timeWeek": 1882,
-    "timeMonth": 1918,
+    "timeMonth": 1915,
     "timeYear": 2036,
     "dailyMinutesDown": {}
   },
@@ -433,7 +433,7 @@
     "time": 2883,
     "timeDay": 3480,
     "timeWeek": 2946,
-    "timeMonth": 3024,
+    "timeMonth": 3012,
     "timeYear": 2883,
     "dailyMinutesDown": {
       "2022-02-22": 18
@@ -444,18 +444,19 @@
     "url": "https://k-thorne.com",
     "icon": "https://favicons.githubusercontent.com/k-thorne.com",
     "slug": "k-thorne",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.84%",
-    "time": 2929,
-    "timeDay": 1826,
-    "timeWeek": 3112,
-    "timeMonth": 3282,
-    "timeYear": 2929,
+    "time": 3084,
+    "timeDay": 8107,
+    "timeWeek": 4240,
+    "timeMonth": 3562,
+    "timeYear": 3084,
     "dailyMinutesDown": {
+      "2022-03-05": 1,
       "2022-03-01": 56,
       "2022-02-01": 26
     }
@@ -474,7 +475,7 @@
     "time": 911,
     "timeDay": 944,
     "timeWeek": 859,
-    "timeMonth": 904,
+    "timeMonth": 899,
     "timeYear": 911,
     "dailyMinutesDown": {}
   },
@@ -492,7 +493,7 @@
     "time": 1705,
     "timeDay": 1867,
     "timeWeek": 1498,
-    "timeMonth": 1628,
+    "timeMonth": 1625,
     "timeYear": 1705,
     "dailyMinutesDown": {}
   },
@@ -510,7 +511,7 @@
     "time": 1017,
     "timeDay": 1187,
     "timeWeek": 914,
-    "timeMonth": 1013,
+    "timeMonth": 1009,
     "timeYear": 1017,
     "dailyMinutesDown": {}
   },
@@ -528,7 +529,7 @@
     "time": 947,
     "timeDay": 1183,
     "timeWeek": 938,
-    "timeMonth": 951,
+    "timeMonth": 946,
     "timeYear": 947,
     "dailyMinutesDown": {}
   },
@@ -546,7 +547,7 @@
     "time": 999,
     "timeDay": 1208,
     "timeWeek": 904,
-    "timeMonth": 981,
+    "timeMonth": 976,
     "timeYear": 999,
     "dailyMinutesDown": {}
   },
@@ -564,7 +565,7 @@
     "time": 1034,
     "timeDay": 1206,
     "timeWeek": 954,
-    "timeMonth": 996,
+    "timeMonth": 991,
     "timeYear": 1034,
     "dailyMinutesDown": {}
   },
@@ -582,7 +583,7 @@
     "time": 1245,
     "timeDay": 1306,
     "timeWeek": 1211,
-    "timeMonth": 1233,
+    "timeMonth": 1226,
     "timeYear": 1245,
     "dailyMinutesDown": {}
   },
@@ -592,18 +593,18 @@
     "icon": "https://favicons.githubusercontent.com/moncai.com.au",
     "slug": "moncai",
     "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "92.93%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.71%",
+    "uptime": "99.73%",
+    "uptimeDay": "95.73%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.73%",
     "time": 3847,
-    "timeDay": 8532,
+    "timeDay": 8670,
     "timeWeek": 7009,
-    "timeMonth": 4224,
+    "timeMonth": 4270,
     "timeYear": 3847,
     "dailyMinutesDown": {
-      "2022-03-05": 53,
+      "2022-03-05": 45,
       "2022-03-04": 66,
       "2022-02-01": 25
     }
@@ -622,7 +623,7 @@
     "time": 1268,
     "timeDay": 1201,
     "timeWeek": 904,
-    "timeMonth": 978,
+    "timeMonth": 972,
     "timeYear": 1268,
     "dailyMinutesDown": {}
   },
@@ -640,7 +641,7 @@
     "time": 739,
     "timeDay": 806,
     "timeWeek": 760,
-    "timeMonth": 748,
+    "timeMonth": 744,
     "timeYear": 739,
     "dailyMinutesDown": {}
   },
@@ -652,13 +653,13 @@
     "status": "up",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.49%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.85%",
     "time": 1587,
     "timeDay": 1907,
-    "timeWeek": 2662,
-    "timeMonth": 1867,
+    "timeWeek": 1541,
+    "timeMonth": 1878,
     "timeYear": 1587,
     "dailyMinutesDown": {
       "2022-02-26": 51,
@@ -679,7 +680,7 @@
     "time": 1947,
     "timeDay": 2260,
     "timeWeek": 2119,
-    "timeMonth": 2027,
+    "timeMonth": 2030,
     "timeYear": 1947,
     "dailyMinutesDown": {
       "2022-02-01": 25
@@ -699,7 +700,7 @@
     "time": 793,
     "timeDay": 848,
     "timeWeek": 779,
-    "timeMonth": 786,
+    "timeMonth": 783,
     "timeYear": 793,
     "dailyMinutesDown": {}
   },
@@ -717,7 +718,7 @@
     "time": 718,
     "timeDay": 765,
     "timeWeek": 688,
-    "timeMonth": 711,
+    "timeMonth": 706,
     "timeYear": 718,
     "dailyMinutesDown": {}
   },
@@ -735,7 +736,7 @@
     "time": 2342,
     "timeDay": 1546,
     "timeWeek": 3545,
-    "timeMonth": 2506,
+    "timeMonth": 2530,
     "timeYear": 2342,
     "dailyMinutesDown": {
       "2022-02-01": 24
@@ -755,7 +756,7 @@
     "time": 1025,
     "timeDay": 1214,
     "timeWeek": 931,
-    "timeMonth": 1022,
+    "timeMonth": 1017,
     "timeYear": 1025,
     "dailyMinutesDown": {}
   },
@@ -773,7 +774,7 @@
     "time": 926,
     "timeDay": 1176,
     "timeWeek": 919,
-    "timeMonth": 918,
+    "timeMonth": 908,
     "timeYear": 926,
     "dailyMinutesDown": {
       "2022-02-01": 24
@@ -785,15 +786,15 @@
     "icon": "https://favicons.githubusercontent.com/youngdiscoverers.org.au",
     "slug": "young-discoverers",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "99.71%",
+    "uptimeYear": "99.72%",
     "time": 3980,
     "timeDay": 2838,
     "timeWeek": 3326,
-    "timeMonth": 3457,
+    "timeMonth": 3462,
     "timeYear": 3980,
     "dailyMinutesDown": {
       "2022-02-28": 30,
