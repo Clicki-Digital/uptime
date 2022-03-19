@@ -316,18 +316,20 @@
     "url": "https://eyrth.com",
     "icon": "https://favicons.githubusercontent.com/eyrth.com",
     "slug": "eyrth",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2664,
-    "timeDay": 2798,
-    "timeWeek": 2622,
-    "timeMonth": 2561,
-    "timeYear": 2664,
-    "dailyMinutesDown": {}
+    "time": 2854,
+    "timeDay": 10323,
+    "timeWeek": 4525,
+    "timeMonth": 3070,
+    "timeYear": 2854,
+    "dailyMinutesDown": {
+      "2022-03-19": 1
+    }
   },
   {
     "name": "Flameright",
@@ -728,18 +730,17 @@
     "icon": "https://favicons.githubusercontent.com/solomon.ninja",
     "slug": "solomon-ninja",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 2259,
     "timeDay": 2009,
     "timeWeek": 1796,
     "timeMonth": 2867,
     "timeYear": 2259,
     "dailyMinutesDown": {
-      "2022-03-19": 7,
       "2022-02-01": 24
     }
   },
