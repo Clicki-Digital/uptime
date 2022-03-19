@@ -316,19 +316,19 @@
     "url": "https://eyrth.com",
     "icon": "https://favicons.githubusercontent.com/eyrth.com",
     "slug": "eyrth",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2854,
-    "timeDay": 10323,
-    "timeWeek": 4525,
-    "timeMonth": 3070,
-    "timeYear": 2854,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 2849,
+    "timeDay": 7693,
+    "timeWeek": 4293,
+    "timeMonth": 3050,
+    "timeYear": 2849,
     "dailyMinutesDown": {
-      "2022-03-19": 1
+      "2022-03-19": 7
     }
   },
   {
