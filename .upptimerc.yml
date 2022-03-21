@@ -142,6 +142,20 @@ sites:
       - 0
       - 200
       - 201
+  - name: HopeAlley
+    url: https://hhopealley.com
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
+  - name: HopeAlley Ecards
+    url: https://hhopealley.com/ecards
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Ian Slack
     url: https://ianslack.com.au
     maxResponseTime: 5000
