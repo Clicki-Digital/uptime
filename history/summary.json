@@ -122,19 +122,19 @@
     "url": "https://burdi.com.au",
     "icon": "https://favicons.githubusercontent.com/burdi.com.au",
     "slug": "burdi",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1713,
-    "timeDay": 8706,
-    "timeWeek": 5269,
-    "timeMonth": 3385,
-    "timeYear": 1713,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
+    "time": 1718,
+    "timeDay": 7043,
+    "timeWeek": 4947,
+    "timeMonth": 3344,
+    "timeYear": 1718,
     "dailyMinutesDown": {
-      "2022-03-21": 2
+      "2022-03-21": 29
     }
   },
   {
