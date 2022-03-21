@@ -143,14 +143,14 @@ sites:
       - 200
       - 201
   - name: HopeAlley
-    url: https://hhopealley.com
+    url: https://hopealley.com
     maxResponseTime: 5000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: HopeAlley Ecards
-    url: https://hhopealley.com/ecards
+    url: https://hopealley.com/ecards
     maxResponseTime: 5000
     expectedStatusCodes:
       - 0
