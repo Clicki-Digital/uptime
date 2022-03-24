@@ -179,7 +179,7 @@ sites:
       - 201
   - name: K-Thorne
     url: https://k-thorne.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -260,14 +260,14 @@ sites:
       - 201
   - name: OhDee
     url: https://ohdee.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: ODIGDesigns
     url: https://www.odigdesigns.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
