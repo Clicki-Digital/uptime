@@ -409,19 +409,19 @@
     "url": "https://hopealley.com/ecards",
     "icon": "https://favicons.githubusercontent.com/hopealley.com",
     "slug": "hope-alley-ecards",
-    "status": "degraded",
-    "uptime": "99.98%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1990,
-    "timeDay": 2906,
-    "timeWeek": 1990,
-    "timeMonth": 1990,
-    "timeYear": 1990,
+    "status": "up",
+    "uptime": "99.45%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.45%",
+    "time": 1919,
+    "timeDay": 2518,
+    "timeWeek": 1919,
+    "timeMonth": 1919,
+    "timeYear": 1919,
     "dailyMinutesDown": {
-      "2022-03-25": 2
+      "2022-03-25": 34
     }
   },
   {
