@@ -242,7 +242,7 @@ sites:
       - 200
       - 201
   - name: New Wave Construction
-   url: https://newwaveconstruction.com.au
+    url: https://newwaveconstruction.com.au
     maxResponseTime: 5000
     expectedStatusCodes:
       - 0
