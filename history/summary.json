@@ -370,19 +370,19 @@
     "url": "https://gracious5.com",
     "icon": "https://favicons.githubusercontent.com/gracious5.com",
     "slug": "gracious5",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 843,
-    "timeDay": 4560,
-    "timeWeek": 1732,
-    "timeMonth": 1002,
+    "timeDay": 3309,
+    "timeWeek": 1630,
+    "timeMonth": 995,
     "timeYear": 843,
     "dailyMinutesDown": {
-      "2022-08-16": 1
+      "2022-08-16": 15
     }
   },
   {
