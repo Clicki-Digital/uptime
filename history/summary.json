@@ -22,19 +22,19 @@
     "url": "https://allaccesselectrical.com.au",
     "icon": "https://favicons.githubusercontent.com/allaccesselectrical.com.au",
     "slug": "all-access-electrical",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1528,
-    "timeDay": 3523,
-    "timeWeek": 2024,
-    "timeMonth": 1675,
-    "timeYear": 1528,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.98%",
+    "time": 1532,
+    "timeDay": 2946,
+    "timeWeek": 1998,
+    "timeMonth": 1678,
+    "timeYear": 1532,
     "dailyMinutesDown": {
-      "2022-08-18": 2
+      "2022-08-18": 44
     }
   },
   {
