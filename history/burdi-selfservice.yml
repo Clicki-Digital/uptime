@@ -1,7 +1,7 @@
 url: https://manage.burdi.com.au
-status: down
-code: 502
-responseTime: 1125
-lastUpdated: 2022-10-26T08:19:51.995Z
+status: up
+code: 200
+responseTime: 2108
+lastUpdated: 2022-10-26T08:33:51.128Z
 startTime: Sat Jan 29 2022 13:42:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
