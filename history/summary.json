@@ -321,9 +321,9 @@
     "slug": "diverse-air-con-and-mechanical",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2545,
     "timeDay": 11731,
@@ -331,7 +331,6 @@
     "timeMonth": 3411,
     "timeYear": 2545,
     "dailyMinutesDown": {
-      "2022-11-05": 5,
       "2022-02-01": 27
     }
   },
@@ -877,8 +876,8 @@
     "status": "up",
     "uptime": "90.28%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "76.20%",
-    "uptimeMonth": "15.63%",
+    "uptimeWeek": "76.95%",
+    "uptimeMonth": "15.80%",
     "uptimeYear": "90.28%",
     "time": 3631,
     "timeDay": 3460,
