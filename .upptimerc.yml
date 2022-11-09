@@ -87,7 +87,7 @@ sites:
       - 200
       - 201
   - name: Clare Page Photography
-    url: https://clarepage.clicki.digital/
+    url: https://clarepagephotography.com/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 0
