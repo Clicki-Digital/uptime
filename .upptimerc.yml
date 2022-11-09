@@ -308,7 +308,7 @@ sites:
   #   url: https://tedxycyw.com
   #   maxResponseTime: 10000
   - name: VetAnswers
-   url: https://vetanswers.com.au
+    url: https://vetanswers.com.au
     maxResponseTime: 5000
     expectedStatusCodes:
       - 0
