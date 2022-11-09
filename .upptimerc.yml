@@ -307,9 +307,9 @@ sites:
   # - name: TEDx CYW
   #   url: https://tedxycyw.com
   #   maxResponseTime: 10000
-  #- name: VetAnswers
-   # url: https://vetanswers.com.au
-    #maxResponseTime: 5000
+  - name: VetAnswers
+   url: https://vetanswers.com.au
+    maxResponseTime: 5000
   - name: Worship Ministries International
     url: https://worshipministriesinternational.com	
     maxResponseTime: 5000
