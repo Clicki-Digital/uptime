@@ -418,19 +418,19 @@
     "url": "https://hopealley.com",
     "icon": "https://icons.duckduckgo.com/ip3/hopealley.com.ico",
     "slug": "hope-alley",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1968,
-    "timeDay": 4516,
-    "timeWeek": 2304,
-    "timeMonth": 2088,
-    "timeYear": 1968,
+    "time": 1964,
+    "timeDay": 3483,
+    "timeWeek": 2206,
+    "timeMonth": 2068,
+    "timeYear": 1964,
     "dailyMinutesDown": {
-      "2022-12-07": 2
+      "2022-12-07": 6
     }
   },
   {
