@@ -418,18 +418,20 @@
     "url": "https://hopealley.com",
     "icon": "https://icons.duckduckgo.com/ip3/hopealley.com.ico",
     "slug": "hope-alley",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1939,
-    "timeDay": 2538,
-    "timeWeek": 1706,
-    "timeMonth": 1946,
-    "timeYear": 1939,
-    "dailyMinutesDown": {}
+    "time": 1968,
+    "timeDay": 4516,
+    "timeWeek": 2304,
+    "timeMonth": 2088,
+    "timeYear": 1968,
+    "dailyMinutesDown": {
+      "2022-12-07": 2
+    }
   },
   {
     "name": "HopeAlley Ecards",
