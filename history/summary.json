@@ -64,19 +64,19 @@
     "url": "https://ausourceintl.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/ausourceintl.com.au.ico",
     "slug": "ausource-international",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1636,
-    "timeDay": 6314,
-    "timeWeek": 3074,
-    "timeMonth": 1938,
-    "timeYear": 1636,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 1637,
+    "timeDay": 5427,
+    "timeWeek": 2982,
+    "timeMonth": 1936,
+    "timeYear": 1637,
     "dailyMinutesDown": {
-      "2022-12-07": 2
+      "2022-12-07": 29
     }
   },
   {
