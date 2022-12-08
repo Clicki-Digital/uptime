@@ -554,19 +554,19 @@
     "url": "https://lilfi.com",
     "icon": "https://icons.duckduckgo.com/ip3/lilfi.com.ico",
     "slug": "lil-fi",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1186,
-    "timeDay": 797,
-    "timeWeek": 727,
-    "timeMonth": 705,
-    "timeYear": 1186,
+    "time": 1194,
+    "timeDay": 1549,
+    "timeWeek": 986,
+    "timeMonth": 776,
+    "timeYear": 1194,
     "dailyMinutesDown": {
-      "2022-12-08": 1
+      "2022-12-08": 7
     }
   },
   {
