@@ -64,18 +64,19 @@
     "url": "https://ausourceintl.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/ausourceintl.com.au.ico",
     "slug": "ausource-international",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.71%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 1632,
-    "timeDay": 484,
-    "timeWeek": 2809,
-    "timeMonth": 1957,
-    "timeYear": 1632,
+    "time": 1684,
+    "timeDay": 7555,
+    "timeWeek": 3540,
+    "timeMonth": 2279,
+    "timeYear": 1684,
     "dailyMinutesDown": {
+      "2022-12-10": 2,
       "2022-12-07": 29
     }
   },
@@ -326,9 +327,9 @@
     "slug": "diverse-air-con-and-mechanical",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2894,
     "timeDay": 5984,
@@ -336,7 +337,6 @@
     "timeMonth": 4816,
     "timeYear": 2894,
     "dailyMinutesDown": {
-      "2022-12-10": 7,
       "2022-02-01": 27
     }
   },
