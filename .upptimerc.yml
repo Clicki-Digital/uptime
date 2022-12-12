@@ -129,13 +129,6 @@ sites:
       - 0
       - 200
       - 201
-  - name: Flameright
-    url: https://flameright.com.au
-    maxResponseTime: 5000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Gracious5
     url: https://gracious5.com
     maxResponseTime: 5000
