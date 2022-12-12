@@ -315,7 +315,7 @@ sites:
   - name: Stone Creative Group
     url: https://scg.clicki.digital
     #url: https://www.stonecreative.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
