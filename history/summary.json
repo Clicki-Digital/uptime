@@ -401,19 +401,19 @@
     "url": "https://heritageoffaith.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/heritageoffaith.com.au.ico",
     "slug": "heritage-of-faith-christian-church-gold-coast",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
-    "time": 3021,
-    "timeDay": 5156,
-    "timeWeek": 4029,
-    "timeMonth": 3325,
-    "timeYear": 3021,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "95.66%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.99%",
+    "time": 3026,
+    "timeDay": 4947,
+    "timeWeek": 4037,
+    "timeMonth": 3348,
+    "timeYear": 3026,
     "dailyMinutesDown": {
-      "2022-12-13": 21
+      "2022-12-13": 62
     }
   },
   {
