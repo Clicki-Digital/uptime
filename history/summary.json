@@ -403,9 +403,9 @@
     "slug": "heritage-of-faith-christian-church-gold-coast",
     "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 3021,
     "timeDay": 5156,
@@ -413,7 +413,7 @@
     "timeMonth": 3325,
     "timeYear": 3021,
     "dailyMinutesDown": {
-      "2022-12-13": 2
+      "2022-12-13": 21
     }
   },
   {
@@ -496,19 +496,19 @@
     "url": "https://jsmiaustralia.org",
     "icon": "https://icons.duckduckgo.com/ip3/jsmiaustralia.org.ico",
     "slug": "jerry-savelle-ministries-international-australia",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3004,
-    "timeDay": 4530,
-    "timeWeek": 4019,
-    "timeMonth": 3488,
-    "timeYear": 3004,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 3006,
+    "timeDay": 4300,
+    "timeWeek": 3960,
+    "timeMonth": 3485,
+    "timeYear": 3006,
     "dailyMinutesDown": {
-      "2022-12-13": 1,
+      "2022-12-13": 19,
       "2022-02-22": 18
     }
   },
