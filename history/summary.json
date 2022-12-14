@@ -352,7 +352,7 @@
     "time": 2964,
     "timeDay": 0,
     "timeWeek": 5248,
-    "timeMonth": 4689,
+    "timeMonth": 4779,
     "timeYear": 2964,
     "dailyMinutesDown": {
       "2022-02-01": 27
@@ -401,19 +401,19 @@
     "url": "https://heritageoffaith.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/heritageoffaith.com.au.ico",
     "slug": "heritage-of-faith-christian-church-gold-coast",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.83%",
-    "uptimeDay": "45.44%",
-    "uptimeWeek": "92.21%",
-    "uptimeMonth": "98.21%",
+    "uptimeDay": "45.33%",
+    "uptimeWeek": "92.19%",
+    "uptimeMonth": "98.20%",
     "uptimeYear": "99.83%",
-    "time": 3517,
-    "timeDay": 5658,
-    "timeWeek": 5373,
-    "timeMonth": 4779,
-    "timeYear": 3517,
+    "time": 3530,
+    "timeDay": 5688,
+    "timeWeek": 5404,
+    "timeMonth": 4809,
+    "timeYear": 3530,
     "dailyMinutesDown": {
-      "2022-12-14": 247,
+      "2022-12-14": 249,
       "2022-12-13": 540
     }
   },
@@ -950,9 +950,9 @@
     "slug": "worship-ministries-international",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1036,
     "timeDay": 3487,
@@ -960,7 +960,6 @@
     "timeMonth": 1119,
     "timeYear": 1036,
     "dailyMinutesDown": {
-      "2022-12-14": 10,
       "2022-02-01": 24
     }
   },
