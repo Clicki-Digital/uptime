@@ -138,7 +138,7 @@ sites:
       - 201
   - name: Heritage of Faith Christian Church - Gold Coast
     url: https://heritageoffaith.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
