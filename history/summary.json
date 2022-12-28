@@ -405,7 +405,7 @@
     "status": "up",
     "uptime": "97.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.75%",
+    "uptimeWeek": "96.82%",
     "uptimeMonth": "75.08%",
     "uptimeYear": "97.72%",
     "time": 3841,
@@ -603,19 +603,19 @@
     "url": "https://thelocalpp.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/thelocalpp.com.au.ico",
     "slug": "the-local-paradise-point-the-local-pp",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1061,
-    "timeDay": 7014,
-    "timeWeek": 2527,
-    "timeMonth": 1398,
+    "timeDay": 4949,
+    "timeWeek": 2337,
+    "timeMonth": 1381,
     "timeYear": 1061,
     "dailyMinutesDown": {
-      "2022-12-28": 1
+      "2022-12-28": 7
     }
   },
   {
