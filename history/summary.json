@@ -105,19 +105,19 @@
     "url": "https://beulah.clicki.digital",
     "icon": "https://icons.duckduckgo.com/ip3/beulah.clicki.digital.ico",
     "slug": "beulah-revival-network",
-    "status": "degraded",
-    "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 3292,
-    "timeDay": 6122,
-    "timeWeek": 3861,
-    "timeMonth": 3292,
-    "timeYear": 3292,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 3211,
+    "timeDay": 4476,
+    "timeWeek": 3564,
+    "timeMonth": 3211,
+    "timeYear": 3211,
     "dailyMinutesDown": {
-      "2023-01-04": 2
+      "2023-01-04": 8
     }
   },
   {
