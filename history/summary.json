@@ -64,19 +64,19 @@
     "url": "https://ausourceintl.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/ausourceintl.com.au.ico",
     "slug": "ausource-international",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 1831,
-    "timeDay": 615,
-    "timeWeek": 1776,
-    "timeMonth": 2353,
-    "timeYear": 1831,
+    "time": 1837,
+    "timeDay": 1616,
+    "timeWeek": 1981,
+    "timeMonth": 2387,
+    "timeYear": 1837,
     "dailyMinutesDown": {
-      "2023-01-14": 2,
+      "2023-01-14": 9,
       "2022-12-07": 29
     }
   },
@@ -87,9 +87,9 @@
     "slug": "australian-anti-ice-campaign",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 1415,
     "timeDay": 992,
@@ -97,7 +97,7 @@
     "timeMonth": 1584,
     "timeYear": 1415,
     "dailyMinutesDown": {
-      "2023-01-14": 2,
+      "2023-01-14": 11,
       "2022-02-04": 32,
       "2022-01-30": 16
     }
@@ -244,9 +244,9 @@
     "slug": "chariots-of-light-australia",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "84.92%",
-    "uptimeWeek": "97.85%",
-    "uptimeMonth": "99.50%",
+    "uptimeDay": "84.30%",
+    "uptimeWeek": "97.76%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "99.94%",
     "time": 1930,
     "timeDay": 1139,
@@ -254,7 +254,7 @@
     "timeMonth": 1157,
     "timeYear": 1930,
     "dailyMinutesDown": {
-      "2023-01-14": 217,
+      "2023-01-14": 226,
       "2022-02-02": 96
     }
   },
@@ -349,9 +349,9 @@
     "slug": "diverse-air-con-and-mechanical",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 3263,
     "timeDay": 1570,
@@ -359,7 +359,7 @@
     "timeMonth": 4571,
     "timeYear": 3263,
     "dailyMinutesDown": {
-      "2023-01-14": 1,
+      "2023-01-14": 10,
       "2022-02-01": 27
     }
   },
@@ -410,7 +410,7 @@
     "uptime": "97.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "78.09%",
+    "uptimeMonth": "78.11%",
     "uptimeYear": "97.83%",
     "time": 4161,
     "timeDay": 8185,
@@ -437,9 +437,9 @@
     "slug": "hope-alley",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1980,
     "timeDay": 1541,
@@ -447,7 +447,7 @@
     "timeMonth": 2048,
     "timeYear": 1980,
     "dailyMinutesDown": {
-      "2023-01-14": 1
+      "2023-01-14": 10
     }
   },
   {
@@ -456,18 +456,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hopealley.com.ico",
     "slug": "hope-alley-ecards",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1773,
     "timeDay": 1085,
     "timeWeek": 1601,
     "timeMonth": 1630,
     "timeYear": 1773,
     "dailyMinutesDown": {
-      "2023-01-14": 1,
+      "2023-01-14": 10,
       "2022-03-30": 24,
       "2022-03-25": 34
     }
@@ -515,9 +515,9 @@
     "slug": "jerry-savelle-ministries-international-australia",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 3010,
     "timeDay": 1832,
@@ -525,7 +525,7 @@
     "timeMonth": 3039,
     "timeYear": 3010,
     "dailyMinutesDown": {
-      "2023-01-14": 1,
+      "2023-01-14": 10,
       "2022-12-13": 19,
       "2022-02-22": 18
     }
@@ -596,9 +596,9 @@
     "slug": "living-word-church",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1135,
     "timeDay": 1524,
@@ -606,7 +606,7 @@
     "timeMonth": 2239,
     "timeYear": 1135,
     "dailyMinutesDown": {
-      "2023-01-14": 1
+      "2023-01-14": 10
     }
   },
   {
