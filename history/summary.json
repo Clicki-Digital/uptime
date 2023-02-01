@@ -106,18 +106,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/beulah.clicki.digital.ico",
     "slug": "beulah-revival-network",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.89%",
+    "uptimeDay": "94.35%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.89%",
     "time": 4288,
     "timeDay": 6046,
     "timeWeek": 4323,
     "timeMonth": 4837,
     "timeYear": 4288,
     "dailyMinutesDown": {
-      "2023-01-31": 20
+      "2023-02-01": 27,
+      "2023-01-31": 54
     }
   },
   {
@@ -242,18 +243,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/chariotsoflight.org.au.ico",
     "slug": "chariots-of-light-australia",
     "status": "up",
-    "uptime": "95.26%",
+    "uptime": "95.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "42.94%",
-    "uptimeYear": "95.23%",
+    "uptimeMonth": "42.78%",
+    "uptimeYear": "95.21%",
     "time": 1879,
     "timeDay": 0,
     "timeWeek": 1014,
     "timeMonth": 1114,
     "timeYear": 1747,
     "dailyMinutesDown": {
-      "2023-01-31": 1397,
+      "2023-02-01": 27,
+      "2023-01-31": 1440,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
       "2023-01-28": 1440,
@@ -373,8 +375,7 @@
     "timeMonth": 4450,
     "timeYear": 3259,
     "dailyMinutesDown": {
-      "2023-01-14": 16,
-      "2022-02-01": 27
+      "2023-01-14": 16
     }
   },
   {
@@ -393,9 +394,7 @@
     "timeWeek": 3179,
     "timeMonth": 2830,
     "timeYear": 2960,
-    "dailyMinutesDown": {
-      "2022-02-01": 26
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gracious5",
@@ -421,18 +420,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/heritageoffaith.com.au.ico",
     "slug": "heritage-of-faith-christian-church-gold-coast",
     "status": "up",
-    "uptime": "95.46%",
+    "uptime": "95.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "70.04%",
-    "uptimeYear": "95.43%",
+    "uptimeMonth": "69.88%",
+    "uptimeYear": "95.41%",
     "time": 4660,
     "timeDay": 0,
     "timeWeek": 7557,
     "timeMonth": 10485,
     "timeYear": 4730,
     "dailyMinutesDown": {
-      "2023-01-31": 1397,
+      "2023-02-01": 28,
+      "2023-01-31": 1440,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
       "2023-01-28": 1440,
@@ -521,18 +521,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/iwmaus.com.au.ico",
     "slug": "independent-wealth-management-australia",
     "status": "up",
-    "uptime": "98.19%",
+    "uptime": "98.18%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "5.18%",
-    "uptimeMonth": "78.18%",
-    "uptimeYear": "98.18%",
+    "uptimeWeek": "4.48%",
+    "uptimeMonth": "78.02%",
+    "uptimeYear": "98.17%",
     "time": 1699,
     "timeDay": 0,
     "timeWeek": 1354,
     "timeMonth": 1318,
     "timeYear": 1669,
     "dailyMinutesDown": {
-      "2023-01-31": 1398,
+      "2023-02-01": 28,
+      "2023-01-31": 1440,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
       "2023-01-28": 1440,
@@ -582,8 +583,7 @@
     "dailyMinutesDown": {
       "2022-03-23": 37,
       "2022-03-06": 72,
-      "2022-03-01": 56,
-      "2022-02-01": 26
+      "2022-03-01": 56
     }
   },
   {
@@ -732,8 +732,7 @@
     "timeYear": 2310,
     "dailyMinutesDown": {
       "2022-03-05": 45,
-      "2022-03-04": 66,
-      "2022-02-01": 25
+      "2022-03-04": 66
     }
   },
   {
@@ -861,8 +860,7 @@
     "timeMonth": 3821,
     "timeYear": 3870,
     "dailyMinutesDown": {
-      "2022-03-23": 16,
-      "2022-02-01": 25
+      "2022-03-23": 16
     }
   },
   {
@@ -953,9 +951,7 @@
     "timeWeek": 1413,
     "timeMonth": 1516,
     "timeYear": 2022,
-    "dailyMinutesDown": {
-      "2022-02-01": 24
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Swell Plumbing and Gas",
@@ -1011,9 +1007,7 @@
     "timeWeek": 2449,
     "timeMonth": 1358,
     "timeYear": 1073,
-    "dailyMinutesDown": {
-      "2022-02-01": 24
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Young Discoverers",
