@@ -52,7 +52,7 @@
     "timeDay": 678,
     "timeWeek": 620,
     "timeMonth": 659,
-    "timeYear": 2573,
+    "timeYear": 2575,
     "dailyMinutesDown": {
       "2022-03-01": 23,
       "2022-02-27": 77,
@@ -74,7 +74,7 @@
     "timeDay": 2456,
     "timeWeek": 2928,
     "timeMonth": 2038,
-    "timeYear": 1862,
+    "timeYear": 1863,
     "dailyMinutesDown": {
       "2022-12-07": 29
     }
@@ -94,7 +94,7 @@
     "timeDay": 1363,
     "timeWeek": 1247,
     "timeMonth": 1331,
-    "timeYear": 1391,
+    "timeYear": 1392,
     "dailyMinutesDown": {
       "2023-01-14": 16
     }
@@ -104,19 +104,19 @@
     "url": "https://beulah.clicki.digital",
     "icon": "https://icons.duckduckgo.com/ip3/beulah.clicki.digital.ico",
     "slug": "beulah-revival-network",
-    "status": "up",
-    "uptime": "92.50%",
+    "status": "degraded",
+    "uptime": "91.53%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "42.06%",
-    "uptimeMonth": "86.67%",
-    "uptimeYear": "92.50%",
-    "time": 4264,
-    "timeDay": 3744,
-    "timeWeek": 4388,
-    "timeMonth": 4863,
-    "timeYear": 4264,
+    "uptimeWeek": "33.82%",
+    "uptimeMonth": "84.77%",
+    "uptimeYear": "91.53%",
+    "time": 4366,
+    "timeDay": 7811,
+    "timeWeek": 5221,
+    "timeMonth": 5009,
+    "timeYear": 4366,
     "dailyMinutesDown": {
-      "2023-02-05": 26,
+      "2023-02-05": 857,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
@@ -139,7 +139,7 @@
     "timeDay": 2628,
     "timeWeek": 3152,
     "timeMonth": 4175,
-    "timeYear": 2115,
+    "timeYear": 2117,
     "dailyMinutesDown": {
       "2022-12-25": 31
     }
@@ -150,7 +150,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/burdi.com.au.ico",
     "slug": "burdi",
     "status": "up",
-    "uptime": "97.65%",
+    "uptime": "97.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -159,7 +159,7 @@
     "timeDay": 1184,
     "timeWeek": 1005,
     "timeMonth": 1029,
-    "timeYear": 2619,
+    "timeYear": 2627,
     "dailyMinutesDown": {
       "2022-07-29": 1373,
       "2022-07-28": 1440,
@@ -216,7 +216,7 @@
     "timeDay": 3573,
     "timeWeek": 3599,
     "timeMonth": 3362,
-    "timeYear": 1519,
+    "timeYear": 1520,
     "dailyMinutesDown": {
       "2022-07-21": 13
     }
@@ -245,18 +245,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/chariotsoflight.org.au.ico",
     "slug": "chariots-of-light-australia",
     "status": "up",
-    "uptime": "94.22%",
+    "uptime": "94.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "29.64%",
-    "uptimeYear": "94.14%",
+    "uptimeMonth": "27.74%",
+    "uptimeYear": "93.98%",
     "time": 1867,
     "timeDay": 1235,
     "timeWeek": 981,
     "timeMonth": 1091,
-    "timeYear": 1718,
+    "timeYear": 1713,
     "dailyMinutesDown": {
-      "2023-02-05": 26,
+      "2023-02-05": 857,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
@@ -296,7 +296,7 @@
     "timeDay": 1335,
     "timeWeek": 1391,
     "timeMonth": 1682,
-    "timeYear": 1476,
+    "timeYear": 1478,
     "dailyMinutesDown": {}
   },
   {
@@ -334,7 +334,7 @@
     "timeDay": 1219,
     "timeWeek": 1230,
     "timeMonth": 1443,
-    "timeYear": 1360,
+    "timeYear": 1358,
     "dailyMinutesDown": {
       "2022-12-01": 27
     }
@@ -374,7 +374,7 @@
     "timeDay": 2129,
     "timeWeek": 4540,
     "timeMonth": 4549,
-    "timeYear": 3320,
+    "timeYear": 3323,
     "dailyMinutesDown": {
       "2023-01-14": 16
     }
@@ -394,7 +394,7 @@
     "timeDay": 3031,
     "timeWeek": 2842,
     "timeMonth": 2821,
-    "timeYear": 2939,
+    "timeYear": 2944,
     "dailyMinutesDown": {}
   },
   {
@@ -421,18 +421,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/heritageoffaith.com.au.ico",
     "slug": "heritage-of-faith-christian-church-gold-coast",
     "status": "up",
-    "uptime": "94.42%",
+    "uptime": "94.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "56.73%",
-    "uptimeYear": "94.32%",
+    "uptimeMonth": "54.83%",
+    "uptimeYear": "94.16%",
     "time": 4682,
     "timeDay": 6513,
     "timeWeek": 6880,
     "timeMonth": 10428,
-    "timeYear": 4767,
+    "timeYear": 4773,
     "dailyMinutesDown": {
-      "2023-02-05": 26,
+      "2023-02-05": 857,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
@@ -526,18 +526,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/iwmaus.com.au.ico",
     "slug": "independent-wealth-management-australia",
     "status": "up",
-    "uptime": "97.12%",
+    "uptime": "96.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "64.87%",
-    "uptimeYear": "97.07%",
+    "uptimeMonth": "62.98%",
+    "uptimeYear": "96.91%",
     "time": 1692,
     "timeDay": 1318,
     "timeWeek": 1181,
     "timeMonth": 1283,
-    "timeYear": 1641,
+    "timeYear": 1639,
     "dailyMinutesDown": {
-      "2023-02-05": 27,
+      "2023-02-05": 857,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
@@ -566,7 +566,7 @@
     "timeDay": 3473,
     "timeWeek": 2994,
     "timeMonth": 3015,
-    "timeYear": 3041,
+    "timeYear": 3040,
     "dailyMinutesDown": {
       "2023-01-14": 16,
       "2022-12-13": 19,
@@ -588,7 +588,7 @@
     "timeDay": 3461,
     "timeWeek": 3024,
     "timeMonth": 3402,
-    "timeYear": 3387,
+    "timeYear": 3389,
     "dailyMinutesDown": {
       "2022-03-23": 37,
       "2022-03-06": 72,
@@ -628,7 +628,7 @@
     "timeDay": 855,
     "timeWeek": 787,
     "timeMonth": 847,
-    "timeYear": 1068,
+    "timeYear": 1066,
     "dailyMinutesDown": {}
   },
   {
@@ -684,7 +684,7 @@
     "timeDay": 893,
     "timeWeek": 811,
     "timeMonth": 908,
-    "timeYear": 897,
+    "timeYear": 896,
     "dailyMinutesDown": {}
   },
   {
@@ -702,7 +702,7 @@
     "timeDay": 1017,
     "timeWeek": 1012,
     "timeMonth": 1036,
-    "timeYear": 1118,
+    "timeYear": 1117,
     "dailyMinutesDown": {}
   },
   {
@@ -720,7 +720,7 @@
     "timeDay": 961,
     "timeWeek": 882,
     "timeMonth": 1878,
-    "timeYear": 1205,
+    "timeYear": 1204,
     "dailyMinutesDown": {}
   },
   {
@@ -738,7 +738,7 @@
     "timeDay": 1317,
     "timeWeek": 2973,
     "timeMonth": 1812,
-    "timeYear": 2345,
+    "timeYear": 2347,
     "dailyMinutesDown": {
       "2022-03-05": 45,
       "2022-03-04": 66
@@ -777,7 +777,7 @@
     "timeDay": 854,
     "timeWeek": 779,
     "timeMonth": 852,
-    "timeYear": 898,
+    "timeYear": 897,
     "dailyMinutesDown": {}
   },
   {
@@ -867,7 +867,7 @@
     "timeDay": 8536,
     "timeWeek": 5273,
     "timeMonth": 4166,
-    "timeYear": 3941,
+    "timeYear": 3949,
     "dailyMinutesDown": {
       "2022-03-23": 16
     }
@@ -923,7 +923,7 @@
     "timeDay": 758,
     "timeWeek": 694,
     "timeMonth": 804,
-    "timeYear": 794,
+    "timeYear": 793,
     "dailyMinutesDown": {}
   },
   {
@@ -959,7 +959,7 @@
     "timeDay": 1598,
     "timeWeek": 1377,
     "timeMonth": 1479,
-    "timeYear": 2012,
+    "timeYear": 2014,
     "dailyMinutesDown": {}
   },
   {
@@ -977,7 +977,7 @@
     "timeDay": 1027,
     "timeWeek": 935,
     "timeMonth": 992,
-    "timeYear": 1141,
+    "timeYear": 1140,
     "dailyMinutesDown": {
       "2022-08-22": 228
     }
@@ -1015,7 +1015,7 @@
     "timeDay": 1007,
     "timeWeek": 905,
     "timeMonth": 1335,
-    "timeYear": 1075,
+    "timeYear": 1074,
     "dailyMinutesDown": {}
   },
   {
@@ -1024,7 +1024,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/youngdiscoverers.org.au.ico",
     "slug": "young-discoverers",
     "status": "up",
-    "uptime": "92.66%",
+    "uptime": "92.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
