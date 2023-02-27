@@ -353,7 +353,7 @@ sites:
       - 201
   - name: Young Discoverers
     url: https://youngdiscoverers.org.au	
-    maxResponseTime: 5000
+    maxResponseTime: 15000
     expectedStatusCodes:
       - 0
       - 200
