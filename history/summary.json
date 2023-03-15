@@ -14,7 +14,7 @@
     "timeDay": 999,
     "timeWeek": 1063,
     "timeMonth": 1047,
-    "timeYear": 1035,
+    "timeYear": 1034,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 1145,
     "timeWeek": 1215,
     "timeMonth": 1199,
-    "timeYear": 1368,
+    "timeYear": 1367,
     "dailyMinutesDown": {
       "2022-08-18": 44
     }
@@ -52,7 +52,7 @@
     "timeDay": 628,
     "timeWeek": 675,
     "timeMonth": 670,
-    "timeYear": 2286,
+    "timeYear": 2289,
     "dailyMinutesDown": {}
   },
   {
@@ -90,7 +90,7 @@
     "timeDay": 1295,
     "timeWeek": 1338,
     "timeMonth": 1386,
-    "timeYear": 1402,
+    "timeYear": 1400,
     "dailyMinutesDown": {
       "2023-01-14": 16
     }
@@ -139,7 +139,7 @@
     "timeDay": 7410,
     "timeWeek": 5600,
     "timeMonth": 4327,
-    "timeYear": 2678,
+    "timeYear": 2682,
     "dailyMinutesDown": {
       "2023-03-14": 18,
       "2023-02-08": 22,
@@ -161,7 +161,7 @@
     "timeDay": 961,
     "timeWeek": 1058,
     "timeMonth": 1004,
-    "timeYear": 2566,
+    "timeYear": 2564,
     "dailyMinutesDown": {
       "2022-07-29": 1373,
       "2022-07-28": 1440,
@@ -183,19 +183,19 @@
     "url": "https://manage.burdi.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/manage.burdi.com.au.ico",
     "slug": "burdi-selfservice",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "67.80%",
-    "uptimeWeek": "95.40%",
-    "uptimeMonth": "98.94%",
-    "uptimeYear": "99.89%",
-    "time": 2047,
-    "timeDay": 12779,
-    "timeWeek": 8893,
-    "timeMonth": 4577,
-    "timeYear": 2070,
+    "uptimeDay": "67.46%",
+    "uptimeWeek": "95.35%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "99.88%",
+    "time": 2052,
+    "timeDay": 11897,
+    "timeWeek": 8564,
+    "timeMonth": 4561,
+    "timeYear": 2077,
     "dailyMinutesDown": {
-      "2023-03-15": 464,
+      "2023-03-15": 469,
       "2022-11-16": 17,
       "2022-11-08": 17,
       "2022-11-02": 20,
@@ -219,7 +219,7 @@
     "timeDay": 3569,
     "timeWeek": 2697,
     "timeMonth": 2963,
-    "timeYear": 1960,
+    "timeYear": 1966,
     "dailyMinutesDown": {
       "2023-02-07": 30,
       "2022-07-21": 13
@@ -240,7 +240,7 @@
     "timeDay": 717,
     "timeWeek": 782,
     "timeMonth": 830,
-    "timeYear": 1124,
+    "timeYear": 1121,
     "dailyMinutesDown": {}
   },
   {
@@ -250,17 +250,17 @@
     "slug": "chariots-of-light-australia",
     "status": "up",
     "uptime": "85.28%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.01%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "83.47%",
     "time": 1785,
     "timeDay": 1005,
     "timeWeek": 1036,
     "timeMonth": 1051,
-    "timeYear": 1355,
+    "timeYear": 1344,
     "dailyMinutesDown": {
-      "2023-03-15": 1377,
+      "2023-03-15": 1383,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
       "2023-03-12": 1440,
@@ -338,7 +338,7 @@
     "timeDay": 1514,
     "timeWeek": 1619,
     "timeMonth": 1807,
-    "timeYear": 1618,
+    "timeYear": 1621,
     "dailyMinutesDown": {}
   },
   {
@@ -396,7 +396,7 @@
     "timeDay": 1342,
     "timeWeek": 1251,
     "timeMonth": 1270,
-    "timeYear": 1497,
+    "timeYear": 1498,
     "dailyMinutesDown": {
       "2022-12-12": 19
     }
@@ -416,7 +416,7 @@
     "timeDay": 4692,
     "timeWeek": 4286,
     "timeMonth": 4856,
-    "timeYear": 3757,
+    "timeYear": 3763,
     "dailyMinutesDown": {
       "2023-01-14": 16
     }
@@ -436,7 +436,7 @@
     "timeDay": 3392,
     "timeWeek": 3395,
     "timeMonth": 3198,
-    "timeYear": 2993,
+    "timeYear": 3001,
     "dailyMinutesDown": {
       "2023-03-14": 25,
       "2023-02-15": 21
@@ -475,7 +475,7 @@
     "timeDay": 5930,
     "timeWeek": 7198,
     "timeMonth": 7771,
-    "timeYear": 5341,
+    "timeYear": 5348,
     "dailyMinutesDown": {
       "2023-02-05": 1397,
       "2023-02-04": 1440,
@@ -563,7 +563,7 @@
     "timeDay": 1473,
     "timeWeek": 1599,
     "timeMonth": 1613,
-    "timeYear": 1658,
+    "timeYear": 1659,
     "dailyMinutesDown": {}
   },
   {
@@ -575,7 +575,7 @@
     "uptime": "89.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "32.53%",
+    "uptimeMonth": "32.55%",
     "uptimeYear": "88.45%",
     "time": 1692,
     "timeDay": 1259,
@@ -643,7 +643,7 @@
     "timeDay": 3161,
     "timeWeek": 4248,
     "timeMonth": 3453,
-    "timeYear": 3092,
+    "timeYear": 3088,
     "dailyMinutesDown": {
       "2023-03-09": 19,
       "2023-01-14": 16,
@@ -665,7 +665,7 @@
     "timeDay": 3352,
     "timeWeek": 3387,
     "timeMonth": 3476,
-    "timeYear": 3314,
+    "timeYear": 3318,
     "dailyMinutesDown": {
       "2022-03-23": 37
     }
@@ -703,7 +703,7 @@
     "timeDay": 963,
     "timeWeek": 994,
     "timeMonth": 892,
-    "timeYear": 943,
+    "timeYear": 939,
     "dailyMinutesDown": {}
   },
   {
@@ -721,7 +721,7 @@
     "timeDay": 1918,
     "timeWeek": 2007,
     "timeMonth": 2595,
-    "timeYear": 1465,
+    "timeYear": 1466,
     "dailyMinutesDown": {
       "2023-01-14": 16
     }
@@ -759,7 +759,7 @@
     "timeDay": 854,
     "timeWeek": 873,
     "timeMonth": 869,
-    "timeYear": 879,
+    "timeYear": 878,
     "dailyMinutesDown": {}
   },
   {
@@ -851,7 +851,7 @@
     "timeDay": 874,
     "timeWeek": 864,
     "timeMonth": 981,
-    "timeYear": 892,
+    "timeYear": 890,
     "dailyMinutesDown": {
       "2023-02-24": 48,
       "2023-02-23": 1440,
@@ -873,7 +873,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1318,
-    "timeYear": 1063,
+    "timeYear": 1064,
     "dailyMinutesDown": {}
   },
   {
@@ -945,7 +945,7 @@
     "timeDay": 8916,
     "timeWeek": 5824,
     "timeMonth": 7192,
-    "timeYear": 4712,
+    "timeYear": 4720,
     "dailyMinutesDown": {
       "2022-03-23": 16
     }
@@ -965,7 +965,7 @@
     "timeDay": 837,
     "timeWeek": 898,
     "timeMonth": 908,
-    "timeYear": 926,
+    "timeYear": 927,
     "dailyMinutesDown": {}
   },
   {
@@ -1055,7 +1055,7 @@
     "timeDay": 1164,
     "timeWeek": 1245,
     "timeMonth": 1272,
-    "timeYear": 1175,
+    "timeYear": 1174,
     "dailyMinutesDown": {
       "2023-03-06": 17,
       "2022-08-22": 228
@@ -1094,7 +1094,7 @@
     "timeDay": 953,
     "timeWeek": 1000,
     "timeMonth": 983,
-    "timeYear": 1087,
+    "timeYear": 1086,
     "dailyMinutesDown": {}
   },
   {
@@ -1112,7 +1112,7 @@
     "timeDay": 2218,
     "timeWeek": 2791,
     "timeMonth": 4817,
-    "timeYear": 3750,
+    "timeYear": 3751,
     "dailyMinutesDown": {
       "2023-02-27": 128,
       "2023-02-26": 130,
