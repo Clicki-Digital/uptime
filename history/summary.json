@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 1081,
     "timeMonth": 1028,
-    "timeYear": 1030,
+    "timeYear": 1029,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 0,
     "timeWeek": 1273,
     "timeMonth": 1198,
-    "timeYear": 1353,
+    "timeYear": 1351,
     "dailyMinutesDown": {
       "2022-08-18": 44
     }
@@ -52,7 +52,7 @@
     "timeDay": 0,
     "timeWeek": 710,
     "timeMonth": 662,
-    "timeYear": 2049,
+    "timeYear": 2045,
     "dailyMinutesDown": {}
   },
   {
@@ -70,7 +70,7 @@
     "timeDay": 0,
     "timeWeek": 1983,
     "timeMonth": 2005,
-    "timeYear": 2138,
+    "timeYear": 2139,
     "dailyMinutesDown": {
       "2022-12-07": 29
     }
@@ -140,7 +140,7 @@
     "timeDay": 6304,
     "timeWeek": 4575,
     "timeMonth": 4687,
-    "timeYear": 2880,
+    "timeYear": 2885,
     "dailyMinutesDown": {
       "2023-03-14": 18,
       "2023-02-08": 22,
@@ -162,7 +162,7 @@
     "timeDay": 0,
     "timeWeek": 1081,
     "timeMonth": 1004,
-    "timeYear": 2303,
+    "timeYear": 2299,
     "dailyMinutesDown": {
       "2022-07-29": 1373,
       "2022-07-28": 1440,
@@ -191,7 +191,7 @@
     "timeDay": 0,
     "timeWeek": 2020,
     "timeMonth": 5260,
-    "timeYear": 2305,
+    "timeYear": 2306,
     "dailyMinutesDown": {
       "2023-03-20": 21,
       "2023-03-19": 29,
@@ -221,7 +221,7 @@
     "timeDay": 0,
     "timeWeek": 2925,
     "timeMonth": 2814,
-    "timeYear": 2083,
+    "timeYear": 2086,
     "dailyMinutesDown": {
       "2023-02-07": 30,
       "2022-07-21": 13
@@ -242,7 +242,7 @@
     "timeDay": 0,
     "timeWeek": 881,
     "timeMonth": 809,
-    "timeYear": 1001,
+    "timeYear": 995,
     "dailyMinutesDown": {}
   },
   {
@@ -254,7 +254,7 @@
     "uptime": "85.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "50.66%",
+    "uptimeMonth": "50.69%",
     "uptimeYear": "83.47%",
     "time": 1759,
     "timeDay": 0,
@@ -467,19 +467,19 @@
     "url": "https://heritageoffaith.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/heritageoffaith.com.au.ico",
     "slug": "heritage-of-faith-christian-church-gold-coast",
-    "status": "up",
+    "status": "degraded",
     "uptime": "94.90%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "94.06%",
-    "time": 5066,
-    "timeDay": 12459,
-    "timeWeek": 8486,
-    "timeMonth": 7771,
-    "timeYear": 5590,
+    "time": 5080,
+    "timeDay": 12165,
+    "timeWeek": 8830,
+    "timeMonth": 7887,
+    "timeYear": 5607,
     "dailyMinutesDown": {
-      "2023-03-30": 6,
+      "2023-03-30": 2,
       "2023-02-05": 1397,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
@@ -576,7 +576,7 @@
     "uptime": "90.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.25%",
+    "uptimeMonth": "75.28%",
     "uptimeYear": "88.45%",
     "time": 1677,
     "timeDay": 0,
@@ -1101,7 +1101,7 @@
     "slug": "young-discoverers",
     "status": "up",
     "uptime": "93.52%",
-    "uptimeDay": "98.95%",
+    "uptimeDay": "99.87%",
     "uptimeWeek": "98.89%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "92.69%",
