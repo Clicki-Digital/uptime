@@ -110,7 +110,7 @@
     "time": 5548,
     "timeDay": 1750,
     "timeWeek": 1883,
-    "timeMonth": 6072,
+    "timeMonth": 5989,
     "timeYear": 5548,
     "dailyMinutesDown": {
       "2023-03-16": 33,
@@ -254,7 +254,7 @@
     "uptime": "86.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "67.96%",
+    "uptimeMonth": "67.98%",
     "uptimeYear": "83.47%",
     "time": 1745,
     "timeDay": 989,
@@ -417,7 +417,7 @@
     "time": 3575,
     "timeDay": 2631,
     "timeWeek": 3773,
-    "timeMonth": 5188,
+    "timeMonth": 5055,
     "timeYear": 3936,
     "dailyMinutesDown": {
       "2023-01-14": 16
@@ -430,9 +430,9 @@
     "slug": "ent-venture",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 3045,
     "timeDay": 4596,
@@ -440,7 +440,6 @@
     "timeMonth": 3423,
     "timeYear": 3053,
     "dailyMinutesDown": {
-      "2023-04-06": 8,
       "2023-03-14": 25,
       "2023-02-15": 21
     }
@@ -578,7 +577,7 @@
     "uptime": "90.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.55%",
+    "uptimeMonth": "92.57%",
     "uptimeYear": "88.45%",
     "time": 1671,
     "timeDay": 1255,
@@ -936,18 +935,20 @@
     "url": "https://www.odigdesigns.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/www.odigdesigns.com.au.ico",
     "slug": "odig-designs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4247,
-    "timeDay": 9198,
-    "timeWeek": 7372,
-    "timeMonth": 6821,
-    "timeYear": 4837,
-    "dailyMinutesDown": {}
+    "time": 4241,
+    "timeDay": 5656,
+    "timeWeek": 6715,
+    "timeMonth": 6664,
+    "timeYear": 4827,
+    "dailyMinutesDown": {
+      "2023-04-06": 1
+    }
   },
   {
     "name": "Omega Communication Services",
