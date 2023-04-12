@@ -254,7 +254,7 @@
     "uptime": "86.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.02%",
+    "uptimeMonth": "88.04%",
     "uptimeYear": "83.47%",
     "time": 1736,
     "timeDay": 1487,
@@ -430,9 +430,9 @@
     "slug": "ent-venture",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 3227,
     "timeDay": 7451,
@@ -440,7 +440,6 @@
     "timeMonth": 5038,
     "timeYear": 3296,
     "dailyMinutesDown": {
-      "2023-04-12": 6,
       "2023-03-14": 25,
       "2023-02-15": 21
     }
@@ -936,11 +935,11 @@
     "url": "https://www.odigdesigns.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/www.odigdesigns.com.au.ico",
     "slug": "odig-designs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 4289,
     "timeDay": 5276,
@@ -948,7 +947,7 @@
     "timeMonth": 6897,
     "timeYear": 4876,
     "dailyMinutesDown": {
-      "2023-04-12": 1
+      "2023-04-12": 7
     }
   },
   {
