@@ -254,7 +254,7 @@
     "uptime": "86.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.26%",
+    "uptimeMonth": "90.32%",
     "uptimeYear": "83.47%",
     "time": 1735,
     "timeDay": 1085,
@@ -536,9 +536,9 @@
     "slug": "hope-alley-ecards",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2066,
     "timeDay": 3612,
@@ -546,7 +546,6 @@
     "timeMonth": 2654,
     "timeYear": 2065,
     "dailyMinutesDown": {
-      "2023-04-12": 6,
       "2023-02-09": 23,
       "2023-01-14": 16
     }
