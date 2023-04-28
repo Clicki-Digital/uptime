@@ -731,19 +731,19 @@
     "url": "https://thelocalpp.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/thelocalpp.com.au.ico",
     "slug": "the-local-paradise-point-the-local-pp",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1130,
-    "timeDay": 9900,
-    "timeWeek": 3017,
+    "timeDay": 7056,
+    "timeWeek": 2834,
     "timeMonth": 1374,
-    "timeYear": 1184,
+    "timeYear": 1185,
     "dailyMinutesDown": {
-      "2023-04-28": 2
+      "2023-04-28": 6
     }
   },
   {
