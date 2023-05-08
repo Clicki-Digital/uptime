@@ -348,11 +348,11 @@
     "url": "https://clarepagephotography.com/",
     "icon": "https://icons.duckduckgo.com/ip3/clarepagephotography.com.ico",
     "slug": "clare-page-photography",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 3386,
     "timeDay": 4523,
@@ -360,7 +360,7 @@
     "timeMonth": 3837,
     "timeYear": 3386,
     "dailyMinutesDown": {
-      "2023-05-08": 22,
+      "2023-05-08": 33,
       "2022-07-27": 20
     }
   },
