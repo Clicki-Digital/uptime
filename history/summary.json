@@ -6,9 +6,9 @@
     "slug": "adam-brand-music",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 1078,
     "timeDay": 2400,
@@ -16,7 +16,7 @@
     "timeMonth": 1295,
     "timeYear": 1063,
     "dailyMinutesDown": {
-      "2023-05-09": 17
+      "2023-05-09": 26
     }
   },
   {
@@ -1087,19 +1087,19 @@
     "url": "https://worshipministriesinternational.com",
     "icon": "https://icons.duckduckgo.com/ip3/worshipministriesinternational.com.ico",
     "slug": "worship-ministries-international",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.37%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
-    "time": 1043,
-    "timeDay": 1330,
-    "timeWeek": 1036,
-    "timeMonth": 980,
-    "timeYear": 1072,
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 1044,
+    "timeDay": 1356,
+    "timeWeek": 1077,
+    "timeMonth": 993,
+    "timeYear": 1073,
     "dailyMinutesDown": {
-      "2023-05-09": 23
+      "2023-05-09": 31
     }
   },
   {
