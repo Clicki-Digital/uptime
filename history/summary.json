@@ -6,9 +6,9 @@
     "slug": "adam-brand-music",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1078,
     "timeDay": 2400,
@@ -16,7 +16,7 @@
     "timeMonth": 1295,
     "timeYear": 1063,
     "dailyMinutesDown": {
-      "2023-05-09": 1
+      "2023-05-09": 17
     }
   },
   {
@@ -133,19 +133,19 @@
     "url": "https://bksp.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/bksp.com.au.ico",
     "slug": "bookkeeper-to-the-smart-people",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.19%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
-    "time": 2822,
-    "timeDay": 4255,
-    "timeWeek": 4348,
-    "timeMonth": 4514,
-    "timeYear": 3221,
+    "time": 2825,
+    "timeDay": 4234,
+    "timeWeek": 4333,
+    "timeMonth": 4505,
+    "timeYear": 3224,
     "dailyMinutesDown": {
-      "2023-05-09": 26,
+      "2023-05-09": 40,
       "2023-03-14": 18,
       "2023-02-08": 22,
       "2022-12-25": 31
@@ -1088,10 +1088,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/worshipministriesinternational.com.ico",
     "slug": "worship-ministries-international",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 1043,
     "timeDay": 1330,
@@ -1099,7 +1099,7 @@
     "timeMonth": 980,
     "timeYear": 1072,
     "dailyMinutesDown": {
-      "2023-05-09": 8
+      "2023-05-09": 23
     }
   },
   {
