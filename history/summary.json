@@ -454,19 +454,19 @@
     "url": "https://gracious5.com",
     "icon": "https://icons.duckduckgo.com/ip3/gracious5.com.ico",
     "slug": "gracious5",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 916,
-    "timeDay": 652,
-    "timeWeek": 790,
-    "timeMonth": 818,
-    "timeYear": 954,
+    "time": 917,
+    "timeDay": 837,
+    "timeWeek": 836,
+    "timeMonth": 830,
+    "timeYear": 955,
     "dailyMinutesDown": {
-      "2023-05-10": 2
+      "2023-05-10": 7
     }
   },
   {
