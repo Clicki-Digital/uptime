@@ -940,19 +940,19 @@
     "url": "https://www.odigdesigns.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/www.odigdesigns.com.au.ico",
     "slug": "odig-designs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 4492,
-    "timeDay": 3872,
-    "timeWeek": 5744,
-    "timeMonth": 6435,
-    "timeYear": 5078,
+    "time": 4498,
+    "timeDay": 4977,
+    "timeWeek": 5875,
+    "timeMonth": 6457,
+    "timeYear": 5085,
     "dailyMinutesDown": {
-      "2023-05-16": 1
+      "2023-05-16": 6
     }
   },
   {
