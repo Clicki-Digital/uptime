@@ -1,7 +1,7 @@
 url: https://colstringer.com
-status: degraded
+status: down
 code: 500
-responseTime: 6108
-lastUpdated: 2023-05-20T04:43:45.468Z
+responseTime: 1840
+lastUpdated: 2023-05-20T04:50:17.614Z
 startTime: Sat Jan 29 2022 13:43:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
