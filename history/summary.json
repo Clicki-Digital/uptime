@@ -395,7 +395,7 @@
     "slug": "col-stringer",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "75.97%",
+    "uptimeDay": "76.21%",
     "uptimeWeek": "95.45%",
     "uptimeMonth": "98.89%",
     "uptimeYear": "99.90%",
@@ -438,9 +438,9 @@
     "slug": "ent-venture",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 3126,
     "timeDay": 894,
@@ -448,7 +448,7 @@
     "timeMonth": 1834,
     "timeYear": 3157,
     "dailyMinutesDown": {
-      "2023-05-21": 2,
+      "2023-05-21": 5,
       "2023-03-14": 25,
       "2023-02-15": 21
     }
