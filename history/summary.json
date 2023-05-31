@@ -1073,19 +1073,19 @@
     "url": "https://vetanswers.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/vetanswers.com.au.ico",
     "slug": "vet-answers",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1127,
-    "timeDay": 2143,
-    "timeWeek": 1241,
-    "timeMonth": 1398,
-    "timeYear": 1127,
+    "time": 1134,
+    "timeDay": 2264,
+    "timeWeek": 1382,
+    "timeMonth": 1430,
+    "timeYear": 1134,
     "dailyMinutesDown": {
-      "2023-05-31": 2
+      "2023-05-31": 12
     }
   },
   {
