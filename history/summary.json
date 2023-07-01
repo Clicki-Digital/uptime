@@ -821,36 +821,36 @@
     "slug": "moncai",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2193,
     "timeDay": 4218,
     "timeWeek": 2804,
     "timeMonth": 2225,
     "timeYear": 1807,
-    "dailyMinutesDown": {
-      "2023-07-01": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "New Wave Construction",
     "url": "https://newwaveconstruction.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/newwaveconstruction.com.au.ico",
     "slug": "new-wave-construction",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1647,
-    "timeDay": 3305,
-    "timeWeek": 2150,
-    "timeMonth": 1774,
-    "timeYear": 1647,
-    "dailyMinutesDown": {}
+    "time": 1676,
+    "timeDay": 5416,
+    "timeWeek": 3109,
+    "timeMonth": 2076,
+    "timeYear": 1676,
+    "dailyMinutesDown": {
+      "2023-07-01": 2
+    }
   },
   {
     "name": "NicNax",
