@@ -837,19 +837,19 @@
     "url": "https://newwaveconstruction.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/newwaveconstruction.com.au.ico",
     "slug": "new-wave-construction",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1676,
-    "timeDay": 5416,
-    "timeWeek": 3109,
-    "timeMonth": 2076,
-    "timeYear": 1676,
+    "time": 1677,
+    "timeDay": 4722,
+    "timeWeek": 3004,
+    "timeMonth": 2072,
+    "timeYear": 1677,
     "dailyMinutesDown": {
-      "2023-07-01": 2
+      "2023-07-01": 13
     }
   },
   {
