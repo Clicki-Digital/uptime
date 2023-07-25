@@ -38,8 +38,7 @@ sites:
       - 201
     maxResponseTime: 5000
   - name: Beulah Revival Network
-    url: https://beulah.clicki.digital
-    # url: https://beulah.net.au
+    url: https://beulah.net.au
     maxResponseTime: 5000
     expectedStatusCodes:
       - 0
@@ -129,8 +128,22 @@ sites:
       - 0
       - 200
       - 201
+  - name: Gary Rucci
+    url: https://garyrucci.clicki.digital/
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Gracious5
     url: https://gracious5.com
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
+  - name: Gold Coast Edge Protection
+    url: https://gcep.net.au
     maxResponseTime: 5000
     expectedStatusCodes:
       - 0
@@ -178,9 +191,23 @@ sites:
       - 0
       - 200
       - 201
+  - name: Jerry Savelle Ministries International Australia
+    url: https://portal.jsmiaustralia.org
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: K-Thorne
     url: https://k-thorne.com
     maxResponseTime: 30000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
+  - name: Keystone Leadership Group
+    url: https://keystoneleadership.com.au/
+    maxResponseTime: 5000
     expectedStatusCodes:
       - 0
       - 200
@@ -206,8 +233,15 @@ sites:
       - 0
       - 200
       - 201
-  - name: The Local Paradise Point (The Local PP)
-    url: https://thelocalpp.com.au
+  - name: Lee Meehan Roofing
+    url: https://lmr.net.au
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
+  - name: Legal Insite
+    url: https://legalinsite.clicki.digital
     maxResponseTime: 5000
     expectedStatusCodes:
       - 0
@@ -313,9 +347,8 @@ sites:
       - 200
       - 201
   - name: Stone Creative Group
-    url: https://scg.clicki.digital
-    #url: https://www.stonecreative.com.au
-    maxResponseTime: 10000
+    url: https://www.stonecreative.com.au
+    maxResponseTime: 5000
     expectedStatusCodes:
       - 0
       - 200
@@ -339,6 +372,20 @@ sites:
   #   maxResponseTime: 10000
   - name: VetAnswers
     url: https://vetanswers.com.au
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
+  - name: Waves Concrete Pumping
+    url: https://wavesconcretepumping.com.au
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
+  - name: Woman of Courage
+    url: https://womenofcourageaustralia.com.au
     maxResponseTime: 5000
     expectedStatusCodes:
       - 0
