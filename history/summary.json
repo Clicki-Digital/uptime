@@ -243,7 +243,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/chariotsoflight.org.au.ico",
     "slug": "chariots-of-light-australia",
     "status": "up",
-    "uptime": "88.94%",
+    "uptime": "88.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -464,18 +464,20 @@
     "url": "https://gracious5.com",
     "icon": "https://icons.duckduckgo.com/ip3/gracious5.com.ico",
     "slug": "gracious5",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 833,
-    "timeDay": 335,
-    "timeWeek": 312,
-    "timeMonth": 348,
+    "timeDay": 445,
+    "timeWeek": 339,
+    "timeMonth": 355,
     "timeYear": 848,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-30": 2
+    }
   },
   {
     "name": "Gold Coast Edge Protection",
