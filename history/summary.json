@@ -1058,18 +1058,20 @@
     "url": "https://omegacoms.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/omegacoms.com.au.ico",
     "slug": "omega-communication-services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 843,
-    "timeDay": 415,
-    "timeWeek": 1063,
-    "timeMonth": 696,
+    "timeDay": 686,
+    "timeWeek": 1050,
+    "timeMonth": 704,
     "timeYear": 852,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-13": 2
+    }
   },
   {
     "name": "Peak Horizons",
