@@ -481,18 +481,20 @@
     "url": "https://gcep.net.au",
     "icon": "https://icons.duckduckgo.com/ip3/gcep.net.au.ico",
     "slug": "gold-coast-edge-protection",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1708,
-    "timeDay": 705,
-    "timeWeek": 718,
-    "timeMonth": 1571,
-    "timeYear": 1708,
-    "dailyMinutesDown": {}
+    "time": 1664,
+    "timeDay": 373,
+    "timeWeek": 634,
+    "timeMonth": 1523,
+    "timeYear": 1664,
+    "dailyMinutesDown": {
+      "2023-08-30": 2
+    }
   },
   {
     "name": "Heritage of Faith Christian Church - Gold Coast",
