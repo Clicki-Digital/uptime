@@ -428,7 +428,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2567,
-    "timeDay": 435,
+    "timeDay": 444,
     "timeWeek": 632,
     "timeMonth": 499,
     "timeYear": 2433,
@@ -1040,19 +1040,19 @@
     "url": "https://www.odigdesigns.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/www.odigdesigns.com.au.ico",
     "slug": "odig-designs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 4864,
-    "timeDay": 5674,
-    "timeWeek": 8163,
-    "timeMonth": 4921,
-    "timeYear": 5259,
+    "time": 4873,
+    "timeDay": 5968,
+    "timeWeek": 7985,
+    "timeMonth": 4970,
+    "timeYear": 5263,
     "dailyMinutesDown": {
-      "2023-09-04": 2
+      "2023-09-04": 7
     }
   },
   {
