@@ -1,7 +1,7 @@
 url: https://vetanswers.com.au
-status: degraded
-code: 500
-responseTime: 9204
-lastUpdated: 2023-09-19T03:29:04.203Z
+status: up
+code: 200
+responseTime: 2926
+lastUpdated: 2023-09-19T03:35:50.969Z
 startTime: 2022-11-09T21:50:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
