@@ -1170,18 +1170,20 @@
     "url": "https://vetanswers.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/vetanswers.com.au.ico",
     "slug": "vet-answers",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1058,
-    "timeDay": 1435,
-    "timeWeek": 2225,
-    "timeMonth": 2023,
-    "timeYear": 1058,
-    "dailyMinutesDown": {}
+    "time": 1083,
+    "timeDay": 5320,
+    "timeWeek": 3097,
+    "timeMonth": 2234,
+    "timeYear": 1083,
+    "dailyMinutesDown": {
+      "2023-09-19": 1
+    }
   },
   {
     "name": "Waves Concrete Pumping",
