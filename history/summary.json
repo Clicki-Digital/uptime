@@ -1044,18 +1044,20 @@
     "url": "https://www.odigdesigns.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/www.odigdesigns.com.au.ico",
     "slug": "odig-designs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4885,
-    "timeDay": 2010,
-    "timeWeek": 1959,
-    "timeMonth": 2261,
-    "timeYear": 5126,
-    "dailyMinutesDown": {}
+    "time": 4902,
+    "timeDay": 5913,
+    "timeWeek": 2941,
+    "timeMonth": 2505,
+    "timeYear": 5139,
+    "dailyMinutesDown": {
+      "2023-10-06": 2
+    }
   },
   {
     "name": "Omega Communication Services",
@@ -1256,7 +1258,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.28%",
+    "uptimeYear": "92.35%",
     "time": 4204,
     "timeDay": 2381,
     "timeWeek": 2531,
