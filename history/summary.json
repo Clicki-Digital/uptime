@@ -6,17 +6,17 @@
     "slug": "adam-brand-music",
     "status": "degraded",
     "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 1074,
+    "time": 1072,
     "timeDay": 4172,
     "timeWeek": 2902,
     "timeMonth": 3207,
-    "timeYear": 1095,
+    "timeYear": 1093,
     "dailyMinutesDown": {
-      "2023-10-09": 1,
+      "2023-10-09": 6,
       "2023-09-24": 20,
       "2023-05-09": 31
     }
