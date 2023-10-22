@@ -247,7 +247,7 @@ sites:
       - 0
       - 200
       - 201
-- name: Lounge Repair Guys
+  - name: Lounge Repair Guys
     url: https://loungerepairguys.com.au
     maxResponseTime: 5000
     expectedStatusCodes:
