@@ -241,7 +241,14 @@ sites:
       - 200
       - 201
   - name: Legal Insite
-    url: https://legalinsite.clicki.digital
+    url: https://legalinsite.com.au/
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
+- name: Lounge Repair Guys
+    url: https://loungerepairguys.com.au
     maxResponseTime: 5000
     expectedStatusCodes:
       - 0
@@ -257,6 +264,13 @@ sites:
   - name: Lucid Solutions
     url: https://getlucid.solutions
     icon: https://getlucid.solutions/wp-content/uploads/2020/12/cropped-ls-icon-32x32.png
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
+  - name: The Lucid Group
+    url: https://thelucid.group
     maxResponseTime: 5000
     expectedStatusCodes:
       - 0
@@ -332,6 +346,13 @@ sites:
       - 0
       - 200
       - 201
+  # - name: Optimise BnB
+  #   url: https://tbc.com.au
+  #   maxResponseTime: 5000
+  #   expectedStatusCodes:
+  #     - 0
+  #     - 200
+  #     - 201
   - name: Peak Horizons
     url: https://peakhorizons.com.au
     maxResponseTime: 5000
@@ -367,9 +388,13 @@ sites:
       - 0
       - 200
       - 201
-  # - name: TEDx CYW
-  #   url: https://tedxycyw.com
-  #   maxResponseTime: 10000
+  # - name: Tracy Hitchings Music
+  #   url: https://tbc.com.au
+  #   maxResponseTime: 5000
+  #   expectedStatusCodes:
+  #     - 0
+  #     - 200
+  #     - 201
   - name: VetAnswers
     url: https://vetanswers.com.au
     maxResponseTime: 5000
