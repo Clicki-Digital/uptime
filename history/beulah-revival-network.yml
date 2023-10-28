@@ -1,7 +1,7 @@
 url: https://beulah.net.au
-status: up
-code: 200
-responseTime: 313
-lastUpdated: 2023-10-27T23:05:08.737Z
+status: down
+code: 503
+responseTime: 1433
+lastUpdated: 2023-10-28T18:05:55.203Z
 startTime: 2022-12-12T21:53:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
