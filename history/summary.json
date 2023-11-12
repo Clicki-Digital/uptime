@@ -605,7 +605,7 @@
     "uptimeYear": "100.00%",
     "time": 1217,
     "timeDay": 278,
-    "timeWeek": 400,
+    "timeWeek": 398,
     "timeMonth": 397,
     "timeYear": 1036,
     "dailyMinutesDown": {}
@@ -741,19 +741,19 @@
     "url": "https://keystoneleadership.com.au/",
     "icon": "https://icons.duckduckgo.com/ip3/keystoneleadership.com.au.ico",
     "slug": "keystone-leadership-group",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 451,
-    "timeDay": 445,
-    "timeWeek": 369,
-    "timeMonth": 455,
-    "timeYear": 451,
+    "time": 450,
+    "timeDay": 407,
+    "timeWeek": 365,
+    "timeMonth": 452,
+    "timeYear": 450,
     "dailyMinutesDown": {
-      "2023-11-12": 2
+      "2023-11-12": 6
     }
   },
   {
