@@ -946,19 +946,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/moncai.com.au.ico",
     "slug": "moncai",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1866,
     "timeDay": 8853,
     "timeWeek": 4431,
     "timeMonth": 2516,
     "timeYear": 1814,
-    "dailyMinutesDown": {
-      "2023-11-12": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "New Wave Construction",
