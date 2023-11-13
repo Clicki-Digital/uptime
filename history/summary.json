@@ -851,19 +851,19 @@
     "url": "https://loungerepairguys.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/loungerepairguys.com.au.ico",
     "slug": "lounge-repair-guys",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 415,
-    "timeDay": 315,
-    "timeWeek": 378,
-    "timeMonth": 415,
-    "timeYear": 415,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "96.72%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 460,
+    "timeDay": 734,
+    "timeWeek": 487,
+    "timeMonth": 460,
+    "timeYear": 460,
     "dailyMinutesDown": {
-      "2023-11-13": 2
+      "2023-11-13": 47
     }
   },
   {
