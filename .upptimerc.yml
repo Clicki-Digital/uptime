@@ -129,7 +129,7 @@ sites:
       - 200
       - 201
   - name: Gary Rucci
-    url: https://garyrucci.clicki.digital/
+    url: https://garyrucci.com/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 0
