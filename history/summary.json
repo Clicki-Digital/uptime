@@ -928,19 +928,19 @@
     "url": "https://mindsandhearts.net",
     "icon": "https://icons.duckduckgo.com/ip3/mindsandhearts.net.ico",
     "slug": "minds-and-hearts",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1057,
-    "timeDay": 729,
-    "timeWeek": 885,
-    "timeMonth": 926,
-    "timeYear": 1039,
+    "timeDay": 757,
+    "timeWeek": 878,
+    "timeMonth": 923,
+    "timeYear": 1038,
     "dailyMinutesDown": {
-      "2023-11-19": 1
+      "2023-11-19": 6
     }
   },
   {
