@@ -346,13 +346,13 @@ sites:
       - 0
       - 200
       - 201
-  # - name: Optimise BnB
-  #   url: https://tbc.com.au
-  #   maxResponseTime: 5000
-  #   expectedStatusCodes:
-  #     - 0
-  #     - 200
-  #     - 201
+  - name: Optimise BnB
+    url: https://optimisebnb.com.au/
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Peak Horizons
     url: https://peakhorizons.com.au
     maxResponseTime: 5000
