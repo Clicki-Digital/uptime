@@ -4,19 +4,18 @@
     "url": "https://adambrandmusic.com",
     "icon": "https://icons.duckduckgo.com/ip3/adambrandmusic.com.ico",
     "slug": "adam-brand-music",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1348,
-    "timeDay": 4210,
-    "timeWeek": 3716,
-    "timeMonth": 3805,
-    "timeYear": 1493,
+    "time": 1351,
+    "timeDay": 3621,
+    "timeWeek": 3610,
+    "timeMonth": 3778,
+    "timeYear": 1495,
     "dailyMinutesDown": {
-      "2023-11-20": 6,
       "2023-09-24": 20,
       "2023-05-09": 31
     }
@@ -508,7 +507,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.04%",
     "time": 4303,
-    "timeDay": 1819,
+    "timeDay": 1122,
     "timeWeek": 1133,
     "timeMonth": 1023,
     "timeYear": 4793,
@@ -1117,6 +1116,24 @@
     "dailyMinutesDown": {
       "2023-08-13": 27
     }
+  },
+  {
+    "name": "Optimise BnB",
+    "url": "https://optimisebnb.com.au/",
+    "icon": "https://icons.duckduckgo.com/ip3/optimisebnb.com.au.ico",
+    "slug": "optimise-bn-b",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1392,
+    "timeDay": 1392,
+    "timeWeek": 1392,
+    "timeMonth": 1392,
+    "timeYear": 1392,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Peak Horizons",
