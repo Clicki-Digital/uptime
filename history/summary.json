@@ -7,8 +7,8 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 1359,
     "timeDay": 1824,
@@ -16,7 +16,7 @@
     "timeMonth": 3275,
     "timeYear": 1505,
     "dailyMinutesDown": {
-      "2023-11-28": 17,
+      "2023-11-28": 8,
       "2023-09-24": 20,
       "2023-05-09": 31
     }
@@ -65,10 +65,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/ausourceintl.com.au.ico",
     "slug": "ausource-international",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1527,
     "timeDay": 211,
@@ -76,7 +76,6 @@
     "timeMonth": 385,
     "timeYear": 1519,
     "dailyMinutesDown": {
-      "2023-11-28": 8,
       "2023-04-05": 16,
       "2022-12-07": 29
     }
@@ -162,17 +161,15 @@
     "status": "up",
     "uptime": "98.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1256,
     "timeDay": 223,
     "timeWeek": 328,
     "timeMonth": 393,
     "timeYear": 726,
-    "dailyMinutesDown": {
-      "2023-11-28": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Burdi - Selfservice",
@@ -204,10 +201,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/cafe7.com.au.ico",
     "slug": "cafe7",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1402,
     "timeDay": 223,
@@ -215,7 +212,6 @@
     "timeMonth": 400,
     "timeYear": 1496,
     "dailyMinutesDown": {
-      "2023-11-28": 8,
       "2023-02-07": 30
     }
   },
@@ -227,17 +223,15 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 723,
     "timeDay": 401,
     "timeWeek": 296,
     "timeMonth": 382,
     "timeYear": 626,
-    "dailyMinutesDown": {
-      "2023-11-28": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Chariots of Light Australia",
@@ -247,8 +241,8 @@
     "status": "up",
     "uptime": "90.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "83.47%",
     "time": 869,
     "timeDay": 235,
@@ -256,7 +250,6 @@
     "timeMonth": 467,
     "timeYear": 750,
     "dailyMinutesDown": {
-      "2023-11-28": 8,
       "2023-03-15": 1383,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
@@ -328,17 +321,15 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1150,
     "timeDay": 334,
     "timeWeek": 267,
     "timeMonth": 345,
     "timeYear": 956,
-    "dailyMinutesDown": {
-      "2023-11-28": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Clare Page Photography",
@@ -369,8 +360,8 @@
     "status": "up",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1076,
     "timeDay": 65,
@@ -378,7 +369,6 @@
     "timeMonth": 428,
     "timeYear": 974,
     "dailyMinutesDown": {
-      "2023-11-28": 8,
       "2022-12-01": 27
     }
   },
@@ -435,8 +425,8 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 2177,
     "timeDay": 312,
@@ -444,7 +434,6 @@
     "timeMonth": 446,
     "timeYear": 1837,
     "dailyMinutesDown": {
-      "2023-11-28": 8,
       "2023-11-05": 26,
       "2023-05-21": 19,
       "2023-03-14": 25,
@@ -459,17 +448,15 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1090,
     "timeDay": 127,
     "timeWeek": 185,
     "timeMonth": 745,
     "timeYear": 1090,
-    "dailyMinutesDown": {
-      "2023-11-28": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gracious5",
@@ -583,19 +570,19 @@
     "url": "https://hopealley.com/ecards",
     "icon": "https://icons.duckduckgo.com/ip3/hopealley.com.ico",
     "slug": "hope-alley-ecards",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
-    "time": 2261,
-    "timeDay": 3879,
-    "timeWeek": 3082,
-    "timeMonth": 2923,
-    "timeYear": 2402,
+    "time": 2264,
+    "timeDay": 3923,
+    "timeWeek": 3131,
+    "timeMonth": 2938,
+    "timeYear": 2405,
     "dailyMinutesDown": {
-      "2023-11-30": 1,
+      "2023-11-30": 6,
       "2023-11-02": 19,
       "2023-10-20": 29,
       "2023-10-02": 15,
