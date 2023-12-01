@@ -388,13 +388,13 @@ sites:
       - 0
       - 200
       - 201
-  # - name: Tracy Hitchings Music
-  #   url: https://tbc.com.au
-  #   maxResponseTime: 5000
-  #   expectedStatusCodes:
-  #     - 0
-  #     - 200
-  #     - 201
+  - name: Tracy Hitchings Music
+    url: https://tracyhitchingsmusic.com
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: VetAnswers
     url: https://vetanswers.com.au
     maxResponseTime: 5000
