@@ -738,19 +738,19 @@
     "url": "https://keystoneleadership.com.au/",
     "icon": "https://icons.duckduckgo.com/ip3/keystoneleadership.com.au.ico",
     "slug": "keystone-leadership-group",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 448,
-    "timeDay": 681,
-    "timeWeek": 401,
-    "timeMonth": 414,
-    "timeYear": 448,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 451,
+    "timeDay": 786,
+    "timeWeek": 443,
+    "timeMonth": 429,
+    "timeYear": 451,
     "dailyMinutesDown": {
-      "2023-12-02": 2
+      "2023-12-02": 13
     }
   },
   {
