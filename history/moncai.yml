@@ -1,7 +1,7 @@
 url: https://moncai.com.au
-status: up
+status: degraded
 code: 200
-responseTime: 1471
-lastUpdated: 2023-12-07T23:06:04.149Z
+responseTime: 11808
+lastUpdated: 2023-12-08T11:34:42.210Z
 startTime: 2022-01-29T13:44:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
