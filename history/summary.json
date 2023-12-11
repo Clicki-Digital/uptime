@@ -943,19 +943,19 @@
     "url": "https://moncai.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/moncai.com.au.ico",
     "slug": "moncai",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1891,
-    "timeDay": 1729,
-    "timeWeek": 2954,
-    "timeMonth": 2782,
-    "timeYear": 1858,
+    "time": 1889,
+    "timeDay": 1292,
+    "timeWeek": 2723,
+    "timeMonth": 2719,
+    "timeYear": 1854,
     "dailyMinutesDown": {
-      "2023-12-11": 2
+      "2023-12-11": 9
     }
   },
   {
