@@ -588,19 +588,19 @@
     "url": "https://ianslack.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/ianslack.com.au.ico",
     "slug": "ian-slack",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1090,
-    "timeDay": 284,
-    "timeWeek": 330,
-    "timeMonth": 430,
-    "timeYear": 913,
+    "time": 1088,
+    "timeDay": 624,
+    "timeWeek": 438,
+    "timeMonth": 452,
+    "timeYear": 914,
     "dailyMinutesDown": {
-      "2023-12-16": 2
+      "2023-12-16": 6
     }
   },
   {
