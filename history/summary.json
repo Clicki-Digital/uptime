@@ -803,19 +803,19 @@
     "url": "https://lmr.net.au",
     "icon": "https://icons.duckduckgo.com/ip3/lmr.net.au.ico",
     "slug": "lee-meehan-roofing",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 797,
-    "timeDay": 388,
-    "timeWeek": 532,
-    "timeMonth": 546,
-    "timeYear": 797,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 798,
+    "timeDay": 599,
+    "timeWeek": 586,
+    "timeMonth": 559,
+    "timeYear": 798,
     "dailyMinutesDown": {
-      "2023-12-17": 2
+      "2023-12-17": 14
     }
   },
   {
@@ -823,19 +823,19 @@
     "url": "https://legalinsite.com.au/",
     "icon": "https://icons.duckduckgo.com/ip3/legalinsite.com.au.ico",
     "slug": "legal-insite",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 890,
-    "timeDay": 325,
-    "timeWeek": 396,
-    "timeMonth": 456,
+    "timeDay": 507,
+    "timeWeek": 449,
+    "timeMonth": 466,
     "timeYear": 890,
     "dailyMinutesDown": {
-      "2023-12-17": 2
+      "2023-12-17": 14
     }
   },
   {
