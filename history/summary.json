@@ -215,19 +215,19 @@
     "url": "https://ccelectricalandair.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/ccelectricalandair.com.au.ico",
     "slug": "cc-electrical-and-air",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 664,
-    "timeDay": 1024,
-    "timeWeek": 487,
-    "timeMonth": 409,
+    "time": 661,
+    "timeDay": 871,
+    "timeWeek": 496,
+    "timeMonth": 414,
     "timeYear": 537,
     "dailyMinutesDown": {
-      "2024-01-07": 2
+      "2024-01-07": 11
     }
   },
   {
