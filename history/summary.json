@@ -582,18 +582,20 @@
     "url": "https://ianslack.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/ianslack.com.au.ico",
     "slug": "ian-slack",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1035,
-    "timeDay": 301,
-    "timeWeek": 344,
-    "timeMonth": 419,
-    "timeYear": 845,
-    "dailyMinutesDown": {}
+    "timeDay": 1024,
+    "timeWeek": 520,
+    "timeMonth": 459,
+    "timeYear": 847,
+    "dailyMinutesDown": {
+      "2024-01-07": 2
+    }
   },
   {
     "name": "Independent Wealth Management Australia",
