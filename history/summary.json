@@ -151,18 +151,20 @@
     "url": "https://burdi.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/burdi.com.au.ico",
     "slug": "burdi",
-    "status": "up",
+    "status": "down",
     "uptime": "98.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1015,
-    "timeDay": 371,
-    "timeWeek": 277,
-    "timeMonth": 427,
-    "timeYear": 614,
-    "dailyMinutesDown": {}
+    "time": 1009,
+    "timeDay": 362,
+    "timeWeek": 286,
+    "timeMonth": 424,
+    "timeYear": 613,
+    "dailyMinutesDown": {
+      "2024-01-20": 1
+    }
   },
   {
     "name": "Burdi - Selfservice",
@@ -447,9 +449,9 @@
     "slug": "gracious5",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 697,
     "timeDay": 826,
@@ -457,7 +459,6 @@
     "timeMonth": 378,
     "timeYear": 613,
     "dailyMinutesDown": {
-      "2024-01-20": 14,
       "2023-07-30": 26
     }
   },
