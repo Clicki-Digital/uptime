@@ -1223,19 +1223,19 @@
     "url": "https://wavesconcretepumping.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/wavesconcretepumping.com.au.ico",
     "slug": "waves-concrete-pumping",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 544,
-    "timeDay": 445,
-    "timeWeek": 516,
-    "timeMonth": 519,
-    "timeYear": 544,
+    "time": 543,
+    "timeDay": 424,
+    "timeWeek": 501,
+    "timeMonth": 515,
+    "timeYear": 543,
     "dailyMinutesDown": {
-      "2024-01-28": 2
+      "2024-01-28": 11
     }
   },
   {
