@@ -543,7 +543,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.16%",
+    "uptimeYear": "93.17%",
     "time": 1410,
     "timeDay": 1354,
     "timeWeek": 1312,
@@ -1177,19 +1177,19 @@
     "url": "https://wavesconcretepumping.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/wavesconcretepumping.com.au.ico",
     "slug": "waves-concrete-pumping",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 548,
-    "timeDay": 943,
-    "timeWeek": 683,
-    "timeMonth": 554,
+    "timeDay": 832,
+    "timeWeek": 656,
+    "timeMonth": 549,
     "timeYear": 548,
     "dailyMinutesDown": {
-      "2024-02-11": 1
+      "2024-02-11": 7
     }
   },
   {
