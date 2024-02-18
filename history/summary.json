@@ -185,19 +185,19 @@
     "url": "https://cafe7.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/cafe7.com.au.ico",
     "slug": "cafe7",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1302,
-    "timeDay": 396,
+    "time": 1301,
+    "timeDay": 388,
     "timeWeek": 370,
-    "timeMonth": 484,
-    "timeYear": 860,
+    "timeMonth": 481,
+    "timeYear": 858,
     "dailyMinutesDown": {
-      "2024-02-18": 1
+      "2024-02-18": 10
     }
   },
   {
@@ -536,7 +536,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.98%",
+    "uptimeYear": "94.99%",
     "time": 1412,
     "timeDay": 1356,
     "timeWeek": 1410,
