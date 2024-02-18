@@ -185,18 +185,20 @@
     "url": "https://cafe7.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/cafe7.com.au.ico",
     "slug": "cafe7",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1304,
-    "timeDay": 288,
-    "timeWeek": 350,
-    "timeMonth": 483,
-    "timeYear": 861,
-    "dailyMinutesDown": {}
+    "time": 1302,
+    "timeDay": 396,
+    "timeWeek": 370,
+    "timeMonth": 484,
+    "timeYear": 860,
+    "dailyMinutesDown": {
+      "2024-02-18": 1
+    }
   },
   {
     "name": "CC Electrical and Air",
@@ -226,7 +228,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.93%",
+    "uptimeYear": "92.94%",
     "time": 746,
     "timeDay": 285,
     "timeWeek": 418,
@@ -447,9 +449,9 @@
     "slug": "heritage-of-faith-christian-church-gold-coast",
     "status": "up",
     "uptime": "97.10%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 4219,
     "timeDay": 1935,
@@ -457,7 +459,6 @@
     "timeMonth": 1381,
     "timeYear": 2970,
     "dailyMinutesDown": {
-      "2024-02-18": 7,
       "2023-03-31": 61,
       "2023-03-30": 42
     }
