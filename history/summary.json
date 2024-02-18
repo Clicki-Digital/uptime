@@ -27,18 +27,16 @@
     "slug": "all-access-electrical",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 849,
     "timeDay": 398,
     "timeWeek": 375,
     "timeMonth": 475,
     "timeYear": 723,
-    "dailyMinutesDown": {
-      "2024-02-18": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Aset App",
@@ -65,9 +63,9 @@
     "slug": "ausource-international",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1336,
     "timeDay": 384,
@@ -75,7 +73,6 @@
     "timeMonth": 414,
     "timeYear": 872,
     "dailyMinutesDown": {
-      "2024-02-18": 6,
       "2023-04-05": 16
     }
   },
@@ -993,18 +990,19 @@
     "url": "https://omegacoms.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/omegacoms.com.au.ico",
     "slug": "omega-communication-services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 1059,
-    "timeDay": 1442,
-    "timeWeek": 1527,
-    "timeMonth": 1446,
-    "timeYear": 1096,
+    "time": 1062,
+    "timeDay": 1686,
+    "timeWeek": 1577,
+    "timeMonth": 1459,
+    "timeYear": 1098,
     "dailyMinutesDown": {
+      "2024-02-18": 2,
       "2023-11-26": 23,
       "2023-08-13": 27
     }
@@ -1173,7 +1171,7 @@
     "uptimeYear": "100.00%",
     "time": 548,
     "timeDay": 483,
-    "timeWeek": 721,
+    "timeWeek": 756,
     "timeMonth": 555,
     "timeYear": 548,
     "dailyMinutesDown": {}
