@@ -63,9 +63,9 @@
     "slug": "ausource-international",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1335,
     "timeDay": 812,
@@ -73,7 +73,6 @@
     "timeMonth": 474,
     "timeYear": 875,
     "dailyMinutesDown": {
-      "2024-02-18": 8,
       "2023-04-05": 16
     }
   },
@@ -446,18 +445,19 @@
     "url": "https://heritageoffaith.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/heritageoffaith.com.au.ico",
     "slug": "heritage-of-faith-christian-church-gold-coast",
-    "status": "up",
+    "status": "down",
     "uptime": "97.10%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 4222,
-    "timeDay": 762,
-    "timeWeek": 900,
-    "timeMonth": 1312,
-    "timeYear": 2972,
+    "time": 4221,
+    "timeDay": 1953,
+    "timeWeek": 1180,
+    "timeMonth": 1366,
+    "timeYear": 2973,
     "dailyMinutesDown": {
+      "2024-02-18": 1,
       "2023-03-31": 61,
       "2023-03-30": 42
     }
