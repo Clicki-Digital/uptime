@@ -222,11 +222,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/chariotsoflight.org.au.ico",
     "slug": "chariots-of-light-australia",
     "status": "up",
-    "uptime": "91.97%",
+    "uptime": "91.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.71%",
+    "uptimeYear": "93.91%",
     "time": 742,
     "timeDay": 357,
     "timeWeek": 376,
@@ -411,7 +411,7 @@
     "time": 665,
     "timeDay": 314,
     "timeWeek": 457,
-    "timeMonth": 513,
+    "timeMonth": 521,
     "timeYear": 579,
     "dailyMinutesDown": {
       "2023-07-30": 26
@@ -531,7 +531,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.76%",
+    "uptimeYear": "95.96%",
     "time": 1387,
     "timeDay": 1545,
     "timeWeek": 1364,
@@ -638,18 +638,20 @@
     "url": "https://lancensolomon.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/lancensolomon.com.au.ico",
     "slug": "lance-n-solomon",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 622,
-    "timeDay": 430,
-    "timeWeek": 436,
-    "timeMonth": 420,
-    "timeYear": 483,
-    "dailyMinutesDown": {}
+    "time": 662,
+    "timeDay": 10915,
+    "timeWeek": 3057,
+    "timeMonth": 1076,
+    "timeYear": 539,
+    "dailyMinutesDown": {
+      "2024-02-21": 1
+    }
   },
   {
     "name": "Lil Fi",
@@ -684,7 +686,7 @@
     "timeDay": 340,
     "timeWeek": 358,
     "timeMonth": 431,
-    "timeYear": 945,
+    "timeYear": 902,
     "dailyMinutesDown": {}
   },
   {
@@ -844,7 +846,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/newwaveconstruction.com.au.ico",
     "slug": "new-wave-construction",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1145,7 +1147,7 @@
     "time": 1103,
     "timeDay": 1344,
     "timeWeek": 1178,
-    "timeMonth": 1070,
+    "timeMonth": 1038,
     "timeYear": 1102,
     "dailyMinutesDown": {
       "2023-09-24": 30
