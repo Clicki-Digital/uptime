@@ -638,19 +638,19 @@
     "url": "https://lancensolomon.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/lancensolomon.com.au.ico",
     "slug": "lance-n-solomon",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 662,
-    "timeDay": 10915,
-    "timeWeek": 3057,
-    "timeMonth": 1076,
+    "time": 661,
+    "timeDay": 7405,
+    "timeWeek": 2760,
+    "timeMonth": 1055,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2024-02-21": 1
+      "2024-02-21": 6
     }
   },
   {
