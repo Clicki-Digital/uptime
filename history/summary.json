@@ -109,7 +109,7 @@
     "timeDay": 846,
     "timeWeek": 416,
     "timeMonth": 477,
-    "timeYear": 2165,
+    "timeYear": 2161,
     "dailyMinutesDown": {
       "2023-03-16": 33,
       "2023-03-01": 30,
@@ -439,9 +439,9 @@
     "slug": "heritage-of-faith-christian-church-gold-coast",
     "status": "up",
     "uptime": "97.12%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 4200,
     "timeDay": 3023,
@@ -449,7 +449,6 @@
     "timeMonth": 1503,
     "timeYear": 2860,
     "dailyMinutesDown": {
-      "2024-02-25": 7,
       "2023-03-31": 61,
       "2023-03-30": 42
     }
@@ -612,18 +611,20 @@
     "url": "https://keystoneleadership.com.au/",
     "icon": "https://icons.duckduckgo.com/ip3/keystoneleadership.com.au.ico",
     "slug": "keystone-leadership-group",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 450,
-    "timeDay": 874,
-    "timeWeek": 580,
-    "timeMonth": 448,
+    "timeDay": 646,
+    "timeWeek": 559,
+    "timeMonth": 447,
     "timeYear": 450,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-25": 2
+    }
   },
   {
     "name": "Lance N. Solomon",
@@ -980,7 +981,7 @@
     "uptimeYear": "99.99%",
     "time": 1072,
     "timeDay": 1380,
-    "timeWeek": 1505,
+    "timeWeek": 1451,
     "timeMonth": 1443,
     "timeYear": 1108,
     "dailyMinutesDown": {
@@ -1131,7 +1132,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1115,
-    "timeDay": 1004,
+    "timeDay": 1077,
     "timeWeek": 1662,
     "timeMonth": 1156,
     "timeYear": 1116,
@@ -1210,7 +1211,7 @@
     "timeDay": 1723,
     "timeWeek": 2262,
     "timeMonth": 2454,
-    "timeYear": 4220,
+    "timeYear": 4217,
     "dailyMinutesDown": {
       "2023-06-22": 48,
       "2023-05-31": 40,
