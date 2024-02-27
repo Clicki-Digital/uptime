@@ -170,6 +170,13 @@ sites:
       - 0
       - 200
       - 201
+  - name: Hopelands Church
+    url: https://hopelands.church
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Ian Slack
     url: https://ianslack.com.au
     maxResponseTime: 5000
