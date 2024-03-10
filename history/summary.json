@@ -383,9 +383,9 @@
     "slug": "gracious5",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 641,
     "timeDay": 294,
@@ -393,7 +393,6 @@
     "timeMonth": 368,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2024-03-10": 10,
       "2023-07-30": 26
     }
   },
@@ -404,9 +403,9 @@
     "slug": "gold-coast-edge-protection",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 615,
     "timeDay": 299,
@@ -414,7 +413,6 @@
     "timeMonth": 356,
     "timeYear": 615,
     "dailyMinutesDown": {
-      "2024-03-10": 10,
       "2023-08-30": 24
     }
   },
@@ -601,18 +599,20 @@
     "url": "https://keystoneleadership.com.au/",
     "icon": "https://icons.duckduckgo.com/ip3/keystoneleadership.com.au.ico",
     "slug": "keystone-leadership-group",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 455,
-    "timeDay": 357,
-    "timeWeek": 567,
-    "timeMonth": 487,
+    "timeDay": 355,
+    "timeWeek": 540,
+    "timeMonth": 483,
     "timeYear": 455,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-10": 1
+    }
   },
   {
     "name": "Lance N. Solomon",
