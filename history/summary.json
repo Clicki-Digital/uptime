@@ -837,19 +837,19 @@
     "url": "https://nicnax.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/nicnax.com.au.ico",
     "slug": "nic-nax",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 791,
-    "timeDay": 1204,
-    "timeWeek": 870,
-    "timeMonth": 756,
-    "timeYear": 766,
+    "time": 790,
+    "timeDay": 971,
+    "timeWeek": 810,
+    "timeMonth": 741,
+    "timeYear": 765,
     "dailyMinutesDown": {
-      "2024-03-13": 6
+      "2024-03-13": 2
     }
   },
   {
@@ -881,12 +881,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 591,
-    "timeDay": 331,
-    "timeWeek": 324,
-    "timeMonth": 408,
+    "time": 588,
+    "timeDay": 338,
+    "timeWeek": 327,
+    "timeMonth": 406,
     "timeYear": 525,
     "dailyMinutesDown": {
+      "2024-03-13": 0,
       "2023-09-24": 20
     }
   },
@@ -901,12 +902,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 591,
-    "timeDay": 331,
-    "timeWeek": 324,
-    "timeMonth": 408,
+    "time": 588,
+    "timeDay": 338,
+    "timeWeek": 327,
+    "timeMonth": 406,
     "timeYear": 525,
     "dailyMinutesDown": {
+      "2024-03-13": 0,
       "2023-09-24": 20
     }
   },
@@ -957,8 +959,8 @@
     "status": "up",
     "uptime": "99.58%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "54.17%",
-    "uptimeMonth": "89.45%",
+    "uptimeWeek": "54.04%",
+    "uptimeMonth": "89.42%",
     "uptimeYear": "99.11%",
     "time": 1081,
     "timeDay": 1663,
@@ -966,7 +968,7 @@
     "timeMonth": 1425,
     "timeYear": 1130,
     "dailyMinutesDown": {
-      "2024-03-13": 471,
+      "2024-03-13": 484,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
       "2024-03-10": 1269,
