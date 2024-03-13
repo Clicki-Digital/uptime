@@ -837,19 +837,19 @@
     "url": "https://nicnax.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/nicnax.com.au.ico",
     "slug": "nic-nax",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 792,
-    "timeDay": 1457,
-    "timeWeek": 891,
-    "timeMonth": 758,
+    "time": 791,
+    "timeDay": 1204,
+    "timeWeek": 870,
+    "timeMonth": 756,
     "timeYear": 766,
     "dailyMinutesDown": {
-      "2024-03-13": 2
+      "2024-03-13": 6
     }
   },
   {
@@ -877,7 +877,7 @@
     "slug": "nyarima",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -887,7 +887,6 @@
     "timeMonth": 408,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2024-03-13": 0,
       "2023-09-24": 20
     }
   },
@@ -898,7 +897,7 @@
     "slug": "nyarima",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -908,7 +907,6 @@
     "timeMonth": 408,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2024-03-13": 0,
       "2023-09-24": 20
     }
   },
@@ -959,8 +957,8 @@
     "status": "up",
     "uptime": "99.58%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "54.22%",
-    "uptimeMonth": "89.47%",
+    "uptimeWeek": "54.17%",
+    "uptimeMonth": "89.45%",
     "uptimeYear": "99.11%",
     "time": 1081,
     "timeDay": 1663,
@@ -968,7 +966,7 @@
     "timeMonth": 1425,
     "timeYear": 1130,
     "dailyMinutesDown": {
-      "2024-03-13": 465,
+      "2024-03-13": 471,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
       "2024-03-10": 1269,
