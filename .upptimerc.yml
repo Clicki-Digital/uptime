@@ -135,6 +135,13 @@ sites:
       - 0
       - 200
       - 201
+  - name: Envirometal
+    url: https://envirometal.stage.clicki.digital/
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Gary Rucci
     url: https://garyrucci.com/
     maxResponseTime: 5000
