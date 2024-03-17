@@ -557,7 +557,7 @@
     "uptimeYear": "100.00%",
     "time": 1375,
     "timeDay": 1412,
-    "timeWeek": 1390,
+    "timeWeek": 1379,
     "timeMonth": 1307,
     "timeYear": 1329,
     "dailyMinutesDown": {}
@@ -643,19 +643,19 @@
     "url": "https://lancensolomon.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/lancensolomon.com.au.ico",
     "slug": "lance-n-solomon",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 620,
-    "timeDay": 416,
-    "timeWeek": 351,
-    "timeMonth": 963,
-    "timeYear": 511,
+    "time": 617,
+    "timeDay": 388,
+    "timeWeek": 345,
+    "timeMonth": 945,
+    "timeYear": 510,
     "dailyMinutesDown": {
-      "2024-03-17": 2
+      "2024-03-17": 6
     }
   },
   {
@@ -989,7 +989,7 @@
     "uptime": "99.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "74.81%",
+    "uptimeMonth": "74.79%",
     "uptimeYear": "97.89%",
     "time": 1087,
     "timeDay": 1654,
@@ -997,7 +997,7 @@
     "timeMonth": 1434,
     "timeYear": 1139,
     "dailyMinutesDown": {
-      "2024-03-17": 1126,
+      "2024-03-17": 1133,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
@@ -1166,9 +1166,9 @@
     "slug": "waves-concrete-pumping",
     "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "56.92%",
-    "uptimeWeek": "93.85%",
-    "uptimeMonth": "98.58%",
+    "uptimeDay": "56.48%",
+    "uptimeWeek": "93.78%",
+    "uptimeMonth": "98.57%",
     "uptimeYear": "99.82%",
     "time": 542,
     "timeDay": 527,
@@ -1176,7 +1176,7 @@
     "timeMonth": 505,
     "timeYear": 542,
     "dailyMinutesDown": {
-      "2024-03-17": 620
+      "2024-03-17": 627
     }
   },
   {
