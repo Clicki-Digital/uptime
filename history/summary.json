@@ -165,7 +165,7 @@
     "timeDay": 2410,
     "timeWeek": 2289,
     "timeMonth": 2086,
-    "timeYear": 2155,
+    "timeYear": 2117,
     "dailyMinutesDown": {
       "2023-03-20": 21,
       "2023-03-19": 29
@@ -215,7 +215,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/chariotsoflight.org.au.ico",
     "slug": "chariots-of-light-australia",
     "status": "up",
-    "uptime": "92.23%",
+    "uptime": "92.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -359,7 +359,7 @@
     "time": 1635,
     "timeDay": 287,
     "timeWeek": 454,
-    "timeMonth": 493,
+    "timeMonth": 486,
     "timeYear": 1072,
     "dailyMinutesDown": {
       "2023-11-05": 26,
@@ -557,7 +557,7 @@
     "uptimeYear": "100.00%",
     "time": 1375,
     "timeDay": 1412,
-    "timeWeek": 1325,
+    "timeWeek": 1390,
     "timeMonth": 1307,
     "timeYear": 1329,
     "dailyMinutesDown": {}
@@ -643,18 +643,20 @@
     "url": "https://lancensolomon.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/lancensolomon.com.au.ico",
     "slug": "lance-n-solomon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 622,
-    "timeDay": 299,
-    "timeWeek": 313,
-    "timeMonth": 969,
-    "timeYear": 510,
-    "dailyMinutesDown": {}
+    "time": 620,
+    "timeDay": 416,
+    "timeWeek": 351,
+    "timeMonth": 963,
+    "timeYear": 511,
+    "dailyMinutesDown": {
+      "2024-03-17": 2
+    }
   },
   {
     "name": "Lil Fi",
@@ -984,18 +986,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/omegacoms.com.au.ico",
     "slug": "omega-communication-services",
     "status": "up",
-    "uptime": "99.07%",
+    "uptime": "99.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "76.22%",
-    "uptimeYear": "98.01%",
+    "uptimeMonth": "74.81%",
+    "uptimeYear": "97.89%",
     "time": 1087,
     "timeDay": 1654,
     "timeWeek": 1530,
     "timeMonth": 1434,
     "timeYear": 1139,
     "dailyMinutesDown": {
-      "2024-03-17": 507,
+      "2024-03-17": 1126,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
@@ -1163,18 +1165,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wavesconcretepumping.com.au.ico",
     "slug": "waves-concrete-pumping",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.82%",
+    "uptimeDay": "56.92%",
+    "uptimeWeek": "93.85%",
+    "uptimeMonth": "98.58%",
+    "uptimeYear": "99.82%",
     "time": 542,
     "timeDay": 527,
     "timeWeek": 511,
     "timeMonth": 505,
     "timeYear": 542,
     "dailyMinutesDown": {
-      "2024-03-17": 2
+      "2024-03-17": 620
     }
   },
   {
