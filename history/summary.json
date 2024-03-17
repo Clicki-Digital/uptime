@@ -234,18 +234,16 @@
     "slug": "claims-wrights",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 847,
     "timeDay": 391,
     "timeWeek": 329,
     "timeMonth": 350,
     "timeYear": 591,
-    "dailyMinutesDown": {
-      "2024-03-17": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Clare Page Photography",
@@ -629,18 +627,16 @@
     "slug": "keystone-leadership-group",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 454,
     "timeDay": 332,
     "timeWeek": 412,
     "timeMonth": 494,
     "timeYear": 454,
-    "dailyMinutesDown": {
-      "2024-03-17": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lance N. Solomon",
@@ -649,18 +645,16 @@
     "slug": "lance-n-solomon",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 622,
     "timeDay": 299,
     "timeWeek": 313,
     "timeMonth": 969,
     "timeYear": 510,
-    "dailyMinutesDown": {
-      "2024-03-17": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lil Fi",
@@ -990,18 +984,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/omegacoms.com.au.ico",
     "slug": "omega-communication-services",
     "status": "up",
-    "uptime": "99.09%",
+    "uptime": "99.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "76.95%",
-    "uptimeYear": "98.07%",
+    "uptimeMonth": "76.22%",
+    "uptimeYear": "98.01%",
     "time": 1087,
     "timeDay": 1654,
     "timeWeek": 1530,
     "timeMonth": 1434,
     "timeYear": 1139,
     "dailyMinutesDown": {
-      "2024-03-17": 190,
+      "2024-03-17": 507,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
@@ -1168,18 +1162,20 @@
     "url": "https://wavesconcretepumping.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/wavesconcretepumping.com.au.ico",
     "slug": "waves-concrete-pumping",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 542,
-    "timeDay": 512,
-    "timeWeek": 507,
-    "timeMonth": 504,
+    "timeDay": 527,
+    "timeWeek": 511,
+    "timeMonth": 505,
     "timeYear": 542,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-17": 2
+    }
   },
   {
     "name": "Woman of Courage",
