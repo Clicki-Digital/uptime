@@ -12,7 +12,7 @@
     "uptimeYear": "99.99%",
     "time": 1601,
     "timeDay": 1702,
-    "timeWeek": 2093,
+    "timeWeek": 1790,
     "timeMonth": 2100,
     "timeYear": 1822,
     "dailyMinutesDown": {
@@ -71,7 +71,7 @@
     "timeDay": 344,
     "timeWeek": 345,
     "timeMonth": 358,
-    "timeYear": 677,
+    "timeYear": 656,
     "dailyMinutesDown": {
       "2023-04-05": 16
     }
@@ -100,7 +100,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/beulah.net.au.ico",
     "slug": "beulah-revival-network",
     "status": "up",
-    "uptime": "98.90%",
+    "uptime": "98.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -127,7 +127,7 @@
     "timeDay": 1726,
     "timeWeek": 1560,
     "timeMonth": 1473,
-    "timeYear": 1971,
+    "timeYear": 1931,
     "dailyMinutesDown": {
       "2023-05-09": 40
     }
@@ -175,17 +175,16 @@
     "slug": "cafe7",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "100.00%",
     "time": 1176,
     "timeDay": 949,
     "timeWeek": 540,
     "timeMonth": 406,
     "timeYear": 600,
     "dailyMinutesDown": {
-      "2024-03-31": 10,
       "2024-03-17": 24
     }
   },
@@ -338,7 +337,7 @@
     "timeDay": 1790,
     "timeWeek": 1548,
     "timeMonth": 1509,
-    "timeYear": 1920,
+    "timeYear": 1895,
     "dailyMinutesDown": {
       "2023-11-05": 26
     }
@@ -451,11 +450,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3879,
+    "time": 3139,
     "timeDay": 960,
     "timeWeek": 1030,
     "timeMonth": 1127,
-    "timeYear": 2058,
+    "timeYear": 1634,
     "dailyMinutesDown": {}
   },
   {
@@ -979,18 +978,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/omegacoms.com.au.ico",
     "slug": "omega-communication-services",
     "status": "up",
-    "uptime": "97.34%",
+    "uptime": "97.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "30.91%",
-    "uptimeYear": "94.23%",
+    "uptimeMonth": "28.78%",
+    "uptimeYear": "94.06%",
     "time": 1104,
     "timeDay": 1618,
     "timeWeek": 1552,
     "timeMonth": 1447,
     "timeYear": 1159,
     "dailyMinutesDown": {
-      "2024-03-31": 197,
+      "2024-03-31": 1126,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
       "2024-03-28": 1440,
@@ -1172,18 +1171,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wavesconcretepumping.com.au.ico",
     "slug": "waves-concrete-pumping",
     "status": "down",
-    "uptime": "94.47%",
+    "uptime": "94.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "54.68%",
-    "uptimeYear": "94.47%",
+    "uptimeMonth": "52.56%",
+    "uptimeYear": "94.23%",
     "time": 561,
     "timeDay": 539,
     "timeWeek": 536,
     "timeMonth": 665,
     "timeYear": 561,
     "dailyMinutesDown": {
-      "2024-03-31": 198,
+      "2024-03-31": 1127,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
       "2024-03-28": 1440,
@@ -1205,18 +1204,20 @@
     "url": "https://womenofcourageaustralia.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/womenofcourageaustralia.com.au.ico",
     "slug": "woman-of-courage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1048,
-    "timeDay": 1152,
-    "timeWeek": 1064,
-    "timeMonth": 1011,
-    "timeYear": 1048,
-    "dailyMinutesDown": {}
+    "time": 1046,
+    "timeDay": 888,
+    "timeWeek": 1010,
+    "timeMonth": 1001,
+    "timeYear": 1046,
+    "dailyMinutesDown": {
+      "2024-03-31": 3
+    }
   },
   {
     "name": "Worship Ministries International",
@@ -1244,7 +1245,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/youngdiscoverers.org.au.ico",
     "slug": "young-discoverers",
     "status": "up",
-    "uptime": "96.23%",
+    "uptime": "96.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
