@@ -671,19 +671,19 @@
     "url": "https://livingword.org.au",
     "icon": "https://icons.duckduckgo.com/ip3/livingword.org.au.ico",
     "slug": "living-word-church",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "97.73%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 1158,
-    "timeDay": 3727,
-    "timeWeek": 1902,
-    "timeMonth": 1284,
-    "timeYear": 788,
+    "time": 1174,
+    "timeDay": 6596,
+    "timeWeek": 3061,
+    "timeMonth": 1609,
+    "timeYear": 818,
     "dailyMinutesDown": {
-      "2024-04-15": 33
+      "2024-04-15": 35
     }
   },
   {
@@ -989,7 +989,7 @@
     "timeMonth": 1656,
     "timeYear": 1192,
     "dailyMinutesDown": {
-      "2024-04-15": 1431,
+      "2024-04-15": 1438,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
       "2024-04-12": 1440,
@@ -1189,7 +1189,7 @@
     "uptime": "88.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "2.56%",
+    "uptimeMonth": "2.54%",
     "uptimeYear": "88.82%",
     "time": 563,
     "timeDay": 487,
@@ -1197,7 +1197,7 @@
     "timeMonth": 714,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2024-04-15": 1431,
+      "2024-04-15": 1439,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
       "2024-04-12": 1440,
