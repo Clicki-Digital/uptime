@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/adambrandmusic.com.ico",
     "slug": "adam-brand-music",
     "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 1688,
     "timeDay": 7052,
@@ -16,7 +16,7 @@
     "timeMonth": 2623,
     "timeYear": 1918,
     "dailyMinutesDown": {
-      "2024-04-17": 1,
+      "2024-04-17": 8,
       "2023-09-24": 20,
       "2023-05-09": 31
     }
@@ -991,7 +991,7 @@
     "timeMonth": 1656,
     "timeYear": 1193,
     "dailyMinutesDown": {
-      "2024-04-17": 1076,
+      "2024-04-17": 1082,
       "2024-04-16": 1440,
       "2024-04-15": 1440,
       "2024-04-14": 1440,
@@ -1075,19 +1075,19 @@
     "url": "https://racequipment.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/racequipment.com.au.ico",
     "slug": "rac-equipment",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 905,
-    "timeDay": 2311,
-    "timeWeek": 2139,
-    "timeMonth": 1239,
-    "timeYear": 936,
+    "time": 927,
+    "timeDay": 4788,
+    "timeWeek": 3819,
+    "timeMonth": 1678,
+    "timeYear": 967,
     "dailyMinutesDown": {
-      "2024-04-17": 7
+      "2024-04-17": 2
     }
   },
   {
@@ -1203,7 +1203,7 @@
     "timeMonth": 721,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2024-04-17": 1076,
+      "2024-04-17": 1082,
       "2024-04-16": 1440,
       "2024-04-15": 1440,
       "2024-04-14": 1440,
