@@ -1,7 +1,7 @@
 url: https://racequipment.com.au
-status: up
-code: 200
-responseTime: 1927
-lastUpdated: 2024-04-27T23:06:44.085Z
+status: degraded
+code: 500
+responseTime: 21648
+lastUpdated: 2024-04-28T19:52:20.647Z
 startTime: 2022-01-29T13:44:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
