@@ -985,7 +985,7 @@
     "uptime": "94.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "26.22%",
+    "uptimeMonth": "26.23%",
     "uptimeYear": "88.72%",
     "time": 1115,
     "timeDay": 1334,
@@ -1080,19 +1080,19 @@
     "url": "https://racequipment.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/racequipment.com.au.ico",
     "slug": "rac-equipment",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1032,
-    "timeDay": 11788,
-    "timeWeek": 4683,
-    "timeMonth": 2806,
-    "timeYear": 1100,
+    "time": 1035,
+    "timeDay": 8555,
+    "timeWeek": 4395,
+    "timeMonth": 2787,
+    "timeYear": 1103,
     "dailyMinutesDown": {
-      "2024-04-28": 2
+      "2024-04-28": 6
     }
   },
   {
@@ -1208,7 +1208,7 @@
     "timeMonth": 718,
     "timeYear": 579,
     "dailyMinutesDown": {
-      "2024-04-28": 1194,
+      "2024-04-28": 1200,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
       "2024-04-25": 1440,
