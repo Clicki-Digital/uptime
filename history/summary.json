@@ -985,7 +985,7 @@
     "uptime": "94.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "24.19%",
+    "uptimeMonth": "24.21%",
     "uptimeYear": "88.72%",
     "time": 1115,
     "timeDay": 1334,
@@ -1206,7 +1206,7 @@
     "timeMonth": 718,
     "timeYear": 579,
     "dailyMinutesDown": {
-      "2024-04-28": 307,
+      "2024-04-28": 315,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
       "2024-04-25": 1440,
@@ -1256,19 +1256,19 @@
     "url": "https://womenofcourageaustralia.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/womenofcourageaustralia.com.au.ico",
     "slug": "woman-of-courage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1048,
-    "timeDay": 909,
-    "timeWeek": 1016,
-    "timeMonth": 1055,
-    "timeYear": 1048,
+    "time": 1049,
+    "timeDay": 1004,
+    "timeWeek": 1035,
+    "timeMonth": 1059,
+    "timeYear": 1049,
     "dailyMinutesDown": {
-      "2024-04-28": 1
+      "2024-04-28": 8
     }
   },
   {
