@@ -866,19 +866,19 @@
     "url": "https://nicnax.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/nicnax.com.au.ico",
     "slug": "nic-nax",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 784,
-    "timeDay": 1570,
-    "timeWeek": 927,
-    "timeMonth": 807,
+    "time": 782,
+    "timeDay": 1216,
+    "timeWeek": 881,
+    "timeMonth": 798,
     "timeYear": 754,
     "dailyMinutesDown": {
-      "2024-04-28": 2
+      "2024-04-28": 9
     }
   },
   {
@@ -987,7 +987,7 @@
     "uptime": "94.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "24.06%",
+    "uptimeMonth": "24.08%",
     "uptimeYear": "88.72%",
     "time": 1115,
     "timeDay": 1334,
@@ -1208,7 +1208,7 @@
     "timeMonth": 718,
     "timeYear": 579,
     "dailyMinutesDown": {
-      "2024-04-28": 248,
+      "2024-04-28": 258,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
       "2024-04-25": 1440,
