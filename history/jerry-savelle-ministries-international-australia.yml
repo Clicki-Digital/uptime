@@ -1,7 +1,7 @@
-url: https://portal.jsmiaustralia.org
-status: up
+url: https://jsmiaustralia.org
+status: degraded
 code: 200
-responseTime: 977
-lastUpdated: 2024-05-03T16:12:48.956Z
+responseTime: 6110
+lastUpdated: 2024-05-03T16:46:03.751Z
 startTime: 2022-01-29T13:43:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
