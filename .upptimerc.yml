@@ -212,7 +212,7 @@ sites:
       - 0
       - 200
       - 201
-  - name: Jerry Savelle Ministries International Australia
+  - name: Portal - Jerry Savelle Ministries International Australia
     url: https://portal.jsmiaustralia.org
     maxResponseTime: 5000
     expectedStatusCodes:
@@ -446,7 +446,7 @@ sites:
       - 201
   - name: Young Discoverers
     url: https://youngdiscoverers.org.au	
-    maxResponseTime: 15000
+    maxResponseTime: 5000
     expectedStatusCodes:
       - 0
       - 200
