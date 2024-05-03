@@ -574,7 +574,6 @@
     "timeMonth": 2739,
     "timeYear": 1806,
     "dailyMinutesDown": {
-      "2024-05-03": 0,
       "2023-06-21": 227
     }
   },
@@ -595,7 +594,6 @@
     "timeMonth": 2739,
     "timeYear": 1806,
     "dailyMinutesDown": {
-      "2024-05-03": 0,
       "2023-06-21": 227
     }
   },
@@ -733,19 +731,19 @@
     "url": "https://loungerepairguys.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/loungerepairguys.com.au.ico",
     "slug": "lounge-repair-guys",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 259,
-    "timeDay": 881,
-    "timeWeek": 611,
-    "timeMonth": 321,
-    "timeYear": 259,
+    "time": 263,
+    "timeDay": 904,
+    "timeWeek": 643,
+    "timeMonth": 341,
+    "timeYear": 263,
     "dailyMinutesDown": {
-      "2024-05-03": 19,
+      "2024-05-03": 20,
       "2023-11-13": 47
     }
   },
@@ -988,7 +986,7 @@
     "uptime": "95.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "44.04%",
+    "uptimeMonth": "44.06%",
     "uptimeYear": "88.72%",
     "time": 1118,
     "timeDay": 1743,
@@ -1209,7 +1207,7 @@
     "timeMonth": 718,
     "timeYear": 578,
     "dailyMinutesDown": {
-      "2024-05-03": 362,
+      "2024-05-03": 370,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
