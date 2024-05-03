@@ -574,7 +574,6 @@
     "timeMonth": 2684,
     "timeYear": 1790,
     "dailyMinutesDown": {
-      "2024-05-02": 0,
       "2023-06-21": 227
     }
   },
@@ -595,7 +594,6 @@
     "timeMonth": 2684,
     "timeYear": 1790,
     "dailyMinutesDown": {
-      "2024-05-02": 0,
       "2023-06-21": 227
     }
   },
@@ -987,7 +985,7 @@
     "uptime": "95.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "43.14%",
+    "uptimeMonth": "43.27%",
     "uptimeYear": "88.72%",
     "time": 1118,
     "timeDay": 1743,
@@ -1197,18 +1195,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wavesconcretepumping.com.au.ico",
     "slug": "waves-concrete-pumping",
     "status": "down",
-    "uptime": "83.47%",
+    "uptime": "83.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "83.47%",
+    "uptimeYear": "83.46%",
     "time": 578,
     "timeDay": 664,
     "timeWeek": 553,
     "timeMonth": 718,
     "timeYear": 578,
     "dailyMinutesDown": {
-      "2024-05-02": 1407,
+      "2024-05-03": 24,
+      "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
