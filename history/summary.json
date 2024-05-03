@@ -569,11 +569,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1959,
-    "timeDay": 3782,
-    "timeWeek": 3407,
-    "timeMonth": 2700,
-    "timeYear": 1794,
+    "timeDay": 3756,
+    "timeWeek": 3399,
+    "timeMonth": 2707,
+    "timeYear": 1796,
     "dailyMinutesDown": {
+      "2024-05-03": 0,
       "2023-06-21": 227
     }
   },
@@ -589,11 +590,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1959,
-    "timeDay": 3782,
-    "timeWeek": 3407,
-    "timeMonth": 2700,
-    "timeYear": 1794,
+    "timeDay": 3756,
+    "timeWeek": 3399,
+    "timeMonth": 2707,
+    "timeYear": 1796,
     "dailyMinutesDown": {
+      "2024-05-03": 0,
       "2023-06-21": 227
     }
   },
@@ -733,9 +735,9 @@
     "slug": "lounge-repair-guys",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 256,
     "timeDay": 882,
@@ -743,7 +745,7 @@
     "timeMonth": 305,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2024-05-03": 2,
+      "2024-05-03": 8,
       "2023-11-13": 47
     }
   },
@@ -986,7 +988,7 @@
     "uptime": "95.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "43.97%",
+    "uptimeMonth": "43.99%",
     "uptimeYear": "88.72%",
     "time": 1118,
     "timeDay": 1743,
@@ -1207,7 +1209,7 @@
     "timeMonth": 718,
     "timeYear": 578,
     "dailyMinutesDown": {
-      "2024-05-03": 330,
+      "2024-05-03": 337,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
