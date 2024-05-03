@@ -311,13 +311,13 @@ sites:
       - 0
       - 200
       - 201
-  - name: New Wave Construction
-    url: https://newwaveconstruction.com.au
-    maxResponseTime: 5000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
+  # - name: New Wave Construction
+  #   url: https://newwaveconstruction.com.au
+  #   maxResponseTime: 5000
+  #   expectedStatusCodes:
+  #     - 0
+  #     - 200
+  #     - 201
   - name: NicNax
     url: https://nicnax.com.au
     maxResponseTime: 5000
@@ -423,13 +423,13 @@ sites:
       - 0
       - 200
       - 201
-  - name: Waves Concrete Pumping
-    url: https://wavesconcretepumping.com.au
-    maxResponseTime: 5000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
+  # - name: Waves Concrete Pumping
+  #   url: https://wavesconcretepumping.com.au
+  #   maxResponseTime: 5000
+  #   expectedStatusCodes:
+  #     - 0
+  #     - 200
+  #     - 201
   - name: Woman of Courage
     url: https://womenofcourageaustralia.com.au
     maxResponseTime: 5000
