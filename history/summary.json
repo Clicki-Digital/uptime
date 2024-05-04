@@ -71,7 +71,7 @@
     "time": 1023,
     "timeDay": 391,
     "timeWeek": 363,
-    "timeMonth": 1061,
+    "timeMonth": 409,
     "timeYear": 493,
     "dailyMinutesDown": {}
   },
@@ -181,7 +181,7 @@
     "time": 1011,
     "timeDay": 429,
     "timeWeek": 385,
-    "timeMonth": 1073,
+    "timeMonth": 370,
     "timeYear": 569,
     "dailyMinutesDown": {
       "2024-03-17": 24
@@ -562,19 +562,19 @@
     "url": "https://jsmiaustralia.org",
     "icon": "https://icons.duckduckgo.com/ip3/jsmiaustralia.org.ico",
     "slug": "jerry-savelle-ministries-international-australia",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.93%",
-    "uptimeDay": "66.75%",
-    "uptimeWeek": "95.25%",
-    "uptimeMonth": "98.91%",
+    "uptimeDay": "67.05%",
+    "uptimeWeek": "95.29%",
+    "uptimeMonth": "98.92%",
     "uptimeYear": "99.87%",
-    "time": 2308,
-    "timeDay": 5192,
-    "timeWeek": 4159,
-    "timeMonth": 3726,
-    "timeYear": 2164,
+    "time": 2312,
+    "timeDay": 5255,
+    "timeWeek": 4184,
+    "timeMonth": 3748,
+    "timeYear": 2170,
     "dailyMinutesDown": {
-      "2024-05-04": 479,
+      "2024-05-04": 475,
       "2023-06-21": 227
     }
   },
@@ -753,9 +753,9 @@
     "slug": "lt-consulting",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 933,
     "timeDay": 1371,
@@ -763,7 +763,6 @@
     "timeMonth": 952,
     "timeYear": 949,
     "dailyMinutesDown": {
-      "2024-05-04": 6,
       "2024-02-18": 21,
       "2023-06-04": 19
     }
@@ -964,7 +963,7 @@
     "uptime": "95.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "49.09%",
+    "uptimeMonth": "49.16%",
     "uptimeYear": "88.72%",
     "time": 1121,
     "timeDay": 1743,
