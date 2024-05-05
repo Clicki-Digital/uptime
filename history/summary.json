@@ -100,18 +100,16 @@
     "slug": "beulah-revival-network",
     "status": "up",
     "uptime": "98.98%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1663,
     "timeDay": 1144,
     "timeWeek": 762,
     "timeMonth": 652,
     "timeYear": 660,
-    "dailyMinutesDown": {
-      "2024-05-05": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bookkeeper to the Smart People",
@@ -138,19 +136,19 @@
     "url": "https://burdi.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/burdi.com.au.ico",
     "slug": "burdi",
-    "status": "down",
+    "status": "up",
     "uptime": "98.95%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 589,
-    "timeDay": 410,
-    "timeWeek": 430,
-    "timeMonth": 429,
+    "time": 587,
+    "timeDay": 395,
+    "timeWeek": 423,
+    "timeMonth": 427,
     "timeYear": 459,
     "dailyMinutesDown": {
-      "2024-05-05": 2
+      "2024-05-05": 8
     }
   },
   {
@@ -568,9 +566,9 @@
     "slug": "jerry-savelle-ministries-international-australia",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "96.05%",
-    "uptimeWeek": "94.74%",
-    "uptimeMonth": "98.79%",
+    "uptimeDay": "96.56%",
+    "uptimeWeek": "94.82%",
+    "uptimeMonth": "98.81%",
     "uptimeYear": "99.86%",
     "time": 2383,
     "timeDay": 5477,
@@ -578,7 +576,7 @@
     "timeMonth": 3997,
     "timeYear": 2292,
     "dailyMinutesDown": {
-      "2024-05-05": 56,
+      "2024-05-05": 49,
       "2024-05-04": 473,
       "2023-06-21": 227
     }
@@ -968,7 +966,7 @@
     "uptime": "95.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "52.41%",
+    "uptimeMonth": "52.43%",
     "uptimeYear": "88.72%",
     "time": 1125,
     "timeDay": 1330,
