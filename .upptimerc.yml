@@ -4,7 +4,7 @@ repo: uptime
 sites:
   - name: Adam Brand Music
     url: https://adambrandmusic.com
-    maxResponseTime: 5000
+    maxResponseTime: 7500
     expectedStatusCodes:
       - 0
       - 200
@@ -207,7 +207,7 @@ sites:
       - 201
   - name: Jerry Savelle Ministries International Australia
     url: https://jsmiaustralia.org
-    maxResponseTime: 5000
+    maxResponseTime: 7500
     expectedStatusCodes:
       - 0
       - 200
