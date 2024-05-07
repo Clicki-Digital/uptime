@@ -731,9 +731,9 @@
     "slug": "lounge-repair-guys",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "98.20%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.95%",
     "time": 314,
     "timeDay": 831,
@@ -741,7 +741,7 @@
     "timeMonth": 551,
     "timeYear": 314,
     "dailyMinutesDown": {
-      "2024-05-07": 26,
+      "2024-05-07": 19,
       "2024-05-03": 78,
       "2023-11-13": 47
     }
@@ -963,7 +963,7 @@
     "uptime": "95.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "57.14%",
+    "uptimeMonth": "57.29%",
     "uptimeYear": "88.72%",
     "time": 1126,
     "timeDay": 1174,
@@ -1096,18 +1096,20 @@
     "url": "https://solomon.ninja",
     "icon": "https://icons.duckduckgo.com/ip3/solomon.ninja.ico",
     "slug": "solomon-ninja",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1719,
-    "timeDay": 1529,
-    "timeWeek": 1702,
-    "timeMonth": 1857,
-    "timeYear": 1758,
-    "dailyMinutesDown": {}
+    "time": 1713,
+    "timeDay": 1293,
+    "timeWeek": 1637,
+    "timeMonth": 1832,
+    "timeYear": 1756,
+    "dailyMinutesDown": {
+      "2024-05-07": 1
+    }
   },
   {
     "name": "Swell Plumbing and Gas",
@@ -1219,7 +1221,7 @@
     "time": 3791,
     "timeDay": 215,
     "timeWeek": 764,
-    "timeMonth": 2159,
+    "timeMonth": 1736,
     "timeYear": 3719,
     "dailyMinutesDown": {
       "2024-05-01": 189,
