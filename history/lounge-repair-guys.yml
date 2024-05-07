@@ -1,7 +1,7 @@
 url: https://loungerepairguys.com.au
-status: up
-code: 200
-responseTime: 35
-lastUpdated: 2024-05-07T05:08:00.289Z
+status: down
+code: 500
+responseTime: 853
+lastUpdated: 2024-05-07T05:27:32.569Z
 startTime: 2023-10-22T23:06:23.495Z
 generator: Upptime <https://github.com/upptime/upptime>
