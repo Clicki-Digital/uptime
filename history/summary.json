@@ -225,19 +225,19 @@
     "url": "https://claimswrights.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/claimswrights.co.uk.ico",
     "slug": "claims-wrights",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 704,
-    "timeDay": 2945,
-    "timeWeek": 988,
-    "timeMonth": 546,
+    "time": 701,
+    "timeDay": 2050,
+    "timeWeek": 907,
+    "timeMonth": 538,
     "timeYear": 424,
     "dailyMinutesDown": {
-      "2024-05-13": 2
+      "2024-05-13": 7
     }
   },
   {
@@ -965,7 +965,7 @@
     "uptime": "95.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "78.42%",
+    "uptimeMonth": "78.43%",
     "uptimeYear": "88.72%",
     "time": 1131,
     "timeDay": 1363,
