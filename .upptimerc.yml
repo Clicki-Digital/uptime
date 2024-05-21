@@ -4,14 +4,14 @@ repo: uptime
 sites:
   - name: Adam Brand Music
     url: https://adambrandmusic.com
-    maxResponseTime: 7500
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: All Access Electrical
     url: https://allaccesselectrical.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -25,7 +25,7 @@ sites:
       - 201
   - name: Ausource International
     url: https://ausourceintl.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -36,129 +36,129 @@ sites:
       - 0
       - 200
       - 201
-    maxResponseTime: 5000
+    maxResponseTime: 10000
   - name: Beulah Revival Network
     url: https://beulah.net.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Bookkeeper to the Smart People
     url: https://bksp.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Burdi
     url: https://burdi.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Burdi - Selfservice
     url: https://manage.burdi.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Cafe7
     url: https://cafe7.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: CC Electrical and Air 
     url: https://ccelectricalandair.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Chariots of Light Australia 
     url: https://chariotsoflight.org.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: ClaimsWrights
     url: https://claimswrights.co.uk
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Clare Page Photography
     url: https://clarepagephotography.com/
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Clicki Digital
     url: https://clickidigital.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Contreat
     url: https://contreat.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Col Stringer
     url: https://colstringer.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Diverse AirCon & Mechanical
     url: https://diverseaircon.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: EntVenture
     url: https://entventure.org
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Envirometal
     url: https://envirometal.stage.clicki.digital/
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Gary Rucci
     url: https://garyrucci.com/
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Gracious5
     url: https://gracious5.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Gold Coast Edge Protection
     url: https://gcep.net.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -172,35 +172,35 @@ sites:
       - 201
   - name: HopeAlley
     url: https://hopealley.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: HopeAlley Ecards
     url: https://hopealley.com/ecards
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Hopelands Church
     url: https://hopelands.church
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Ian Slack
     url: https://ianslack.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Independent Wealth Management Australia
     url: https://iwmaus.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -214,7 +214,7 @@ sites:
       - 201
   - name: Portal - Jerry Savelle Ministries International Australia
     url: https://portal.jsmiaustralia.org
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -228,56 +228,56 @@ sites:
       - 201
   - name: Keystone Leadership Group
     url: https://keystoneleadership.com.au/
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Lance N. Solomon
     url: https://lancensolomon.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Lil Fi
     url: https://lilfi.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Living Word Church
     url: https://livingword.org.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Lee Meehan Roofing
     url: https://lmr.net.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Legal Insite
     url: https://legalinsite.com.au/
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Lounge Repair Guys
     url: https://loungerepairguys.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: LT Consulting
     url: https://ltconsulting.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -285,70 +285,70 @@ sites:
   - name: Lucid Solutions
     url: https://getlucid.solutions
     icon: https://getlucid.solutions/wp-content/uploads/2020/12/cropped-ls-icon-32x32.png
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: The Lucid Group
     url: https://thelucid.group
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Minds and Hearts
     url: https://mindsandhearts.net
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Moncai
     url: https://moncai.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   # - name: New Wave Construction
   #   url: https://newwaveconstruction.com.au
-  #   maxResponseTime: 5000
+  #   maxResponseTime: 10000
   #   expectedStatusCodes:
   #     - 0
   #     - 200
   #     - 201
   - name: NicNax
     url: https://nicnax.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Nomolos
     url: https://nomolos.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Nyarima
     url: https://nyarima.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Nyarima
     url: https://nyarima.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Oasis House
     url: https://oasishouse.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -362,35 +362,35 @@ sites:
       - 201
   - name: Omega Communication Services
     url: https://omegacoms.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Optimise BnB
     url: https://optimisebnb.com.au/
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Peak Horizons
     url: https://peakhorizons.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: RAC Equipment
     url: https://racequipment.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Stone Creative Group
     url: https://www.stonecreative.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -404,49 +404,49 @@ sites:
       - 201
   - name: Swell Plumbing and Gas
     url: https://swellplumbingandgas.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Tracy Hitchings Music
     url: https://tracyhitchingsmusic.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: VetAnswers
     url: https://vetanswers.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   # - name: Waves Concrete Pumping
   #   url: https://wavesconcretepumping.com.au
-  #   maxResponseTime: 5000
+  #   maxResponseTime: 10000
   #   expectedStatusCodes:
   #     - 0
   #     - 200
   #     - 201
   - name: Woman of Courage
     url: https://womenofcourageaustralia.com.au
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Worship Ministries International
     url: https://worshipministriesinternational.com	
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Young Discoverers
     url: https://youngdiscoverers.org.au	
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
