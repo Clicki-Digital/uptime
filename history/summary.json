@@ -347,7 +347,7 @@
     "timeDay": 388,
     "timeWeek": 682,
     "timeMonth": 1106,
-    "timeYear": 534,
+    "timeYear": 532,
     "dailyMinutesDown": {
       "2023-11-05": 26
     }
@@ -555,9 +555,9 @@
     "slug": "jerry-savelle-ministries-international-australia",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "66.51%",
-    "uptimeWeek": "94.97%",
-    "uptimeMonth": "97.65%",
+    "uptimeDay": "66.94%",
+    "uptimeWeek": "95.03%",
+    "uptimeMonth": "97.66%",
     "uptimeYear": "99.76%",
     "time": 2710,
     "timeDay": 7842,
@@ -565,7 +565,7 @@
     "timeMonth": 4971,
     "timeYear": 2647,
     "dailyMinutesDown": {
-      "2024-05-20": 481,
+      "2024-05-20": 475,
       "2024-05-19": 25,
       "2024-05-05": 49,
       "2024-05-04": 473,
