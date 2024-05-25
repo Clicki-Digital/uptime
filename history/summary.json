@@ -243,18 +243,20 @@
     "url": "https://clarepagephotography.com/",
     "icon": "https://icons.duckduckgo.com/ip3/clarepagephotography.com.ico",
     "slug": "clare-page-photography",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2116,
-    "timeDay": 1190,
-    "timeWeek": 1489,
-    "timeMonth": 1506,
-    "timeYear": 1674,
-    "dailyMinutesDown": {}
+    "time": 2119,
+    "timeDay": 3204,
+    "timeWeek": 1904,
+    "timeMonth": 1615,
+    "timeYear": 1684,
+    "dailyMinutesDown": {
+      "2024-05-25": 2
+    }
   },
   {
     "name": "Clicki Digital",
