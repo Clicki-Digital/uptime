@@ -97,18 +97,20 @@
     "url": "https://beulah.net.au",
     "icon": "https://icons.duckduckgo.com/ip3/beulah.net.au.ico",
     "slug": "beulah-revival-network",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1353,
-    "timeDay": 257,
-    "timeWeek": 364,
-    "timeMonth": 560,
+    "time": 1345,
+    "timeDay": 388,
+    "timeWeek": 381,
+    "timeMonth": 559,
     "timeYear": 602,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-25": 1
+    }
   },
   {
     "name": "Bookkeeper to the Smart People",
@@ -135,18 +137,16 @@
     "slug": "burdi",
     "status": "up",
     "uptime": "98.97%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 559,
     "timeDay": 303,
     "timeWeek": 437,
     "timeMonth": 409,
     "timeYear": 442,
-    "dailyMinutesDown": {
-      "2024-05-25": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Burdi - Selfservice",
@@ -540,7 +540,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iwmaus.com.au.ico",
     "slug": "independent-wealth-management-australia",
     "status": "up",
-    "uptime": "95.02%",
+    "uptime": "95.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1216,7 +1216,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/youngdiscoverers.org.au.ico",
     "slug": "young-discoverers",
     "status": "up",
-    "uptime": "96.46%",
+    "uptime": "96.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
