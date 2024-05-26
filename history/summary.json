@@ -694,19 +694,19 @@
     "url": "https://lmr.net.au",
     "icon": "https://icons.duckduckgo.com/ip3/lmr.net.au.ico",
     "slug": "lee-meehan-roofing",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 627,
-    "timeDay": 1675,
-    "timeWeek": 834,
-    "timeMonth": 528,
-    "timeYear": 627,
+    "time": 629,
+    "timeDay": 1560,
+    "timeWeek": 884,
+    "timeMonth": 551,
+    "timeYear": 629,
     "dailyMinutesDown": {
-      "2024-05-26": 2
+      "2024-05-26": 6
     }
   },
   {
