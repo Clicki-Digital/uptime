@@ -1,7 +1,7 @@
 url: https://livingword.org.au
-status: up
-code: 200
-responseTime: 1855
-lastUpdated: 2024-05-27T02:34:07.602Z
+status: down
+code: 502
+responseTime: 1328
+lastUpdated: 2024-05-27T02:43:14.440Z
 startTime: 2022-01-29T13:44:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
