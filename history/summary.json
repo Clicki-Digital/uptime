@@ -6,9 +6,9 @@
     "slug": "adam-brand-music",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "60.17%",
-    "uptimeWeek": "94.31%",
-    "uptimeMonth": "98.69%",
+    "uptimeDay": "59.50%",
+    "uptimeWeek": "94.21%",
+    "uptimeMonth": "98.67%",
     "uptimeYear": "99.88%",
     "time": 1949,
     "timeDay": 2097,
@@ -16,7 +16,7 @@
     "timeMonth": 2895,
     "timeYear": 2223,
     "dailyMinutesDown": {
-      "2024-05-31": 574,
+      "2024-05-31": 583,
       "2024-04-19": 16,
       "2023-09-24": 20
     }
@@ -246,9 +246,9 @@
     "slug": "clare-page-photography",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 2089,
     "timeDay": 1960,
@@ -256,7 +256,7 @@
     "timeMonth": 1627,
     "timeYear": 1671,
     "dailyMinutesDown": {
-      "2024-05-31": 1,
+      "2024-05-31": 11,
       "2024-05-25": 30
     }
   },
@@ -1122,19 +1122,19 @@
     "url": "https://swellplumbingandgas.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/swellplumbingandgas.com.au.ico",
     "slug": "swell-plumbing-and-gas",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 604,
-    "timeDay": 1658,
-    "timeWeek": 762,
-    "timeMonth": 457,
-    "timeYear": 483,
+    "time": 674,
+    "timeDay": 1715,
+    "timeWeek": 880,
+    "timeMonth": 493,
+    "timeYear": 486,
     "dailyMinutesDown": {
-      "2024-05-31": 2,
+      "2024-05-31": 10,
       "2023-09-24": 30
     }
   },
