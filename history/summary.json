@@ -7,8 +7,8 @@
     "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.09%",
-    "uptimeMonth": "95.19%",
+    "uptimeWeek": "78.91%",
+    "uptimeMonth": "95.15%",
     "uptimeYear": "99.59%",
     "time": 1950,
     "timeDay": 1862,
@@ -16,7 +16,7 @@
     "timeMonth": 2894,
     "timeYear": 2226,
     "dailyMinutesDown": {
-      "2024-06-01": 1178,
+      "2024-06-01": 1197,
       "2024-05-31": 929,
       "2024-04-19": 16,
       "2023-09-24": 20
@@ -101,9 +101,9 @@
     "slug": "beulah-revival-network",
     "status": "down",
     "uptime": "99.03%",
-    "uptimeDay": "97.92%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "96.60%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 1206,
     "timeDay": 1507,
@@ -111,7 +111,7 @@
     "timeMonth": 612,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2024-06-01": 30
+      "2024-06-01": 49
     }
   },
   {
@@ -248,10 +248,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/clarepagephotography.com.ico",
     "slug": "clare-page-photography",
     "status": "down",
-    "uptime": "99.81%",
+    "uptime": "99.80%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "84.77%",
-    "uptimeMonth": "96.43%",
+    "uptimeWeek": "84.58%",
+    "uptimeMonth": "96.38%",
     "uptimeYear": "99.70%",
     "time": 2084,
     "timeDay": 1781,
@@ -259,7 +259,7 @@
     "timeMonth": 1638,
     "timeYear": 1670,
     "dailyMinutesDown": {
-      "2024-06-01": 1178,
+      "2024-06-01": 1197,
       "2024-05-31": 357,
       "2024-05-25": 30
     }
@@ -306,10 +306,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/colstringer.com.ico",
     "slug": "col-stringer",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.95%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 1515,
     "timeDay": 2639,
@@ -317,7 +317,7 @@
     "timeMonth": 1383,
     "timeYear": 1395,
     "dailyMinutesDown": {
-      "2024-06-01": 1,
+      "2024-06-01": 20,
       "2023-11-05": 26
     }
   },
@@ -527,18 +527,16 @@
     "slug": "ian-slack",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 682,
     "timeDay": 550,
     "timeWeek": 647,
     "timeMonth": 506,
     "timeYear": 494,
-    "dailyMinutesDown": {
-      "2024-06-01": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Independent Wealth Management Australia",
@@ -972,18 +970,19 @@
     "url": "https://omegacoms.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/omegacoms.com.au.ico",
     "slug": "omega-communication-services",
-    "status": "up",
+    "status": "down",
     "uptime": "95.18%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.72%",
-    "time": 1143,
-    "timeDay": 1038,
-    "timeWeek": 1215,
-    "timeMonth": 1355,
-    "timeYear": 1269,
+    "time": 1141,
+    "timeDay": 910,
+    "timeWeek": 1136,
+    "timeMonth": 1331,
+    "timeYear": 1266,
     "dailyMinutesDown": {
+      "2024-06-01": 1,
       "2024-04-20": 393,
       "2024-04-19": 1440,
       "2024-04-18": 1440,
@@ -1150,9 +1149,9 @@
     "slug": "tracy-hitchings-music",
     "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "21.75%",
-    "uptimeWeek": "88.82%",
-    "uptimeMonth": "97.43%",
+    "uptimeDay": "20.45%",
+    "uptimeWeek": "88.64%",
+    "uptimeMonth": "97.39%",
     "uptimeYear": "99.57%",
     "time": 723,
     "timeDay": 1965,
@@ -1160,7 +1159,7 @@
     "timeMonth": 431,
     "timeYear": 723,
     "dailyMinutesDown": {
-      "2024-06-01": 1127
+      "2024-06-01": 1145
     }
   },
   {
