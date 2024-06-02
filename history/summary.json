@@ -7,8 +7,8 @@
     "status": "down",
     "uptime": "99.71%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "65.41%",
-    "uptimeMonth": "92.04%",
+    "uptimeWeek": "65.35%",
+    "uptimeMonth": "92.03%",
     "uptimeYear": "99.33%",
     "time": 1951,
     "timeDay": 1750,
@@ -16,7 +16,7 @@
     "timeMonth": 2888,
     "timeYear": 2229,
     "dailyMinutesDown": {
-      "2024-06-02": 1117,
+      "2024-06-02": 1123,
       "2024-06-01": 1440,
       "2024-05-31": 929,
       "2024-04-19": 16,
@@ -102,9 +102,9 @@
     "slug": "beulah-revival-network",
     "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "2.14%",
-    "uptimeWeek": "86.02%",
-    "uptimeMonth": "96.78%",
+    "uptimeDay": "1.71%",
+    "uptimeWeek": "85.96%",
+    "uptimeMonth": "96.77%",
     "uptimeYear": "99.73%",
     "time": 1202,
     "timeDay": 2362,
@@ -112,7 +112,7 @@
     "timeMonth": 660,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2024-06-02": 1117,
+      "2024-06-02": 1123,
       "2024-06-01": 292
     }
   },
@@ -252,8 +252,8 @@
     "status": "down",
     "uptime": "99.67%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "71.09%",
-    "uptimeMonth": "93.28%",
+    "uptimeWeek": "71.03%",
+    "uptimeMonth": "93.26%",
     "uptimeYear": "99.44%",
     "time": 2080,
     "timeDay": 2134,
@@ -261,7 +261,7 @@
     "timeMonth": 1654,
     "timeYear": 1671,
     "dailyMinutesDown": {
-      "2024-06-02": 1117,
+      "2024-06-02": 1124,
       "2024-06-01": 1440,
       "2024-05-31": 357,
       "2024-05-25": 30
@@ -310,9 +310,9 @@
     "slug": "col-stringer",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "23.31%",
-    "uptimeWeek": "89.04%",
-    "uptimeMonth": "97.48%",
+    "uptimeDay": "22.87%",
+    "uptimeWeek": "88.98%",
+    "uptimeMonth": "97.46%",
     "uptimeYear": "99.78%",
     "time": 1526,
     "timeDay": 3356,
@@ -320,7 +320,7 @@
     "timeMonth": 1533,
     "timeYear": 1410,
     "dailyMinutesDown": {
-      "2024-06-02": 849,
+      "2024-06-02": 855,
       "2024-06-01": 255,
       "2023-11-05": 26
     }
@@ -350,19 +350,19 @@
     "url": "https://entventure.org",
     "icon": "https://icons.duckduckgo.com/ip3/entventure.org.ico",
     "slug": "ent-venture",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 1272,
-    "timeDay": 521,
-    "timeWeek": 505,
-    "timeMonth": 992,
+    "time": 1267,
+    "timeDay": 500,
+    "timeWeek": 498,
+    "timeMonth": 980,
     "timeYear": 531,
     "dailyMinutesDown": {
-      "2024-06-02": 2,
+      "2024-06-02": 6,
       "2023-11-05": 26
     }
   },
@@ -538,7 +538,7 @@
     "uptimeYear": "100.00%",
     "time": 679,
     "timeDay": 467,
-    "timeWeek": 635,
+    "timeWeek": 489,
     "timeMonth": 479,
     "timeYear": 491,
     "dailyMinutesDown": {}
@@ -706,19 +706,19 @@
     "url": "https://lmr.net.au",
     "icon": "https://icons.duckduckgo.com/ip3/lmr.net.au.ico",
     "slug": "lee-meehan-roofing",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 629,
-    "timeDay": 1359,
-    "timeWeek": 928,
-    "timeMonth": 574,
-    "timeYear": 629,
+    "time": 628,
+    "timeDay": 980,
+    "timeWeek": 864,
+    "timeMonth": 565,
+    "timeYear": 628,
     "dailyMinutesDown": {
-      "2024-06-02": 2
+      "2024-06-02": 6
     }
   },
   {
@@ -1156,8 +1156,8 @@
     "status": "down",
     "uptime": "99.06%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "75.14%",
-    "uptimeMonth": "94.28%",
+    "uptimeWeek": "75.07%",
+    "uptimeMonth": "94.26%",
     "uptimeYear": "99.06%",
     "time": 731,
     "timeDay": 2242,
@@ -1165,7 +1165,7 @@
     "timeMonth": 492,
     "timeYear": 731,
     "dailyMinutesDown": {
-      "2024-06-02": 1118,
+      "2024-06-02": 1126,
       "2024-06-01": 1387
     }
   },
