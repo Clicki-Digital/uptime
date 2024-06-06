@@ -808,19 +808,19 @@
     "url": "https://thelucid.group",
     "icon": "https://icons.duckduckgo.com/ip3/thelucid.group.ico",
     "slug": "the-lucid-group",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 969,
-    "timeDay": 9456,
-    "timeWeek": 2971,
-    "timeMonth": 1320,
-    "timeYear": 969,
+    "time": 970,
+    "timeDay": 6716,
+    "timeWeek": 2778,
+    "timeMonth": 1318,
+    "timeYear": 970,
     "dailyMinutesDown": {
-      "2024-06-06": 2
+      "2024-06-06": 9
     }
   },
   {
