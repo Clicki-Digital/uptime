@@ -808,18 +808,20 @@
     "url": "https://thelucid.group",
     "icon": "https://icons.duckduckgo.com/ip3/thelucid.group.ico",
     "slug": "the-lucid-group",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 898,
-    "timeDay": 1280,
-    "timeWeek": 876,
-    "timeMonth": 810,
-    "timeYear": 898,
-    "dailyMinutesDown": {}
+    "time": 969,
+    "timeDay": 9456,
+    "timeWeek": 2971,
+    "timeMonth": 1320,
+    "timeYear": 969,
+    "dailyMinutesDown": {
+      "2024-06-06": 2
+    }
   },
   {
     "name": "Minds and Hearts",
