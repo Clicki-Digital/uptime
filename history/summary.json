@@ -867,18 +867,20 @@
     "url": "https://nicnax.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/nicnax.com.au.ico",
     "slug": "nic-nax",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 784,
-    "timeDay": 814,
-    "timeWeek": 686,
-    "timeMonth": 774,
-    "timeYear": 749,
-    "dailyMinutesDown": {}
+    "time": 785,
+    "timeDay": 1246,
+    "timeWeek": 810,
+    "timeMonth": 798,
+    "timeYear": 752,
+    "dailyMinutesDown": {
+      "2024-06-16": 2
+    }
   },
   {
     "name": "Nomolos",
@@ -943,19 +945,19 @@
     "url": "https://oasishouse.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/oasishouse.com.au.ico",
     "slug": "oasis-house",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1338,
-    "timeDay": 1442,
-    "timeWeek": 1371,
-    "timeMonth": 1335,
-    "timeYear": 1333,
+    "timeDay": 1455,
+    "timeWeek": 1381,
+    "timeMonth": 1339,
+    "timeYear": 1334,
     "dailyMinutesDown": {
-      "2024-06-16": 2
+      "2024-06-16": 16
     }
   },
   {
