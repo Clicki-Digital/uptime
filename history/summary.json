@@ -773,19 +773,19 @@
     "url": "https://ltconsulting.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/ltconsulting.com.au.ico",
     "slug": "lt-consulting",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 925,
-    "timeDay": 880,
-    "timeWeek": 768,
-    "timeMonth": 772,
-    "timeYear": 888,
+    "time": 926,
+    "timeDay": 958,
+    "timeWeek": 813,
+    "timeMonth": 785,
+    "timeYear": 889,
     "dailyMinutesDown": {
-      "2024-06-20": 2,
+      "2024-06-20": 8,
       "2024-06-09": 21,
       "2024-02-18": 21
     }
@@ -1225,18 +1225,16 @@
     "slug": "worship-ministries-international",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1104,
     "timeDay": 1049,
     "timeWeek": 851,
     "timeMonth": 811,
     "timeYear": 1146,
-    "dailyMinutesDown": {
-      "2024-06-20": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Young Discoverers",
