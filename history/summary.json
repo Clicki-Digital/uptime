@@ -570,19 +570,19 @@
     "url": "https://jsmiaustralia.org",
     "icon": "https://icons.duckduckgo.com/ip3/jsmiaustralia.org.ico",
     "slug": "jerry-savelle-ministries-international-australia",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "97.66%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "95.48%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.74%",
-    "time": 2764,
-    "timeDay": 6050,
-    "timeWeek": 3887,
-    "timeMonth": 1520,
-    "timeYear": 2752,
+    "time": 2762,
+    "timeDay": 4889,
+    "timeWeek": 3556,
+    "timeMonth": 1485,
+    "timeYear": 2750,
     "dailyMinutesDown": {
-      "2024-06-30": 33,
+      "2024-06-30": 65,
       "2024-05-22": 55,
       "2024-05-21": 249,
       "2024-05-20": 475,
@@ -783,7 +783,7 @@
     "timeDay": 585,
     "timeWeek": 962,
     "timeMonth": 851,
-    "timeYear": 891,
+    "timeYear": 892,
     "dailyMinutesDown": {
       "2024-06-09": 21,
       "2024-02-18": 21
@@ -858,7 +858,7 @@
     "timeDay": 2423,
     "timeWeek": 2370,
     "timeMonth": 2070,
-    "timeYear": 2026,
+    "timeYear": 2027,
     "dailyMinutesDown": {}
   },
   {
@@ -932,7 +932,7 @@
     "timeDay": 268,
     "timeWeek": 429,
     "timeMonth": 394,
-    "timeYear": 461,
+    "timeYear": 462,
     "dailyMinutesDown": {
       "2023-09-24": 20
     }
@@ -993,7 +993,7 @@
     "timeDay": 1516,
     "timeWeek": 1451,
     "timeMonth": 1270,
-    "timeYear": 1312,
+    "timeYear": 1314,
     "dailyMinutesDown": {
       "2024-06-09": 21,
       "2024-04-20": 393,
@@ -1075,7 +1075,7 @@
     "timeDay": 386,
     "timeWeek": 360,
     "timeMonth": 429,
-    "timeYear": 444,
+    "timeYear": 442,
     "dailyMinutesDown": {
       "2024-06-09": 21
     }
@@ -1095,7 +1095,7 @@
     "timeDay": 910,
     "timeWeek": 1081,
     "timeMonth": 1018,
-    "timeYear": 1139,
+    "timeYear": 1140,
     "dailyMinutesDown": {}
   },
   {
@@ -1113,7 +1113,7 @@
     "timeDay": 397,
     "timeWeek": 369,
     "timeMonth": 372,
-    "timeYear": 564,
+    "timeYear": 562,
     "dailyMinutesDown": {
       "2024-05-25": 15,
       "2023-10-29": 25
@@ -1134,7 +1134,7 @@
     "timeDay": 1670,
     "timeWeek": 1739,
     "timeMonth": 1790,
-    "timeYear": 1760,
+    "timeYear": 1758,
     "dailyMinutesDown": {}
   },
   {
@@ -1195,7 +1195,7 @@
     "timeDay": 473,
     "timeWeek": 510,
     "timeMonth": 496,
-    "timeYear": 1005,
+    "timeYear": 1007,
     "dailyMinutesDown": {
       "2023-09-24": 30
     }
@@ -1233,7 +1233,7 @@
     "timeDay": 182,
     "timeWeek": 229,
     "timeMonth": 729,
-    "timeYear": 1135,
+    "timeYear": 1136,
     "dailyMinutesDown": {}
   },
   {
@@ -1251,7 +1251,7 @@
     "timeDay": 185,
     "timeWeek": 166,
     "timeMonth": 169,
-    "timeYear": 2884,
+    "timeYear": 2878,
     "dailyMinutesDown": {
       "2024-05-01": 189
     }
