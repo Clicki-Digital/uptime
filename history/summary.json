@@ -161,18 +161,16 @@
     "slug": "burdi-selfservice",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2153,
     "timeDay": 8182,
     "timeWeek": 4023,
     "timeMonth": 2641,
     "timeYear": 2191,
-    "dailyMinutesDown": {
-      "2024-07-08": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cafe7",
