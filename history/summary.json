@@ -795,19 +795,19 @@
     "url": "https://getlucid.solutions",
     "icon": "https://getlucid.solutions/wp-content/uploads/2020/12/cropped-ls-icon-32x32.png",
     "slug": "lucid-solutions",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 604,
-    "timeWeek": 708,
-    "timeMonth": 428,
+    "time": 314,
+    "timeDay": 579,
+    "timeWeek": 688,
+    "timeMonth": 431,
     "timeYear": 206,
     "dailyMinutesDown": {
-      "2024-07-15": 2
+      "2024-07-15": 6
     }
   },
   {
