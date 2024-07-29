@@ -197,18 +197,20 @@
     "url": "https://ccelectricalandair.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/ccelectricalandair.com.au.ico",
     "slug": "cc-electrical-and-air",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 431,
-    "timeDay": 498,
-    "timeWeek": 378,
-    "timeMonth": 380,
-    "timeYear": 395,
-    "dailyMinutesDown": {}
+    "timeDay": 615,
+    "timeWeek": 422,
+    "timeMonth": 392,
+    "timeYear": 396,
+    "dailyMinutesDown": {
+      "2024-07-29": 1
+    }
   },
   {
     "name": "Chariots of Light Australia",
@@ -1240,7 +1242,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/youngdiscoverers.org.au.ico",
     "slug": "young-discoverers",
     "status": "up",
-    "uptime": "96.71%",
+    "uptime": "96.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
