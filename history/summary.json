@@ -48,19 +48,19 @@
     "url": "https://asetapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/asetapp.com.ico",
     "slug": "aset-app",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1366,
-    "timeDay": 1071,
-    "timeWeek": 3049,
-    "timeMonth": 3755,
-    "timeYear": 1569,
+    "time": 1370,
+    "timeDay": 1720,
+    "timeWeek": 3046,
+    "timeMonth": 3732,
+    "timeYear": 1573,
     "dailyMinutesDown": {
-      "2024-09-11": 1
+      "2024-09-11": 11
     }
   },
   {
@@ -220,7 +220,7 @@
     "timeMonth": 378,
     "timeYear": 394,
     "dailyMinutesDown": {
-      "2024-09-11": 266,
+      "2024-09-11": 277,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
@@ -641,7 +641,7 @@
     "uptime": "98.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "50.14%",
+    "uptimeMonth": "50.12%",
     "uptimeYear": "95.52%",
     "time": 2685,
     "timeDay": 215,
@@ -649,7 +649,7 @@
     "timeMonth": 795,
     "timeYear": 2797,
     "dailyMinutesDown": {
-      "2024-09-11": 267,
+      "2024-09-11": 277,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
