@@ -1,7 +1,7 @@
 url: https://adambrandmusic.com
-status: degraded
-code: 500
-responseTime: 23692
-lastUpdated: 2024-10-06T23:11:00.388Z
+status: up
+code: 200
+responseTime: 3459
+lastUpdated: 2024-10-06T23:21:02.393Z
 startTime: 2022-01-29T13:42:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
