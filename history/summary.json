@@ -1140,19 +1140,19 @@
     "url": "https://moncai.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/moncai.com.au.ico",
     "slug": "moncai",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1961,
-    "timeDay": 2932,
-    "timeWeek": 1486,
-    "timeMonth": 1175,
-    "timeYear": 1902,
+    "timeDay": 2469,
+    "timeWeek": 1492,
+    "timeMonth": 1186,
+    "timeYear": 1901,
     "dailyMinutesDown": {
-      "2025-01-12": 2
+      "2025-01-12": 6
     }
   },
   {
@@ -1255,19 +1255,19 @@
     "url": "https://www.odigdesigns.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/www.odigdesigns.com.au.ico",
     "slug": "odig-designs",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2387,
-    "timeDay": 1707,
-    "timeWeek": 1360,
-    "timeMonth": 1468,
-    "timeYear": 2283,
+    "time": 2391,
+    "timeDay": 2495,
+    "timeWeek": 1661,
+    "timeMonth": 1547,
+    "timeYear": 2288,
     "dailyMinutesDown": {
-      "2025-01-12": 2
+      "2025-01-12": 6
     }
   },
   {
@@ -1416,19 +1416,19 @@
     "url": "https://solomon.ninja",
     "icon": "https://icons.duckduckgo.com/ip3/solomon.ninja.ico",
     "slug": "solomon-ninja",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1858,
     "timeDay": 1694,
-    "timeWeek": 1628,
+    "timeWeek": 1635,
     "timeMonth": 1683,
-    "timeYear": 1928,
+    "timeYear": 1927,
     "dailyMinutesDown": {
-      "2025-01-12": 2
+      "2025-01-12": 6
     }
   },
   {
