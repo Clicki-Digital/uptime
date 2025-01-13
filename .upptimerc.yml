@@ -121,6 +121,13 @@ sites:
       - 0
       - 200
       - 201
+  - name: Construction Training Institute
+    url: https://cti.edu.au/
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Diverse AirCon & Mechanical
     url: https://diverseaircon.com.au
     maxResponseTime: 10000
