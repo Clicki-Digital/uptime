@@ -14,7 +14,7 @@
     "timeDay": 3455,
     "timeWeek": 2940,
     "timeMonth": 2958,
-    "timeYear": 2885,
+    "timeYear": 2874,
     "dailyMinutesDown": {
       "2025-01-05": 26,
       "2024-07-30": 70,
@@ -168,18 +168,20 @@
     "url": "https://manage.burdi.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/manage.burdi.com.au.ico",
     "slug": "burdi-selfservice",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2330,
-    "timeDay": 2660,
-    "timeWeek": 3511,
-    "timeMonth": 2506,
-    "timeYear": 2334,
-    "dailyMinutesDown": {}
+    "time": 2326,
+    "timeDay": 1804,
+    "timeWeek": 3191,
+    "timeMonth": 2459,
+    "timeYear": 2331,
+    "dailyMinutesDown": {
+      "2025-02-04": 2
+    }
   },
   {
     "name": "Cafe7",
@@ -209,7 +211,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ccelectricalandair.com.au.ico",
     "slug": "cc-electrical-and-air",
     "status": "up",
-    "uptime": "91.63%",
+    "uptime": "91.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -591,7 +593,7 @@
     "timeDay": 1908,
     "timeWeek": 1494,
     "timeMonth": 1322,
-    "timeYear": 1079,
+    "timeYear": 1064,
     "dailyMinutesDown": {
       "2024-07-30": 49
     }
@@ -697,7 +699,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/jsmiaustralia.org.ico",
     "slug": "jerry-savelle-ministries-international-australia",
     "status": "up",
-    "uptime": "91.23%",
+    "uptime": "91.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -943,7 +945,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lmr.net.au.ico",
     "slug": "lee-meehan-roofing",
     "status": "up",
-    "uptime": "86.97%",
+    "uptime": "86.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1057,7 +1059,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/loungerepairguys.com.au.ico",
     "slug": "lounge-repair-guys",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1186,7 +1188,7 @@
     "timeDay": 999,
     "timeWeek": 938,
     "timeMonth": 855,
-    "timeYear": 753,
+    "timeYear": 754,
     "dailyMinutesDown": {
       "2024-07-30": 48
     }
@@ -1458,7 +1460,7 @@
     "timeDay": 949,
     "timeWeek": 967,
     "timeMonth": 893,
-    "timeYear": 555,
+    "timeYear": 552,
     "dailyMinutesDown": {
       "2024-07-30": 49
     }
