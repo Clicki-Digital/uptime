@@ -601,19 +601,19 @@
     "url": "https://hopealley.com",
     "icon": "https://icons.duckduckgo.com/ip3/hopealley.com.ico",
     "slug": "hope-alley",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2090,
-    "timeDay": 1843,
-    "timeWeek": 2235,
-    "timeMonth": 2228,
+    "time": 2089,
+    "timeDay": 1953,
+    "timeWeek": 2229,
+    "timeMonth": 2227,
     "timeYear": 2125,
     "dailyMinutesDown": {
-      "2025-02-11": 2
+      "2025-02-11": 9
     }
   },
   {
@@ -621,19 +621,19 @@
     "url": "https://hopealley.com/ecards",
     "icon": "https://icons.duckduckgo.com/ip3/hopealley.com.ico",
     "slug": "hope-alley-ecards",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1559,
-    "timeDay": 912,
-    "timeWeek": 1317,
-    "timeMonth": 1290,
-    "timeYear": 1339,
+    "time": 1560,
+    "timeDay": 1240,
+    "timeWeek": 1381,
+    "timeMonth": 1308,
+    "timeYear": 1341,
     "dailyMinutesDown": {
-      "2025-02-11": 2
+      "2025-02-11": 9
     }
   },
   {
@@ -1162,19 +1162,19 @@
     "url": "https://moncai.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/moncai.com.au.ico",
     "slug": "moncai",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1957,
-    "timeDay": 1621,
-    "timeWeek": 1706,
-    "timeMonth": 1816,
+    "time": 1958,
+    "timeDay": 1701,
+    "timeWeek": 1723,
+    "timeMonth": 1818,
     "timeYear": 1887,
     "dailyMinutesDown": {
-      "2025-02-11": 2
+      "2025-02-11": 9
     }
   },
   {
@@ -1397,19 +1397,19 @@
     "url": "https://racequipment.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/racequipment.com.au.ico",
     "slug": "rac-equipment",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1137,
-    "timeDay": 1841,
-    "timeWeek": 1186,
-    "timeMonth": 1053,
-    "timeYear": 1206,
+    "time": 1136,
+    "timeDay": 1598,
+    "timeWeek": 1178,
+    "timeMonth": 1054,
+    "timeYear": 1205,
     "dailyMinutesDown": {
-      "2025-02-11": 2
+      "2025-02-11": 8
     }
   },
   {
@@ -1438,19 +1438,19 @@
     "url": "https://solomon.ninja",
     "icon": "https://icons.duckduckgo.com/ip3/solomon.ninja.ico",
     "slug": "solomon-ninja",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1873,
-    "timeDay": 3054,
-    "timeWeek": 2155,
-    "timeMonth": 1803,
-    "timeYear": 1941,
+    "time": 1874,
+    "timeDay": 2715,
+    "timeWeek": 2142,
+    "timeMonth": 1809,
+    "timeYear": 1942,
     "dailyMinutesDown": {
-      "2025-02-11": 2
+      "2025-02-11": 8
     }
   },
   {
