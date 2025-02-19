@@ -169,19 +169,19 @@
     "url": "https://manage.burdi.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/manage.burdi.com.au.ico",
     "slug": "burdi-selfservice",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2323,
-    "timeDay": 1759,
-    "timeWeek": 1903,
-    "timeMonth": 2305,
-    "timeYear": 2309,
+    "time": 2321,
+    "timeDay": 1634,
+    "timeWeek": 1847,
+    "timeMonth": 2274,
+    "timeYear": 2306,
     "dailyMinutesDown": {
-      "2025-02-19": 11
+      "2025-02-19": 2
     }
   },
   {
