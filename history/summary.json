@@ -7,8 +7,8 @@
     "status": "up",
     "uptime": "99.74%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.93%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.21%",
     "time": 2800,
     "timeDay": 2733,
@@ -16,7 +16,6 @@
     "timeMonth": 2757,
     "timeYear": 2896,
     "dailyMinutesDown": {
-      "2025-02-22": 7,
       "2025-02-12": 25,
       "2025-01-05": 26,
       "2024-07-30": 70,
@@ -35,17 +34,15 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 486,
     "timeDay": 691,
     "timeWeek": 894,
     "timeMonth": 937,
     "timeYear": 496,
-    "dailyMinutesDown": {
-      "2025-02-22": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Aset App",
@@ -73,16 +70,15 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 626,
     "timeDay": 972,
     "timeWeek": 1105,
     "timeMonth": 1204,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2025-02-22": 7,
       "2025-01-05": 26,
       "2024-07-30": 48
     }
@@ -113,8 +109,8 @@
     "status": "up",
     "uptime": "99.18%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
     "time": 633,
     "timeDay": 917,
@@ -122,7 +118,6 @@
     "timeMonth": 1745,
     "timeYear": 692,
     "dailyMinutesDown": {
-      "2025-02-22": 7,
       "2024-07-30": 48,
       "2024-06-03": 213,
       "2024-06-02": 1440,
@@ -137,8 +132,8 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1513,
     "timeDay": 1026,
@@ -146,7 +141,6 @@
     "timeMonth": 1537,
     "timeYear": 1536,
     "dailyMinutesDown": {
-      "2025-02-22": 7,
       "2024-07-30": 48
     }
   },
@@ -155,20 +149,19 @@
     "url": "https://burdi.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/burdi.com.au.ico",
     "slug": "burdi",
-    "status": "down",
-    "uptime": "99.22%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
-    "time": 636,
-    "timeDay": 923,
-    "timeWeek": 1438,
-    "timeMonth": 1942,
-    "timeYear": 693,
+    "status": "up",
+    "uptime": "99.20%",
+    "uptimeDay": "76.99%",
+    "uptimeWeek": "96.71%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.93%",
+    "time": 642,
+    "timeDay": 1717,
+    "timeWeek": 1607,
+    "timeMonth": 1979,
+    "timeYear": 700,
     "dailyMinutesDown": {
-      "2025-02-25": 13,
-      "2025-02-22": 7,
+      "2025-02-25": 331,
       "2024-07-30": 48
     }
   },
@@ -198,8 +191,8 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 628,
     "timeDay": 833,
@@ -207,7 +200,6 @@
     "timeMonth": 1566,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2025-02-22": 7,
       "2024-12-10": 15,
       "2024-07-30": 48,
       "2024-03-17": 24
@@ -331,7 +323,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/chariotsoflight.org.au.ico",
     "slug": "chariots-of-light-australia",
     "status": "up",
-    "uptime": "94.61%",
+    "uptime": "94.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -502,7 +494,7 @@
     "timeDay": 777,
     "timeWeek": 905,
     "timeMonth": 929,
-    "timeYear": 616,
+    "timeYear": 614,
     "dailyMinutesDown": {
       "2024-07-30": 48
     }
@@ -601,7 +593,7 @@
     "timeDay": 1139,
     "timeWeek": 1201,
     "timeMonth": 1350,
-    "timeYear": 1075,
+    "timeYear": 1058,
     "dailyMinutesDown": {
       "2024-07-30": 49
     }
@@ -875,7 +867,7 @@
     "timeDay": 763,
     "timeWeek": 872,
     "timeMonth": 951,
-    "timeYear": 548,
+    "timeYear": 547,
     "dailyMinutesDown": {
       "2024-07-30": 48,
       "2024-05-22": 26
@@ -953,7 +945,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lmr.net.au.ico",
     "slug": "lee-meehan-roofing",
     "status": "up",
-    "uptime": "87.44%",
+    "uptime": "87.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
