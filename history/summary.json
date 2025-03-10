@@ -132,8 +132,8 @@
     "slug": "bookkeeper-to-the-smart-people",
     "status": "up",
     "uptime": "99.16%",
-    "uptimeDay": "4.68%",
-    "uptimeWeek": "0.67%",
+    "uptimeDay": "5.11%",
+    "uptimeWeek": "0.73%",
     "uptimeMonth": "69.07%",
     "uptimeYear": "97.41%",
     "time": 1560,
@@ -435,19 +435,19 @@
     "url": "https://colstringer.com",
     "icon": "https://icons.duckduckgo.com/ip3/colstringer.com.ico",
     "slug": "col-stringer",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "8.04%",
-    "uptimeWeek": "1.15%",
-    "uptimeMonth": "69.18%",
+    "uptimeDay": "8.23%",
+    "uptimeWeek": "1.18%",
+    "uptimeMonth": "69.17%",
     "uptimeYear": "97.11%",
-    "time": 1583,
-    "timeDay": 10805,
-    "timeWeek": 6782,
-    "timeMonth": 3389,
-    "timeYear": 1643,
+    "time": 1597,
+    "timeDay": 10544,
+    "timeWeek": 6893,
+    "timeMonth": 3522,
+    "timeYear": 1661,
     "dailyMinutesDown": {
-      "2025-03-10": 1263,
+      "2025-03-10": 1266,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
@@ -486,19 +486,19 @@
     "url": "https://diverseaircon.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/diverseaircon.com.au.ico",
     "slug": "diverse-air-con-and-mechanical",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1735,
-    "timeDay": 8949,
-    "timeWeek": 6380,
-    "timeMonth": 3549,
-    "timeYear": 1790,
+    "time": 1762,
+    "timeDay": 9450,
+    "timeWeek": 6857,
+    "timeMonth": 3828,
+    "timeYear": 1823,
     "dailyMinutesDown": {
-      "2025-03-10": 6,
+      "2025-03-10": 2,
       "2024-07-30": 48
     }
   },
@@ -1136,7 +1136,7 @@
     "timeDay": 679,
     "timeWeek": 888,
     "timeMonth": 929,
-    "timeYear": 623,
+    "timeYear": 624,
     "dailyMinutesDown": {}
   },
   {
@@ -1192,7 +1192,7 @@
     "timeDay": 1210,
     "timeWeek": 1669,
     "timeMonth": 1712,
-    "timeYear": 1868,
+    "timeYear": 1867,
     "dailyMinutesDown": {}
   },
   {
@@ -1305,7 +1305,7 @@
     "timeDay": 2826,
     "timeWeek": 4332,
     "timeMonth": 3904,
-    "timeYear": 2485,
+    "timeYear": 2486,
     "dailyMinutesDown": {}
   },
   {
@@ -1385,7 +1385,7 @@
     "timeDay": 771,
     "timeWeek": 880,
     "timeMonth": 905,
-    "timeYear": 357,
+    "timeYear": 358,
     "dailyMinutesDown": {}
   },
   {
@@ -1403,7 +1403,7 @@
     "timeDay": 927,
     "timeWeek": 1190,
     "timeMonth": 1110,
-    "timeYear": 572,
+    "timeYear": 570,
     "dailyMinutesDown": {
       "2024-07-30": 48,
       "2024-06-09": 21
@@ -1424,7 +1424,7 @@
     "timeDay": 728,
     "timeWeek": 999,
     "timeMonth": 1029,
-    "timeYear": 1210,
+    "timeYear": 1211,
     "dailyMinutesDown": {}
   },
   {
@@ -1481,7 +1481,7 @@
     "timeDay": 695,
     "timeWeek": 878,
     "timeMonth": 902,
-    "timeYear": 598,
+    "timeYear": 599,
     "dailyMinutesDown": {
       "2024-07-30": 49
     }
@@ -1501,7 +1501,7 @@
     "timeDay": 834,
     "timeWeek": 1044,
     "timeMonth": 1040,
-    "timeYear": 613,
+    "timeYear": 614,
     "dailyMinutesDown": {
       "2024-06-22": 29,
       "2024-06-03": 214,
@@ -1562,7 +1562,7 @@
     "timeDay": 1077,
     "timeWeek": 1315,
     "timeMonth": 1320,
-    "timeYear": 869,
+    "timeYear": 866,
     "dailyMinutesDown": {}
   },
   {
@@ -1580,7 +1580,7 @@
     "timeDay": 938,
     "timeWeek": 1102,
     "timeMonth": 1097,
-    "timeYear": 1174,
+    "timeYear": 1170,
     "dailyMinutesDown": {
       "2024-05-01": 189
     }
