@@ -142,8 +142,15 @@ sites:
       - 0
       - 200
       - 201
-  - name: Envirometal
-    url: https://envirometal.stage.clicki.digital/
+  - name: Envirometal / We Buuy Scrap
+    url: https://webuyscrap.com.au/
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
+  - name: First Harvest Coffee
+    url: https://firstharvestcoffee.com.au/
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
