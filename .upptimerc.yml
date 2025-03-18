@@ -16,13 +16,6 @@ sites:
       - 0
       - 200
       - 201
-  - name: Aset App
-    url: https://asetapp.com
-    maxResponseTime: 30000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Ausource International
     url: https://ausourceintl.com.au
     maxResponseTime: 10000
@@ -233,13 +226,6 @@ sites:
       - 0
       - 200
       - 201
-  - name: K-Thorne
-    url: https://k-thorne.com
-    maxResponseTime: 30000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Keystone Leadership Group
     url: https://keystoneleadership.com.au/
     maxResponseTime: 10000
@@ -325,22 +311,8 @@ sites:
       - 0
       - 200
       - 201
-  # - name: New Wave Construction
-  #   url: https://newwaveconstruction.com.au
-  #   maxResponseTime: 10000
-  #   expectedStatusCodes:
-  #     - 0
-  #     - 200
-  #     - 201
   - name: NicNax
     url: https://nicnax.com.au
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
-  - name: Nomolos
-    url: https://nomolos.com.au
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
