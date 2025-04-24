@@ -1201,19 +1201,19 @@
     "url": "https://nyarima.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/nyarima.com.au.ico",
     "slug": "nyarima",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 550,
-    "timeDay": 7059,
-    "timeWeek": 1948,
-    "timeMonth": 1006,
-    "timeYear": 578,
+    "time": 551,
+    "timeDay": 5617,
+    "timeWeek": 1907,
+    "timeMonth": 1011,
+    "timeYear": 579,
     "dailyMinutesDown": {
-      "2025-04-24": 3
+      "2025-04-24": 5
     }
   },
   {
@@ -1221,19 +1221,19 @@
     "url": "https://nyarima.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/nyarima.com.au.ico",
     "slug": "nyarima",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 550,
-    "timeDay": 7059,
-    "timeWeek": 1948,
-    "timeMonth": 1006,
-    "timeYear": 578,
+    "time": 551,
+    "timeDay": 5617,
+    "timeWeek": 1907,
+    "timeMonth": 1011,
+    "timeYear": 579,
     "dailyMinutesDown": {
-      "2025-04-24": 3
+      "2025-04-24": 5
     }
   },
   {
