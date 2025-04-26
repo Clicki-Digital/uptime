@@ -1,7 +1,7 @@
 url: https://manage.burdi.com.au
-status: degraded
+status: up
 code: 200
-responseTime: 11000
-lastUpdated: 2025-04-26T06:17:56.389Z
+responseTime: 7710
+lastUpdated: 2025-04-26T06:49:32.495Z
 startTime: 2022-01-29T13:42:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
