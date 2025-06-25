@@ -1,7 +1,7 @@
 url: https://peakhorizons.com.au
-status: degraded
-code: 503
-responseTime: 15117
-lastUpdated: 2025-06-25T04:36:06.091Z
+status: up
+code: 200
+responseTime: 1046
+lastUpdated: 2025-06-25T04:47:58.106Z
 startTime: 2022-12-12T21:55:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
