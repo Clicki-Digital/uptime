@@ -586,9 +586,9 @@
     "slug": "gracious5",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 684,
     "timeDay": 967,
@@ -596,7 +596,7 @@
     "timeMonth": 1058,
     "timeYear": 779,
     "dailyMinutesDown": {
-      "2025-06-29": 13,
+      "2025-06-29": 6,
       "2024-07-30": 49
     }
   },
@@ -607,9 +607,9 @@
     "slug": "gold-coast-edge-protection",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 739,
     "timeDay": 1191,
@@ -617,7 +617,7 @@
     "timeMonth": 1155,
     "timeYear": 835,
     "dailyMinutesDown": {
-      "2025-06-29": 13,
+      "2025-06-29": 6,
       "2024-07-30": 48
     }
   },
@@ -628,9 +628,9 @@
     "slug": "heritage-of-faith-christian-church-gold-coast",
     "status": "up",
     "uptime": "98.25%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1149,
     "timeDay": 1319,
@@ -638,7 +638,7 @@
     "timeMonth": 1363,
     "timeYear": 1218,
     "dailyMinutesDown": {
-      "2025-06-29": 14,
+      "2025-06-29": 7,
       "2024-07-30": 49
     }
   },
@@ -689,9 +689,9 @@
     "slug": "hopelands-church",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 610,
     "timeDay": 1113,
@@ -699,7 +699,7 @@
     "timeMonth": 1179,
     "timeYear": 749,
     "dailyMinutesDown": {
-      "2025-06-29": 13
+      "2025-06-29": 6
     }
   },
   {
@@ -709,9 +709,9 @@
     "slug": "ian-slack",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 773,
     "timeDay": 1187,
@@ -719,7 +719,7 @@
     "timeMonth": 1118,
     "timeYear": 873,
     "dailyMinutesDown": {
-      "2025-06-29": 13,
+      "2025-06-29": 6,
       "2024-07-30": 49
     }
   },
@@ -730,9 +730,9 @@
     "slug": "independent-wealth-management-australia",
     "status": "up",
     "uptime": "96.62%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 1378,
     "timeDay": 1068,
@@ -740,7 +740,7 @@
     "timeMonth": 1407,
     "timeYear": 1394,
     "dailyMinutesDown": {
-      "2025-06-29": 13,
+      "2025-06-29": 6,
       "2025-03-11": 36,
       "2025-03-10": 4,
       "2024-07-30": 49
@@ -753,9 +753,9 @@
     "slug": "jerry-savelle-ministries-international-australia",
     "status": "up",
     "uptime": "92.26%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "73.85%",
     "time": 2296,
     "timeDay": 1152,
@@ -763,7 +763,7 @@
     "timeMonth": 1755,
     "timeYear": 1588,
     "dailyMinutesDown": {
-      "2025-06-29": 13,
+      "2025-06-29": 6,
       "2024-11-30": 303,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
@@ -888,9 +888,9 @@
     "slug": "keystone-leadership-group",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 846,
     "timeDay": 1326,
@@ -898,7 +898,7 @@
     "timeMonth": 1557,
     "timeYear": 956,
     "dailyMinutesDown": {
-      "2025-06-29": 13,
+      "2025-06-29": 6,
       "2025-04-29": 34,
       "2024-07-30": 48
     }
@@ -910,9 +910,9 @@
     "slug": "lance-n-solomon",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 651,
     "timeDay": 873,
@@ -920,7 +920,7 @@
     "timeMonth": 912,
     "timeYear": 737,
     "dailyMinutesDown": {
-      "2025-06-29": 13,
+      "2025-06-29": 6,
       "2025-06-26": 26,
       "2024-07-30": 48
     }
@@ -932,9 +932,9 @@
     "slug": "lil-fi",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 593,
     "timeDay": 968,
@@ -942,7 +942,7 @@
     "timeMonth": 889,
     "timeYear": 676,
     "dailyMinutesDown": {
-      "2025-06-29": 13,
+      "2025-06-29": 6,
       "2024-07-30": 48
     }
   },
@@ -972,19 +972,19 @@
     "url": "https://lmr.net.au",
     "icon": "https://icons.duckduckgo.com/ip3/lmr.net.au.ico",
     "slug": "lee-meehan-roofing",
-    "status": "degraded",
-    "uptime": "89.67%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "80.04%",
-    "time": 776,
-    "timeDay": 2864,
-    "timeWeek": 1824,
-    "timeMonth": 1412,
-    "timeYear": 871,
+    "status": "up",
+    "uptime": "89.66%",
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "80.03%",
+    "time": 778,
+    "timeDay": 2653,
+    "timeWeek": 1794,
+    "timeMonth": 1411,
+    "timeYear": 872,
     "dailyMinutesDown": {
-      "2025-06-30": 3,
+      "2025-06-30": 38,
       "2024-11-30": 303,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
