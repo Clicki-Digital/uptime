@@ -4,19 +4,19 @@
     "url": "https://adambrandmusic.com",
     "icon": "https://icons.duckduckgo.com/ip3/adambrandmusic.com.ico",
     "slug": "adam-brand-music",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 2924,
-    "timeDay": 9265,
-    "timeWeek": 3656,
-    "timeMonth": 3397,
-    "timeYear": 2947,
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 2929,
+    "timeDay": 7708,
+    "timeWeek": 3719,
+    "timeMonth": 3426,
+    "timeYear": 2951,
     "dailyMinutesDown": {
-      "2025-07-02": 2,
+      "2025-07-02": 8,
       "2025-06-29": 6,
       "2025-02-12": 25,
       "2025-01-05": 26,
@@ -415,17 +415,15 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 473,
     "timeDay": 892,
     "timeWeek": 935,
     "timeMonth": 863,
     "timeYear": 544,
-    "dailyMinutesDown": {
-      "2025-06-29": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Col Stringer",
@@ -435,8 +433,8 @@
     "status": "up",
     "uptime": "99.12%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.40%",
     "time": 1683,
     "timeDay": 1579,
@@ -444,7 +442,6 @@
     "timeMonth": 1366,
     "timeYear": 1729,
     "dailyMinutesDown": {
-      "2025-06-29": 6,
       "2025-03-11": 124,
       "2025-03-10": 1260,
       "2025-03-09": 1440,
@@ -485,8 +482,8 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1896,
     "timeDay": 1719,
@@ -494,7 +491,6 @@
     "timeMonth": 1655,
     "timeYear": 1991,
     "dailyMinutesDown": {
-      "2025-06-29": 6,
       "2025-03-11": 61,
       "2024-07-30": 48
     }
@@ -507,8 +503,8 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 747,
     "timeDay": 1107,
@@ -516,7 +512,6 @@
     "timeMonth": 1016,
     "timeYear": 775,
     "dailyMinutesDown": {
-      "2025-06-29": 6,
       "2024-07-30": 48
     }
   },
@@ -528,17 +523,15 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1135,
     "timeDay": 1072,
     "timeWeek": 961,
     "timeMonth": 964,
     "timeYear": 1135,
-    "dailyMinutesDown": {
-      "2025-06-29": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "First Harvest Coffee",
@@ -548,17 +541,15 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1125,
     "timeDay": 1056,
     "timeWeek": 918,
     "timeMonth": 912,
     "timeYear": 1125,
-    "dailyMinutesDown": {
-      "2025-06-29": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gary Rucci",
@@ -568,17 +559,15 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 507,
     "timeDay": 1492,
     "timeWeek": 1131,
     "timeMonth": 1075,
     "timeYear": 630,
-    "dailyMinutesDown": {
-      "2025-06-29": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gracious5",
@@ -588,8 +577,8 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 687,
     "timeDay": 927,
@@ -597,7 +586,6 @@
     "timeMonth": 1065,
     "timeYear": 781,
     "dailyMinutesDown": {
-      "2025-06-29": 6,
       "2024-07-30": 49
     }
   },
@@ -609,8 +597,8 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 743,
     "timeDay": 1177,
@@ -618,7 +606,6 @@
     "timeMonth": 1159,
     "timeYear": 838,
     "dailyMinutesDown": {
-      "2025-06-29": 6,
       "2024-07-30": 48
     }
   },
@@ -1098,19 +1085,19 @@
     "url": "https://ltconsulting.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/ltconsulting.com.au.ico",
     "slug": "lt-consulting",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 1081,
-    "timeDay": 1087,
-    "timeWeek": 1176,
-    "timeMonth": 1337,
-    "timeYear": 1157,
+    "time": 1082,
+    "timeDay": 1242,
+    "timeWeek": 1201,
+    "timeMonth": 1343,
+    "timeYear": 1158,
     "dailyMinutesDown": {
-      "2025-07-02": 3,
+      "2025-07-02": 8,
       "2024-07-30": 49
     }
   },
