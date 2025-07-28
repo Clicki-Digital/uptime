@@ -10,7 +10,7 @@
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
-    "time": 3024,
+    "time": 3025,
     "timeDay": 2375,
     "timeWeek": 2464,
     "timeMonth": 3685,
@@ -987,9 +987,9 @@
     "slug": "lee-meehan-roofing",
     "status": "up",
     "uptime": "90.06%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "80.03%",
     "time": 832,
     "timeDay": 1056,
@@ -997,7 +997,6 @@
     "timeMonth": 1334,
     "timeYear": 923,
     "dailyMinutesDown": {
-      "2025-07-27": 6,
       "2025-06-30": 38,
       "2024-11-30": 303,
       "2024-11-29": 1440,
@@ -1082,10 +1081,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/legalinsite.com.au.ico",
     "slug": "legal-insite",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 605,
     "timeDay": 649,
@@ -1093,7 +1092,6 @@
     "timeMonth": 733,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2025-07-27": 6,
       "2024-07-30": 48
     }
   },
@@ -1104,9 +1102,9 @@
     "slug": "lounge-repair-guys",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 645,
     "timeDay": 831,
@@ -1114,7 +1112,6 @@
     "timeMonth": 917,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2025-07-27": 6,
       "2025-04-29": 34
     }
   },
@@ -1125,9 +1122,9 @@
     "slug": "lt-consulting",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1110,
     "timeDay": 1095,
@@ -1135,7 +1132,6 @@
     "timeMonth": 1263,
     "timeYear": 1181,
     "dailyMinutesDown": {
-      "2025-07-27": 6,
       "2024-07-30": 49
     }
   },
@@ -1146,9 +1142,9 @@
     "slug": "lucid-solutions",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 756,
     "timeDay": 749,
@@ -1156,7 +1152,6 @@
     "timeMonth": 815,
     "timeYear": 882,
     "dailyMinutesDown": {
-      "2025-07-27": 6,
       "2025-07-02": 17
     }
   },
@@ -1167,18 +1162,16 @@
     "slug": "the-lucid-group",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1258,
     "timeDay": 1020,
     "timeWeek": 1133,
     "timeMonth": 1227,
     "timeYear": 1271,
-    "dailyMinutesDown": {
-      "2025-07-27": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Minds and Hearts",
@@ -1187,9 +1180,9 @@
     "slug": "minds-and-hearts",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1093,
     "timeDay": 950,
@@ -1197,7 +1190,6 @@
     "timeMonth": 1042,
     "timeYear": 1119,
     "dailyMinutesDown": {
-      "2025-07-27": 6,
       "2024-07-30": 49
     }
   },
@@ -1228,9 +1220,9 @@
     "slug": "nic-nax",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 835,
     "timeDay": 867,
@@ -1238,7 +1230,6 @@
     "timeMonth": 928,
     "timeYear": 855,
     "dailyMinutesDown": {
-      "2025-07-27": 6,
       "2025-04-29": 34,
       "2024-07-30": 48
     }
@@ -1250,18 +1241,16 @@
     "slug": "nyarima",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 611,
     "timeDay": 1371,
     "timeWeek": 843,
     "timeMonth": 751,
     "timeYear": 651,
-    "dailyMinutesDown": {
-      "2025-07-27": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nyarima",
@@ -1270,18 +1259,16 @@
     "slug": "nyarima",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 611,
     "timeDay": 1371,
     "timeWeek": 843,
     "timeMonth": 751,
     "timeYear": 651,
-    "dailyMinutesDown": {
-      "2025-07-27": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Oasis House",
@@ -1290,9 +1277,9 @@
     "slug": "oasis-house",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1442,
     "timeDay": 1132,
@@ -1300,7 +1287,6 @@
     "timeMonth": 1335,
     "timeYear": 1467,
     "dailyMinutesDown": {
-      "2025-07-27": 6,
       "2025-03-11": 27,
       "2025-03-10": 19,
       "2024-07-30": 48
