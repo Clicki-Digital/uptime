@@ -221,15 +221,14 @@
     "uptime": "92.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "74.88%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "74.89%",
     "time": 650,
     "timeDay": 848,
     "timeWeek": 915,
     "timeMonth": 853,
     "timeYear": 729,
     "dailyMinutesDown": {
-      "2025-07-20": 10,
       "2024-10-29": 308,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
@@ -333,7 +332,7 @@
     "uptime": "95.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 793,
     "timeDay": 996,
@@ -341,7 +340,6 @@
     "timeMonth": 1419,
     "timeYear": 873,
     "dailyMinutesDown": {
-      "2025-07-20": 10,
       "2025-05-10": 31,
       "2024-07-30": 48
     }
@@ -355,7 +353,7 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 705,
     "timeDay": 937,
@@ -363,7 +361,6 @@
     "timeMonth": 968,
     "timeYear": 784,
     "dailyMinutesDown": {
-      "2025-07-20": 10,
       "2024-07-30": 48
     }
   },
@@ -376,7 +373,7 @@
     "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1480,
     "timeDay": 617,
@@ -384,7 +381,6 @@
     "timeMonth": 600,
     "timeYear": 1388,
     "dailyMinutesDown": {
-      "2025-07-20": 10,
       "2024-07-30": 48
     }
   },
@@ -397,16 +393,14 @@
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 561,
     "timeDay": 1173,
     "timeWeek": 884,
     "timeMonth": 918,
     "timeYear": 676,
-    "dailyMinutesDown": {
-      "2025-07-20": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Contreat",
@@ -417,16 +411,14 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 507,
     "timeDay": 892,
     "timeWeek": 746,
     "timeMonth": 820,
     "timeYear": 592,
-    "dailyMinutesDown": {
-      "2025-07-20": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Col Stringer",
@@ -437,7 +429,7 @@
     "uptime": "99.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.40%",
     "time": 1673,
     "timeDay": 1482,
@@ -445,7 +437,6 @@
     "timeMonth": 1323,
     "timeYear": 1710,
     "dailyMinutesDown": {
-      "2025-07-20": 10,
       "2025-03-11": 124,
       "2025-03-10": 1260,
       "2025-03-09": 1440,
@@ -487,7 +478,7 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 1834,
     "timeDay": 1544,
@@ -495,7 +486,6 @@
     "timeMonth": 1521,
     "timeYear": 1966,
     "dailyMinutesDown": {
-      "2025-07-20": 10,
       "2025-07-10": 31,
       "2025-03-11": 61,
       "2024-07-30": 48
@@ -510,7 +500,7 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 786,
     "timeDay": 1009,
@@ -518,7 +508,6 @@
     "timeMonth": 952,
     "timeYear": 810,
     "dailyMinutesDown": {
-      "2025-07-20": 10,
       "2025-07-10": 31,
       "2024-07-30": 48
     }
@@ -529,38 +518,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/webuyscrap.com.au.ico",
     "slug": "envirometal-we-buuy-scrap",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1086,
     "timeDay": 1187,
     "timeWeek": 920,
     "timeMonth": 947,
     "timeYear": 1086,
-    "dailyMinutesDown": {
-      "2025-07-20": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "First Harvest Coffee",
     "url": "https://firstharvestcoffee.com.au/",
     "icon": "https://icons.duckduckgo.com/ip3/firstharvestcoffee.com.au.ico",
     "slug": "first-harvest-coffee",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1149,
-    "timeDay": 6709,
-    "timeWeek": 1828,
-    "timeMonth": 1201,
-    "timeYear": 1149,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 1148,
+    "timeDay": 4791,
+    "timeWeek": 1761,
+    "timeMonth": 1195,
+    "timeYear": 1148,
     "dailyMinutesDown": {
-      "2025-07-29": 2
+      "2025-07-29": 19
     }
   },
   {
