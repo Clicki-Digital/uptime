@@ -13,7 +13,7 @@
     "time": 3036,
     "timeDay": 2110,
     "timeWeek": 2438,
-    "timeMonth": 3258,
+    "timeMonth": 2824,
     "timeYear": 2990,
     "dailyMinutesDown": {
       "2025-08-02": 21,
@@ -226,11 +226,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ccelectricalandair.com.au.ico",
     "slug": "cc-electrical-and-air",
     "status": "up",
-    "uptime": "92.80%",
+    "uptime": "92.81%",
     "uptimeDay": "98.58%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "76.03%",
+    "uptimeYear": "76.08%",
     "time": 667,
     "timeDay": 998,
     "timeWeek": 933,
@@ -335,19 +335,19 @@
     "url": "https://chariotsoflight.org.au",
     "icon": "https://icons.duckduckgo.com/ip3/chariotsoflight.org.au.ico",
     "slug": "chariots-of-light-australia",
-    "status": "up",
+    "status": "down",
     "uptime": "95.28%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
-    "time": 806,
-    "timeDay": 910,
-    "timeWeek": 922,
-    "timeMonth": 1313,
+    "time": 800,
+    "timeDay": 904,
+    "timeWeek": 919,
+    "timeMonth": 1305,
     "timeYear": 880,
     "dailyMinutesDown": {
-      "2025-08-02": 21,
+      "2025-08-02": 23,
       "2025-08-01": 7,
       "2025-07-30": 12,
       "2025-05-10": 31
@@ -991,7 +991,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lmr.net.au.ico",
     "slug": "lee-meehan-roofing",
     "status": "up",
-    "uptime": "90.13%",
+    "uptime": "90.14%",
     "uptimeDay": "99.29%",
     "uptimeWeek": "99.90%",
     "uptimeMonth": "99.98%",
@@ -1246,18 +1246,16 @@
     "slug": "nyarima",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 622,
     "timeDay": 917,
     "timeWeek": 912,
     "timeMonth": 766,
     "timeYear": 659,
-    "dailyMinutesDown": {
-      "2025-08-02": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nyarima",
@@ -1266,18 +1264,16 @@
     "slug": "nyarima",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 622,
     "timeDay": 917,
     "timeWeek": 912,
     "timeMonth": 766,
     "timeYear": 659,
-    "dailyMinutesDown": {
-      "2025-08-02": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Oasis House",
@@ -1327,18 +1323,16 @@
     "slug": "omega-communication-services",
     "status": "up",
     "uptime": "96.78%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1587,
     "timeDay": 1335,
     "timeWeek": 1456,
     "timeMonth": 1532,
     "timeYear": 1640,
-    "dailyMinutesDown": {
-      "2025-08-02": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Optimise BnB",
@@ -1347,18 +1341,16 @@
     "slug": "optimise-bn-b",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 594,
     "timeDay": 893,
     "timeWeek": 893,
     "timeMonth": 1039,
     "timeYear": 708,
-    "dailyMinutesDown": {
-      "2025-08-02": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Peak Horizons",
@@ -1367,9 +1359,9 @@
     "slug": "peak-horizons",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 824,
     "timeDay": 1035,
@@ -1377,7 +1369,6 @@
     "timeMonth": 1114,
     "timeYear": 927,
     "dailyMinutesDown": {
-      "2025-08-02": 10,
       "2025-04-29": 36,
       "2025-04-28": 5
     }
@@ -1409,18 +1400,16 @@
     "slug": "stone-creative-group",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 887,
     "timeDay": 1110,
     "timeWeek": 1045,
     "timeMonth": 1162,
     "timeYear": 1068,
-    "dailyMinutesDown": {
-      "2025-08-02": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Solomon Ninja",
@@ -1449,9 +1438,9 @@
     "slug": "swell-plumbing-and-gas",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 785,
     "timeDay": 900,
@@ -1459,7 +1448,6 @@
     "timeMonth": 1007,
     "timeYear": 848,
     "dailyMinutesDown": {
-      "2025-08-02": 10,
       "2025-04-29": 34
     }
   },
@@ -1470,18 +1458,16 @@
     "slug": "tracy-hitchings-music",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 827,
     "timeDay": 958,
     "timeWeek": 970,
     "timeMonth": 1035,
     "timeYear": 891,
-    "dailyMinutesDown": {
-      "2025-08-02": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "VetAnswers",
@@ -1507,19 +1493,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/womenofcourageaustralia.com.au.ico",
     "slug": "woman-of-courage",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1247,
     "timeDay": 1628,
     "timeWeek": 1365,
     "timeMonth": 1675,
     "timeYear": 1301,
-    "dailyMinutesDown": {
-      "2025-08-02": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Worship Ministries International",
@@ -1528,17 +1512,16 @@
     "slug": "worship-ministries-international",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.56%",
     "time": 1148,
     "timeDay": 1390,
     "timeWeek": 1443,
     "timeMonth": 1612,
     "timeYear": 1268,
     "dailyMinutesDown": {
-      "2025-08-02": 10,
       "2025-04-26": 464,
       "2025-04-25": 1440,
       "2025-04-24": 433
@@ -1551,17 +1534,15 @@
     "slug": "young-discoverers",
     "status": "up",
     "uptime": "97.66%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1001,
     "timeDay": 1039,
     "timeWeek": 1047,
     "timeMonth": 1075,
     "timeYear": 1116,
-    "dailyMinutesDown": {
-      "2025-08-02": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
