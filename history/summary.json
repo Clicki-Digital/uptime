@@ -250,7 +250,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.42%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "80.48%",
+    "uptimeYear": "80.55%",
     "time": 655,
     "timeDay": 1560,
     "timeWeek": 916,
@@ -389,18 +389,19 @@
     "url": "https://clarepagephotography.com/",
     "icon": "https://icons.duckduckgo.com/ip3/clarepagephotography.com.ico",
     "slug": "clare-page-photography",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.42%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.40%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
-    "time": 1425,
-    "timeDay": 639,
-    "timeWeek": 625,
-    "timeMonth": 613,
-    "timeYear": 1270,
+    "time": 1424,
+    "timeDay": 648,
+    "timeWeek": 627,
+    "timeMonth": 614,
+    "timeYear": 1268,
     "dailyMinutesDown": {
+      "2025-08-19": 2,
       "2025-08-17": 25,
       "2025-08-16": 10,
       "2025-08-15": 11,
@@ -615,10 +616,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/garyrucci.com.ico",
     "slug": "gary-rucci",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.86%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 582,
     "timeDay": 1823,
@@ -626,7 +627,7 @@
     "timeMonth": 1023,
     "timeYear": 773,
     "dailyMinutesDown": {
-      "2025-08-17": 25,
+      "2025-08-17": 14,
       "2025-08-15": 11,
       "2025-08-14": 13,
       "2025-07-30": 12
@@ -640,8 +641,8 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.92%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 737,
     "timeDay": 1684,
@@ -649,7 +650,7 @@
     "timeMonth": 1096,
     "timeYear": 862,
     "dailyMinutesDown": {
-      "2025-08-17": 25,
+      "2025-08-17": 14,
       "2025-07-30": 12,
       "2025-07-08": 20
     }
@@ -662,16 +663,16 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "100.00%",
     "time": 790,
     "timeDay": 1189,
     "timeWeek": 1170,
     "timeMonth": 1091,
     "timeYear": 940,
     "dailyMinutesDown": {
-      "2025-08-17": 25,
+      "2025-08-17": 14,
       "2025-07-30": 12
     }
   },
@@ -683,16 +684,16 @@
     "status": "up",
     "uptime": "98.32%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "100.00%",
     "time": 1177,
     "timeDay": 1299,
     "timeWeek": 1271,
     "timeMonth": 1248,
     "timeYear": 1255,
     "dailyMinutesDown": {
-      "2025-08-17": 25,
+      "2025-08-17": 14,
       "2025-07-30": 12
     }
   },
@@ -744,8 +745,8 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 698,
     "timeDay": 1834,
@@ -753,7 +754,7 @@
     "timeMonth": 1165,
     "timeYear": 900,
     "dailyMinutesDown": {
-      "2025-08-17": 24
+      "2025-08-17": 14
     }
   },
   {
@@ -764,8 +765,8 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 815,
     "timeDay": 1071,
@@ -773,7 +774,7 @@
     "timeMonth": 1057,
     "timeYear": 968,
     "dailyMinutesDown": {
-      "2025-08-17": 25
+      "2025-08-17": 14
     }
   },
   {
@@ -784,8 +785,8 @@
     "status": "up",
     "uptime": "96.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 1359,
     "timeDay": 1490,
@@ -793,7 +794,7 @@
     "timeMonth": 1207,
     "timeYear": 1371,
     "dailyMinutesDown": {
-      "2025-08-17": 25,
+      "2025-08-17": 14,
       "2025-03-11": 36,
       "2025-03-10": 4
     }
@@ -806,8 +807,8 @@
     "status": "up",
     "uptime": "92.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "73.92%",
     "time": 2332,
     "timeDay": 7391,
@@ -815,7 +816,7 @@
     "timeMonth": 1677,
     "timeYear": 1487,
     "dailyMinutesDown": {
-      "2025-08-17": 25,
+      "2025-08-17": 14,
       "2024-11-30": 303,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
@@ -940,8 +941,8 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 945,
     "timeDay": 1579,
@@ -949,7 +950,7 @@
     "timeMonth": 1424,
     "timeYear": 1144,
     "dailyMinutesDown": {
-      "2025-08-17": 25,
+      "2025-08-17": 14,
       "2025-04-29": 34
     }
   },
@@ -959,10 +960,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/lancensolomon.com.au.ico",
     "slug": "lance-n-solomon",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 668,
     "timeDay": 1302,
@@ -970,7 +971,7 @@
     "timeMonth": 800,
     "timeYear": 780,
     "dailyMinutesDown": {
-      "2025-08-17": 25,
+      "2025-08-17": 14,
       "2025-06-26": 26
     }
   },
