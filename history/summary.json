@@ -250,7 +250,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "80.75%",
+    "uptimeYear": "80.76%",
     "time": 656,
     "timeDay": 1291,
     "timeWeek": 936,
@@ -331,8 +331,7 @@
       "2024-08-24": 1440,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
-      "2024-08-21": 1440,
-      "2024-08-20": 1440
+      "2024-08-21": 1440
     }
   },
   {
@@ -391,17 +390,18 @@
     "slug": "clare-page-photography",
     "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "27.96%",
-    "uptimeWeek": "89.23%",
-    "uptimeMonth": "97.50%",
-    "uptimeYear": "99.79%",
+    "uptimeDay": "25.48%",
+    "uptimeWeek": "88.88%",
+    "uptimeMonth": "97.41%",
+    "uptimeYear": "99.78%",
     "time": 1422,
     "timeDay": 559,
     "timeWeek": 614,
     "timeMonth": 612,
     "timeYear": 1266,
     "dailyMinutesDown": {
-      "2025-08-19": 1037,
+      "2025-08-20": 33,
+      "2025-08-19": 1040,
       "2025-08-17": 14,
       "2025-08-16": 10,
       "2025-08-15": 11,
@@ -591,18 +591,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/firstharvestcoffee.com.au.ico",
     "slug": "first-harvest-coffee",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.96%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.97%",
     "time": 1081,
     "timeDay": 1759,
     "timeWeek": 911,
     "timeMonth": 1037,
     "timeYear": 1081,
     "dailyMinutesDown": {
-      "2025-08-17": 14,
       "2025-08-16": 10,
       "2025-08-15": 11,
       "2025-08-14": 13,
@@ -618,8 +617,8 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.89%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 584,
     "timeDay": 1878,
@@ -627,7 +626,6 @@
     "timeMonth": 1034,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2025-08-17": 14,
       "2025-08-15": 11,
       "2025-08-14": 13,
       "2025-07-30": 12
@@ -641,8 +639,8 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.94%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 738,
     "timeDay": 1223,
@@ -650,7 +648,6 @@
     "timeMonth": 1101,
     "timeYear": 864,
     "dailyMinutesDown": {
-      "2025-08-17": 14,
       "2025-07-30": 12,
       "2025-07-08": 20
     }
@@ -663,8 +660,8 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.94%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 793,
     "timeDay": 1941,
@@ -672,7 +669,6 @@
     "timeMonth": 1101,
     "timeYear": 944,
     "dailyMinutesDown": {
-      "2025-08-17": 14,
       "2025-07-30": 12
     }
   },
@@ -684,8 +680,8 @@
     "status": "up",
     "uptime": "98.32%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.94%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1179,
     "timeDay": 2624,
@@ -693,7 +689,6 @@
     "timeMonth": 1268,
     "timeYear": 1259,
     "dailyMinutesDown": {
-      "2025-08-17": 14,
       "2025-07-30": 12
     }
   },
@@ -745,17 +740,15 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 698,
     "timeDay": 966,
     "timeWeek": 1132,
     "timeMonth": 1163,
     "timeYear": 901,
-    "dailyMinutesDown": {
-      "2025-08-17": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ian Slack",
@@ -765,17 +758,15 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 819,
     "timeDay": 2290,
     "timeWeek": 1119,
     "timeMonth": 1072,
     "timeYear": 973,
-    "dailyMinutesDown": {
-      "2025-08-17": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Independent Wealth Management Australia",
@@ -784,9 +775,9 @@
     "slug": "independent-wealth-management-australia",
     "status": "up",
     "uptime": "96.75%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1363,
     "timeDay": 2099,
@@ -794,8 +785,6 @@
     "timeMonth": 1244,
     "timeYear": 1378,
     "dailyMinutesDown": {
-      "2025-08-19": 7,
-      "2025-08-17": 14,
       "2025-03-11": 36,
       "2025-03-10": 4
     }
@@ -808,8 +797,8 @@
     "status": "up",
     "uptime": "92.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "73.92%",
     "time": 2321,
     "timeDay": 1108,
@@ -817,7 +806,6 @@
     "timeMonth": 1669,
     "timeYear": 1488,
     "dailyMinutesDown": {
-      "2025-08-17": 14,
       "2024-11-30": 303,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
@@ -1000,12 +988,12 @@
     "status": "up",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.70%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.96%",
     "time": 1620,
     "timeDay": 1597,
-    "timeWeek": 1734,
+    "timeWeek": 1691,
     "timeMonth": 1631,
     "timeYear": 1669,
     "dailyMinutesDown": {
