@@ -394,8 +394,8 @@
     "status": "down",
     "uptime": "99.43%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "47.22%",
-    "uptimeMonth": "87.77%",
+    "uptimeWeek": "47.13%",
+    "uptimeMonth": "87.75%",
     "uptimeYear": "98.98%",
     "time": 1417,
     "timeDay": 702,
@@ -403,7 +403,7 @@
     "timeMonth": 617,
     "timeYear": 1258,
     "dailyMinutesDown": {
-      "2025-08-22": 1401,
+      "2025-08-22": 1410,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1040,
@@ -941,9 +941,9 @@
     "slug": "keystone-leadership-group",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 962,
     "timeDay": 1460,
@@ -951,7 +951,6 @@
     "timeMonth": 1461,
     "timeYear": 1160,
     "dailyMinutesDown": {
-      "2025-08-22": 14,
       "2025-04-29": 34
     }
   },
@@ -962,17 +961,16 @@
     "slug": "lance-n-solomon",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 679,
     "timeDay": 791,
     "timeWeek": 965,
     "timeMonth": 845,
     "timeYear": 790,
     "dailyMinutesDown": {
-      "2025-08-22": 14,
       "2025-06-26": 26
     }
   },
@@ -983,18 +981,16 @@
     "slug": "lil-fi",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 641,
     "timeDay": 998,
     "timeWeek": 936,
     "timeMonth": 882,
     "timeYear": 757,
-    "dailyMinutesDown": {
-      "2025-08-22": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Living Word Church",
@@ -1025,9 +1021,9 @@
     "slug": "lee-meehan-roofing",
     "status": "up",
     "uptime": "90.40%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "80.04%",
     "time": 844,
     "timeDay": 1056,
@@ -1035,7 +1031,6 @@
     "timeMonth": 1187,
     "timeYear": 999,
     "dailyMinutesDown": {
-      "2025-08-22": 14,
       "2025-06-30": 38,
       "2024-11-30": 303,
       "2024-11-29": 1440,
@@ -1119,19 +1114,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/legalinsite.com.au.ico",
     "slug": "legal-insite",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 610,
     "timeDay": 699,
     "timeWeek": 715,
     "timeMonth": 741,
     "timeYear": 698,
-    "dailyMinutesDown": {
-      "2025-08-22": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lounge Repair Guys",
@@ -1140,9 +1133,9 @@
     "slug": "lounge-repair-guys",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 666,
     "timeDay": 797,
@@ -1150,7 +1143,6 @@
     "timeMonth": 892,
     "timeYear": 754,
     "dailyMinutesDown": {
-      "2025-08-22": 14,
       "2025-04-29": 34
     }
   },
@@ -1161,18 +1153,16 @@
     "slug": "lt-consulting",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1105,
     "timeDay": 1058,
     "timeWeek": 1157,
     "timeMonth": 1186,
     "timeYear": 1203,
-    "dailyMinutesDown": {
-      "2025-08-22": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lucid Solutions",
@@ -1181,17 +1171,16 @@
     "slug": "lucid-solutions",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 724,
     "timeDay": 764,
     "timeWeek": 826,
     "timeMonth": 820,
     "timeYear": 880,
     "dailyMinutesDown": {
-      "2025-08-22": 14,
       "2025-07-02": 17
     }
   },
@@ -1202,18 +1191,16 @@
     "slug": "the-lucid-group",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1215,
     "timeDay": 1108,
     "timeWeek": 1036,
     "timeMonth": 1119,
     "timeYear": 1250,
-    "dailyMinutesDown": {
-      "2025-08-22": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Minds and Hearts",
@@ -1222,18 +1209,16 @@
     "slug": "minds-and-hearts",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1078,
     "timeDay": 1032,
     "timeWeek": 969,
     "timeMonth": 1028,
     "timeYear": 1118,
-    "dailyMinutesDown": {
-      "2025-08-22": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Moncai",
@@ -1395,7 +1380,7 @@
     "slug": "peak-horizons",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "46.26%",
+    "uptimeDay": "46.89%",
     "uptimeWeek": "83.57%",
     "uptimeMonth": "96.22%",
     "uptimeYear": "99.68%",
@@ -1548,19 +1533,19 @@
     "url": "https://worshipministriesinternational.com",
     "icon": "https://icons.duckduckgo.com/ip3/worshipministriesinternational.com.ico",
     "slug": "worship-ministries-international",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "46.09%",
-    "uptimeWeek": "83.55%",
-    "uptimeMonth": "96.21%",
+    "uptimeDay": "46.26%",
+    "uptimeWeek": "83.48%",
+    "uptimeMonth": "96.20%",
     "uptimeYear": "99.24%",
-    "time": 1163,
-    "timeDay": 1495,
-    "timeWeek": 1611,
-    "timeMonth": 1548,
-    "timeYear": 1339,
+    "time": 1172,
+    "timeDay": 2368,
+    "timeWeek": 1834,
+    "timeMonth": 1607,
+    "timeYear": 1350,
     "dailyMinutesDown": {
-      "2025-08-22": 739,
+      "2025-08-22": 746,
       "2025-08-21": 920,
       "2025-04-26": 464,
       "2025-04-25": 1440,
@@ -1574,7 +1559,7 @@
     "slug": "young-discoverers",
     "status": "up",
     "uptime": "97.61%",
-    "uptimeDay": "46.25%",
+    "uptimeDay": "46.89%",
     "uptimeWeek": "83.57%",
     "uptimeMonth": "96.22%",
     "uptimeYear": "99.68%",
