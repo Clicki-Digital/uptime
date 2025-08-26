@@ -356,7 +356,7 @@
     "uptime": "99.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "76.21%",
+    "uptimeMonth": "76.19%",
     "uptimeYear": "98.02%",
     "time": 1412,
     "timeDay": 452,
@@ -364,7 +364,7 @@
     "timeMonth": 615,
     "timeYear": 1251,
     "dailyMinutesDown": {
-      "2025-08-26": 715,
+      "2025-08-26": 736,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
@@ -372,7 +372,6 @@
       "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1040,
-      "2025-08-14": 13,
       "2025-07-30": 12
     }
   },
@@ -385,7 +384,7 @@
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 572,
     "timeDay": 1714,
@@ -393,7 +392,6 @@
     "timeMonth": 908,
     "timeYear": 743,
     "dailyMinutesDown": {
-      "2025-08-14": 13,
       "2025-07-30": 12
     }
   },
@@ -406,7 +404,7 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 531,
     "timeDay": 1345,
@@ -414,7 +412,6 @@
     "timeMonth": 821,
     "timeYear": 654,
     "dailyMinutesDown": {
-      "2025-08-14": 13,
       "2025-07-30": 12
     }
   },
@@ -424,18 +421,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/colstringer.com.ico",
     "slug": "col-stringer",
     "status": "up",
-    "uptime": "99.15%",
+    "uptime": "99.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "97.40%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "97.41%",
     "time": 1615,
     "timeDay": 1039,
     "timeWeek": 1240,
     "timeMonth": 1225,
     "timeYear": 1666,
     "dailyMinutesDown": {
-      "2025-08-14": 13,
       "2025-07-30": 12,
       "2025-03-11": 124,
       "2025-03-10": 1260,
@@ -455,19 +451,19 @@
     "url": "https://cti.edu.au/",
     "icon": "https://icons.duckduckgo.com/ip3/cti.edu.au.ico",
     "slug": "construction-training-institute",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3005,
-    "timeDay": 2989,
-    "timeWeek": 4446,
-    "timeMonth": 4883,
-    "timeYear": 3005,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 3012,
+    "timeDay": 3517,
+    "timeWeek": 4460,
+    "timeMonth": 4874,
+    "timeYear": 3012,
     "dailyMinutesDown": {
-      "2025-08-26": 2
+      "2025-08-26": 22
     }
   },
   {
@@ -479,7 +475,7 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 1821,
     "timeDay": 1263,
@@ -487,7 +483,6 @@
     "timeMonth": 1414,
     "timeYear": 1918,
     "dailyMinutesDown": {
-      "2025-08-14": 13,
       "2025-07-30": 12,
       "2025-07-10": 31,
       "2025-03-11": 61
@@ -502,7 +497,7 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 792,
     "timeDay": 1809,
@@ -510,7 +505,6 @@
     "timeMonth": 1031,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2025-08-14": 13,
       "2025-07-30": 12,
       "2025-07-10": 31
     }
@@ -524,7 +518,7 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 1033,
     "timeDay": 1697,
@@ -532,7 +526,6 @@
     "timeMonth": 906,
     "timeYear": 1033,
     "dailyMinutesDown": {
-      "2025-08-14": 13,
       "2025-07-30": 12
     }
   },
