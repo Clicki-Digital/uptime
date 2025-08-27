@@ -8,7 +8,7 @@
     "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 2933,
     "timeDay": 5741,
@@ -16,7 +16,6 @@
     "timeMonth": 2364,
     "timeYear": 2931,
     "dailyMinutesDown": {
-      "2025-08-01": 7,
       "2025-07-30": 12,
       "2025-07-08": 20,
       "2025-02-12": 25,
@@ -32,7 +31,7 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 730,
     "timeDay": 1629,
@@ -40,7 +39,6 @@
     "timeMonth": 1002,
     "timeYear": 877,
     "dailyMinutesDown": {
-      "2025-08-01": 7,
       "2025-07-30": 12
     }
   },
@@ -218,7 +216,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "82.69%",
+    "uptimeYear": "82.70%",
     "time": 670,
     "timeDay": 1085,
     "timeWeek": 1089,
@@ -337,19 +335,19 @@
     "url": "https://clarepagephotography.com/",
     "icon": "https://icons.duckduckgo.com/ip3/clarepagephotography.com.ico",
     "slug": "clare-page-photography",
-    "status": "down",
-    "uptime": "99.08%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "74.51%",
-    "uptimeYear": "97.88%",
+    "status": "up",
+    "uptime": "99.07%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "74.37%",
+    "uptimeYear": "97.86%",
     "time": 1411,
-    "timeDay": 803,
-    "timeWeek": 634,
-    "timeMonth": 618,
-    "timeYear": 1249,
+    "timeDay": 931,
+    "timeWeek": 687,
+    "timeMonth": 625,
+    "timeYear": 1248,
     "dailyMinutesDown": {
-      "2025-08-27": 33,
+      "2025-08-27": 97,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
@@ -565,15 +563,14 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 753,
     "timeDay": 1472,
     "timeWeek": 1156,
     "timeMonth": 1121,
     "timeYear": 880,
     "dailyMinutesDown": {
-      "2025-07-30": 12,
       "2025-07-08": 20
     }
   },
@@ -586,16 +583,14 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 837,
     "timeDay": 5874,
     "timeWeek": 2365,
     "timeMonth": 1349,
     "timeYear": 994,
-    "dailyMinutesDown": {
-      "2025-07-30": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Heritage of Faith Christian Church - Gold Coast",
@@ -606,16 +601,14 @@
     "uptime": "98.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1185,
     "timeDay": 1581,
     "timeWeek": 1676,
     "timeMonth": 1342,
     "timeYear": 1275,
-    "dailyMinutesDown": {
-      "2025-07-30": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "HopeAlley",
@@ -724,7 +717,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "73.92%",
+    "uptimeYear": "73.93%",
     "time": 2205,
     "timeDay": 5610,
     "timeWeek": 1670,
