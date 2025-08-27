@@ -216,7 +216,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "82.70%",
+    "uptimeYear": "82.75%",
     "time": 670,
     "timeDay": 1085,
     "timeWeek": 1089,
@@ -335,19 +335,19 @@
     "url": "https://clarepagephotography.com/",
     "icon": "https://icons.duckduckgo.com/ip3/clarepagephotography.com.ico",
     "slug": "clare-page-photography",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.07%",
-    "uptimeDay": "0.14%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "74.37%",
+    "uptimeDay": "19.99%",
+    "uptimeWeek": "2.86%",
+    "uptimeMonth": "74.36%",
     "uptimeYear": "97.86%",
-    "time": 1411,
-    "timeDay": 931,
-    "timeWeek": 687,
-    "timeMonth": 625,
-    "timeYear": 1248,
+    "time": 1451,
+    "timeDay": 9111,
+    "timeWeek": 3441,
+    "timeMonth": 1013,
+    "timeYear": 1307,
     "dailyMinutesDown": {
-      "2025-08-27": 97,
+      "2025-08-27": 99,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
@@ -481,7 +481,7 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 793,
     "timeDay": 1125,
@@ -489,7 +489,6 @@
     "timeMonth": 1033,
     "timeYear": 871,
     "dailyMinutesDown": {
-      "2025-07-30": 12,
       "2025-07-10": 31
     }
   },
@@ -499,19 +498,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/webuyscrap.com.au.ico",
     "slug": "envirometal-we-buuy-scrap",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1033,
     "timeDay": 976,
     "timeWeek": 988,
     "timeMonth": 905,
     "timeYear": 1033,
-    "dailyMinutesDown": {
-      "2025-07-30": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "First Harvest Coffee",
@@ -522,7 +519,7 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1081,
     "timeDay": 1583,
@@ -530,7 +527,6 @@
     "timeMonth": 1083,
     "timeYear": 1081,
     "dailyMinutesDown": {
-      "2025-07-30": 12,
       "2025-07-29": 19
     }
   },
@@ -543,16 +539,14 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 607,
     "timeDay": 4276,
     "timeWeek": 1410,
     "timeMonth": 1084,
     "timeYear": 804,
-    "dailyMinutesDown": {
-      "2025-07-30": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gracious5",
@@ -717,7 +711,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "73.93%",
+    "uptimeYear": "73.99%",
     "time": 2205,
     "timeDay": 5610,
     "timeWeek": 1670,
