@@ -87,12 +87,12 @@ sites:
       - 200
       - 201
   - name: Clare Page Photography
-    url: https://clarepagephotography.com/
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
+    # url: https://clarepagephotography.com/
+    # maxResponseTime: 10000
+    # expectedStatusCodes:
+    #   - 0
+    #   - 200
+    #   - 201
   - name: Clicki Digital
     url: https://clickidigital.com.au
     maxResponseTime: 10000
