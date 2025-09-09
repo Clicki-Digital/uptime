@@ -30,17 +30,15 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 756,
     "timeDay": 1100,
     "timeWeek": 1071,
     "timeMonth": 1067,
     "timeYear": 908,
-    "dailyMinutesDown": {
-      "2025-09-07": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ausource International",
@@ -50,8 +48,8 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 955,
     "timeDay": 1338,
@@ -59,7 +57,6 @@
     "timeMonth": 1173,
     "timeYear": 1087,
     "dailyMinutesDown": {
-      "2025-09-07": 12,
       "2025-03-01": 17,
       "2025-01-05": 26
     }
@@ -92,8 +89,8 @@
     "status": "up",
     "uptime": "99.32%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 954,
     "timeDay": 1242,
@@ -101,7 +98,6 @@
     "timeMonth": 1155,
     "timeYear": 1083,
     "dailyMinutesDown": {
-      "2025-09-07": 12,
       "2025-07-09": 255,
       "2025-07-08": 41
     }
@@ -114,8 +110,8 @@
     "status": "up",
     "uptime": "99.27%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.40%",
     "time": 1627,
     "timeDay": 1585,
@@ -123,7 +119,6 @@
     "timeMonth": 1527,
     "timeYear": 1663,
     "dailyMinutesDown": {
-      "2025-09-07": 12,
       "2025-05-10": 31,
       "2025-03-11": 63,
       "2025-03-10": 1311,
@@ -146,8 +141,8 @@
     "status": "up",
     "uptime": "99.32%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1327,
     "timeDay": 2246,
@@ -155,7 +150,6 @@
     "timeMonth": 1780,
     "timeYear": 1565,
     "dailyMinutesDown": {
-      "2025-09-07": 12,
       "2025-03-11": 24,
       "2025-02-26": 22,
       "2025-02-25": 331
@@ -193,16 +187,15 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 915,
     "timeDay": 1239,
     "timeWeek": 1262,
     "timeMonth": 1182,
     "timeYear": 1054,
     "dailyMinutesDown": {
-      "2025-09-07": 12,
       "2024-12-10": 15
     }
   },
@@ -214,16 +207,15 @@
     "status": "up",
     "uptime": "93.01%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "86.51%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "86.52%",
     "time": 691,
     "timeDay": 1056,
     "timeWeek": 1033,
     "timeMonth": 998,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2025-09-07": 12,
       "2024-10-29": 308,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
@@ -284,8 +276,8 @@
     "status": "up",
     "uptime": "95.42%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 828,
     "timeDay": 916,
@@ -293,7 +285,6 @@
     "timeMonth": 1172,
     "timeYear": 958,
     "dailyMinutesDown": {
-      "2025-09-07": 12,
       "2025-05-10": 31
     }
   },
@@ -305,17 +296,15 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 747,
     "timeDay": 1000,
     "timeWeek": 1213,
     "timeMonth": 1099,
     "timeYear": 879,
-    "dailyMinutesDown": {
-      "2025-09-07": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Clear Cut Seafood Training",
@@ -323,19 +312,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/clearcutseafoodtraining.com.ico",
     "slug": "clear-cut-seafood-training",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 905,
     "timeDay": 871,
     "timeWeek": 808,
     "timeMonth": 905,
     "timeYear": 905,
-    "dailyMinutesDown": {
-      "2025-09-07": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Clicki Digital",
@@ -601,19 +588,19 @@
     "url": "https://hopealley.com/ecards",
     "icon": "https://icons.duckduckgo.com/ip3/hopealley.com.ico",
     "slug": "hope-alley-ecards",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1443,
-    "timeDay": 6125,
-    "timeWeek": 2863,
-    "timeMonth": 1800,
-    "timeYear": 1459,
+    "time": 1446,
+    "timeDay": 4918,
+    "timeWeek": 2823,
+    "timeMonth": 1821,
+    "timeYear": 1462,
     "dailyMinutesDown": {
-      "2025-09-09": 2,
+      "2025-09-09": 6,
       "2025-04-25": 17
     }
   },
