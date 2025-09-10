@@ -7,16 +7,15 @@
     "status": "up",
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 2859,
     "timeDay": 987,
     "timeWeek": 1304,
     "timeMonth": 1867,
     "timeYear": 2864,
     "dailyMinutesDown": {
-      "2025-09-07": 12,
       "2025-07-08": 20,
       "2025-02-12": 25,
       "2025-01-05": 26
@@ -264,8 +263,7 @@
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
-      "2024-09-11": 1440,
-      "2024-09-10": 1440
+      "2024-09-11": 1440
     }
   },
   {
@@ -590,9 +588,9 @@
     "slug": "hope-alley-ecards",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1446,
     "timeDay": 4918,
@@ -600,7 +598,6 @@
     "timeMonth": 1821,
     "timeYear": 1462,
     "dailyMinutesDown": {
-      "2025-09-09": 6,
       "2025-04-25": 17
     }
   },
@@ -671,7 +668,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.75%",
+    "uptimeYear": "77.76%",
     "time": 1978,
     "timeDay": 1568,
     "timeWeek": 1290,
@@ -758,8 +755,7 @@
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
-      "2024-09-11": 1440,
-      "2024-09-10": 1440
+      "2024-09-11": 1440
     }
   },
   {
