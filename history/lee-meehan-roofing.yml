@@ -1,7 +1,7 @@
 url: https://lmr.net.au
-status: up
+status: degraded
 code: 200
-responseTime: 865
-lastUpdated: 2025-10-06T23:06:44.049Z
+responseTime: 21593
+lastUpdated: 2025-10-07T17:11:53.868Z
 startTime: 2023-07-25T20:14:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
