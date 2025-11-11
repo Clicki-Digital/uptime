@@ -1,7 +1,7 @@
 url: https://youngdiscoverers.org.au
-status: up
-code: 200
+status: down
+code: 403
 responseTime: 885
-lastUpdated: 2025-11-11T05:17:14.027Z
+lastUpdated: 2025-11-11T17:45:52.575Z
 startTime: 2022-01-29T22:11:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
