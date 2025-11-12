@@ -1,7 +1,7 @@
 url: https://burdi.com.au
-status: up
-code: 200
-responseTime: 2479
-lastUpdated: 2025-11-11T23:06:19.125Z
+status: down
+code: 415
+responseTime: 786
+lastUpdated: 2025-11-12T04:59:42.022Z
 startTime: 2022-01-29T13:42:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
