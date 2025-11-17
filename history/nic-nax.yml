@@ -1,7 +1,7 @@
 url: https://nicnax.com.au
-status: up
-code: 200
+status: down
+code: 403
 responseTime: 1016
-lastUpdated: 2025-11-16T23:07:14.412Z
+lastUpdated: 2025-11-17T11:44:38.626Z
 startTime: 2022-01-29T13:44:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
