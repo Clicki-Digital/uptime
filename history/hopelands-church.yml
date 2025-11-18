@@ -1,7 +1,7 @@
 url: https://hopelands.church
-status: up
-code: 200
-responseTime: 1212
-lastUpdated: 2025-11-18T12:16:44.729Z
+status: down
+code: 500
+responseTime: 179
+lastUpdated: 2025-11-18T13:09:43.028Z
 startTime: 2024-02-27T06:24:56.045Z
 generator: Upptime <https://github.com/upptime/upptime>
