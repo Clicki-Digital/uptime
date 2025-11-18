@@ -1,7 +1,7 @@
 url: https://claimswrights.co.uk
-status: up
-code: 200
-responseTime: 1166
-lastUpdated: 2025-11-18T11:43:04.520Z
+status: down
+code: 500
+responseTime: 144
+lastUpdated: 2025-11-18T11:49:14.813Z
 startTime: 2022-01-29T13:43:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
