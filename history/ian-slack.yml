@@ -1,7 +1,7 @@
 url: https://ianslack.com.au
-status: up
-code: 200
-responseTime: 1215
-lastUpdated: 2025-11-18T12:16:48.258Z
+status: down
+code: 500
+responseTime: 191
+lastUpdated: 2025-11-18T13:09:45.357Z
 startTime: 2022-01-29T13:43:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
