@@ -1,7 +1,7 @@
 url: https://hopealley.com/ecards
-status: up
-code: 200
-responseTime: 1518
-lastUpdated: 2025-11-17T23:07:00.118Z
+status: degraded
+code: 500
+responseTime: 16311
+lastUpdated: 2025-11-18T00:32:53.401Z
 startTime: 2022-03-21T06:58:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
