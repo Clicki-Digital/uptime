@@ -1,7 +1,7 @@
 url: https://womenofcourageaustralia.com.au
-status: up
-code: 200
-responseTime: 1481
-lastUpdated: 2025-12-04T07:46:49.531Z
+status: degraded
+code: 415
+responseTime: 17002
+lastUpdated: 2025-12-04T13:21:38.366Z
 startTime: 2023-07-25T20:14:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
