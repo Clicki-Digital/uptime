@@ -4,6 +4,8 @@ repo: uptime
 sites:
   - name: Adam Brand Music
     url: https://adambrandmusic.com
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -11,6 +13,8 @@ sites:
       - 201
   - name: All Access Electrical
     url: https://allaccesselectrical.com.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -18,6 +22,8 @@ sites:
       - 201
   - name: Ausource International
     url: https://ausourceintl.com.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -25,6 +31,8 @@ sites:
       - 201
   - name: Australian Anti Ice Campaign
     url: https://australianantiicecampaign.org.au
+    type: globalping
+    location: sydney
     expectedStatusCodes:
       - 0
       - 200
@@ -32,6 +40,8 @@ sites:
     maxResponseTime: 10000
   - name: Beulah Revival Network
     url: https://beulah.net.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -39,6 +49,8 @@ sites:
       - 201
   - name: Bookkeeper to the Smart People
     url: https://bksp.com.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -46,6 +58,8 @@ sites:
       - 201
   - name: Burdi
     url: https://burdi.com.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -53,6 +67,8 @@ sites:
       - 201
   - name: Burdi - Selfservice
     url: https://manage.burdi.com.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -60,6 +76,8 @@ sites:
       - 201
   - name: Cafe7
     url: https://cafe7.com.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -67,6 +85,8 @@ sites:
       - 201
   - name: CC Electrical and Air 
     url: https://ccelectricalandair.com.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -74,6 +94,8 @@ sites:
       - 201
   - name: Chariots of Light Australia 
     url: https://chariotsoflight.org.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -88,6 +110,8 @@ sites:
       - 201
   - name: Clear Cut Seafood Training
     url: https://clearcutseafoodtraining.com/
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -102,6 +126,8 @@ sites:
     #   - 201
   - name: Clicki Digital
     url: https://clickidigital.com.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -116,6 +142,8 @@ sites:
       - 201
   - name: Col Stringer
     url: https://colstringer.com
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -123,6 +151,8 @@ sites:
       - 201
   - name: Construction Training Institute
     url: https://cti.edu.au/
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -130,6 +160,8 @@ sites:
       - 201
   - name: Diverse AirCon & Mechanical
     url: https://diverseaircon.com.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -137,6 +169,8 @@ sites:
       - 201
   - name: EntVenture
     url: https://entventure.org
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -144,6 +178,8 @@ sites:
       - 201
   - name: Envirometal / We Buuy Scrap
     url: https://webuyscrap.com.au/
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -151,6 +187,8 @@ sites:
       - 201
   - name: First Harvest Coffee
     url: https://firstharvestcoffee.com.au/
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -158,6 +196,8 @@ sites:
       - 201
   - name: Gary Rucci
     url: https://garyrucci.com/
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -165,6 +205,8 @@ sites:
       - 201
   - name: Gracious5
     url: https://gracious5.com
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -172,6 +214,8 @@ sites:
       - 201
   - name: Gold Coast Edge Protection
     url: https://gcep.net.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -179,6 +223,8 @@ sites:
       - 201
   - name: Heritage of Faith Christian Church - Gold Coast
     url: https://heritageoffaith.com.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -186,6 +232,8 @@ sites:
       - 201
   - name: HopeAlley
     url: https://hopealley.com
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -193,6 +241,8 @@ sites:
       - 201
   - name: HopeAlley Ecards
     url: https://hopealley.com/ecards
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -200,6 +250,8 @@ sites:
       - 201
   - name: Hopelands Church
     url: https://hopelands.church
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -207,6 +259,8 @@ sites:
       - 201
   - name: Ian Slack
     url: https://ianslack.com.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -214,6 +268,8 @@ sites:
       - 201
   - name: Independent Wealth Management Australia
     url: https://iwmaus.com.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -221,6 +277,8 @@ sites:
       - 201
   - name: Jerry Savelle Ministries International Australia
     url: https://jsmiaustralia.org
+    type: globalping
+    location: sydney
     maxResponseTime: 7500
     expectedStatusCodes:
       - 0
@@ -228,6 +286,8 @@ sites:
       - 201
   - name: Portal - Jerry Savelle Ministries International Australia
     url: https://portal.jsmiaustralia.org
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -235,6 +295,8 @@ sites:
       - 201
   - name: Keystone Leadership Group
     url: https://keystoneleadership.com.au/
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -242,6 +304,8 @@ sites:
       - 201
   - name: Lance N. Solomon
     url: https://lancensolomon.com.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -249,6 +313,17 @@ sites:
       - 201
   - name: Lil Fi
     url: https://lilfi.com
+    type: globalping
+    location: sydney
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
+  - name: Little Groovers Dance Co
+    url: https://littlegrooversdanceco.com
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -256,6 +331,8 @@ sites:
       - 201
   - name: Living Word Church
     url: https://livingword.org.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -263,6 +340,8 @@ sites:
       - 201
   - name: Lee Meehan Roofing
     url: https://lmr.net.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -277,6 +356,8 @@ sites:
       - 201
   - name: Lounge Repair Guys
     url: https://loungerepairguys.com.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -284,6 +365,8 @@ sites:
       - 201
   - name: LT Consulting
     url: https://ltconsulting.com.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -292,6 +375,8 @@ sites:
   - name: Lucid Solutions
     url: https://getlucid.solutions
     icon: https://getlucid.solutions/wp-content/uploads/2020/12/cropped-ls-icon-32x32.png
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -306,6 +391,8 @@ sites:
       - 201
   - name: Minds and Hearts
     url: https://mindsandhearts.net
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -313,6 +400,8 @@ sites:
       - 201
   - name: Moncai
     url: https://moncai.com.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -320,6 +409,8 @@ sites:
       - 201
   - name: NicNax
     url: https://nicnax.com.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -327,6 +418,8 @@ sites:
       - 201
   - name: Nyarima
     url: https://nyarima.com.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -334,6 +427,8 @@ sites:
       - 201
   - name: Nyarima
     url: https://nyarima.com.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -341,14 +436,9 @@ sites:
       - 201
   - name: Oasis House
     url: https://oasishouse.com.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
-  - name: ODIGDesigns
-    url: https://www.odigdesigns.com.au
-    maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
@@ -362,6 +452,8 @@ sites:
       - 201
   - name: Optimise BnB
     url: https://optimisebnb.com.au/
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -369,6 +461,8 @@ sites:
       - 201
   - name: Peak Horizons
     url: https://peakhorizons.com.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -376,6 +470,8 @@ sites:
       - 201
   - name: RAC Equipment
     url: https://racequipment.com.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -383,20 +479,17 @@ sites:
       - 201
   - name: Stone Creative Group
     url: https://www.stonecreative.com.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
-  - name: Solomon Ninja
-    url: https://solomon.ninja
-    maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Swell Plumbing and Gas
     url: https://swellplumbingandgas.com.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -404,6 +497,8 @@ sites:
       - 201
   - name: Tracy Hitchings Music
     url: https://tracyhitchingsmusic.com
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -411,6 +506,8 @@ sites:
       - 201
   - name: VetAnswers
     url: https://vetanswers.com.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -418,6 +515,8 @@ sites:
       - 201
   - name: VetMe
     url: https://www.vetme.com.au/
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -432,6 +531,8 @@ sites:
   #     - 201
   - name: Woman of Courage
     url: https://womenofcourageaustralia.com.au
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -439,6 +540,8 @@ sites:
       - 201
   - name: Worship Ministries International
     url: https://worshipministriesinternational.com	
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
@@ -446,6 +549,8 @@ sites:
       - 201
   - name: Young Discoverers
     url: https://youngdiscoverers.org.au	
+    type: globalping
+    location: sydney
     maxResponseTime: 10000
     expectedStatusCodes:
       - 0
