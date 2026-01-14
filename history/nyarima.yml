@@ -1,7 +1,7 @@
 url: https://nyarima.com.au
-status: up
-code: 200
-responseTime: 1208
-lastUpdated: 2026-01-14T08:17:34.422Z
+status: down
+code: 415
+responseTime: 845
+lastUpdated: 2026-01-14T13:58:36.142Z
 startTime: 2022-12-12T21:54:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
