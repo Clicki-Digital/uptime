@@ -1,7 +1,7 @@
 url: https://bksp.com.au
-status: up
-code: 200
-responseTime: 1960
-lastUpdated: 2026-01-17T23:46:27.902Z
+status: down
+code: 503
+responseTime: 10797
+lastUpdated: 2026-01-18T02:47:13.364Z
 startTime: 2022-01-29T13:42:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
