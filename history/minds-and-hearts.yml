@@ -1,7 +1,7 @@
 url: https://mindsandhearts.net
-status: up
-code: 200
-responseTime: 1534
-lastUpdated: 2026-01-17T23:49:06.283Z
+status: down
+code: 503
+responseTime: 10656
+lastUpdated: 2026-01-18T03:02:38.722Z
 startTime: 2022-01-29T13:44:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
