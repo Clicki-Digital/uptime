@@ -1,7 +1,7 @@
 url: https://colstringer.com
-status: up
-code: 200
-responseTime: 1952
-lastUpdated: 2026-01-17T23:47:07.984Z
+status: down
+code: 503
+responseTime: 10668
+lastUpdated: 2026-01-18T02:52:00.220Z
 startTime: 2022-01-29T13:43:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
