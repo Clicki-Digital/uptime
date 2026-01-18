@@ -1,7 +1,7 @@
 url: https://cafe7.com.au
-status: up
-code: 200
-responseTime: 1129
-lastUpdated: 2026-01-17T23:46:42.875Z
+status: down
+code: 503
+responseTime: 10663
+lastUpdated: 2026-01-18T02:48:28.799Z
 startTime: 2022-01-29T13:43:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
