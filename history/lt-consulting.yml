@@ -1,7 +1,7 @@
 url: https://ltconsulting.com.au
-status: up
-code: 200
-responseTime: 2654
-lastUpdated: 2026-01-30T23:12:32.902Z
+status: down
+code: 500
+responseTime: 462
+lastUpdated: 2026-01-31T06:03:55.932Z
 startTime: 2022-01-29T13:44:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
