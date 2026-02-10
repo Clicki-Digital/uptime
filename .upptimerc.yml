@@ -165,13 +165,6 @@ sites:
       - 0
       - 200
       - 201
-  - name: Gracious5
-    url: https://gracious5.com
-    maxResponseTime: 30000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Gold Coast Edge Protection
     url: https://gcep.net.au
     maxResponseTime: 30000
