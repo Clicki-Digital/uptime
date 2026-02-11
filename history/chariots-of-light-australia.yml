@@ -1,7 +1,7 @@
 url: https://chariotsoflight.org.au
-status: up
-code: 200
-responseTime: 1087
-lastUpdated: 2026-02-11T11:21:29.028Z
+status: down
+code: 415
+responseTime: 566
+lastUpdated: 2026-02-11T18:00:23.352Z
 startTime: 2022-01-29T13:43:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
