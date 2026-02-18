@@ -1,6 +1,6 @@
 owner: Clicki-Digital
 repo: uptime
-delay: 10000
+delay: 5000
 skipDeleteIssues: true
 
 sites:
@@ -8,7 +8,7 @@ sites:
     url: https://adambrandmusic.com
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -17,7 +17,7 @@ sites:
     url: https://allaccesselectrical.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -26,7 +26,7 @@ sites:
     url: https://ausourceintl.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -39,12 +39,12 @@ sites:
       - 0
       - 200
       - 201
-    maxResponseTime: 30000
+    maxResponseTime: 10000
   - name: Beulah Revival Network
     url: https://beulah.net.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -53,7 +53,7 @@ sites:
     url: https://bksp.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -62,7 +62,7 @@ sites:
     url: https://burdi.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -71,7 +71,7 @@ sites:
     url: https://manage.burdi.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -80,7 +80,7 @@ sites:
     url: https://cafe7.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -89,7 +89,7 @@ sites:
     url: https://ccelectricalandair.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -98,7 +98,7 @@ sites:
     url: https://chariotsoflight.org.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -107,7 +107,7 @@ sites:
     url: https://claimswrights.co.uk
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -116,14 +116,14 @@ sites:
     url: https://clearcutseafoodtraining.com
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   # - name: Clare Page Photography
     # url: https://clarepagephotography.com/
-    # maxResponseTime: 30000
+    # maxResponseTime: 10000
     # expectedStatusCodes:
     #   - 0
     #   - 200
@@ -132,7 +132,7 @@ sites:
     url: https://clickidigital.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -141,7 +141,7 @@ sites:
     url: https://contreat.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -150,7 +150,7 @@ sites:
     url: https://colstringer.com
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -159,7 +159,7 @@ sites:
     url: https://cti.edu.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -168,7 +168,7 @@ sites:
     url: https://diverseaircon.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -177,7 +177,7 @@ sites:
     url: https://webuyscrap.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -186,7 +186,7 @@ sites:
     url: https://firstharvestcoffee.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -195,7 +195,7 @@ sites:
     url: https://garyrucci.com
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -204,7 +204,7 @@ sites:
     url: https://gcep.net.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -213,7 +213,7 @@ sites:
     url: https://heritageoffaith.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -222,7 +222,7 @@ sites:
     url: https://hopealley.com
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -231,7 +231,7 @@ sites:
     url: https://hopealley.com/ecards
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -240,7 +240,7 @@ sites:
     url: https://hopelands.church
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -249,7 +249,7 @@ sites:
     url: https://ianslack.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -258,7 +258,7 @@ sites:
     url: https://iwmaus.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -276,7 +276,7 @@ sites:
     url: https://portal.jsmiaustralia.org
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -285,7 +285,7 @@ sites:
     url: https://keystoneleadership.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -294,7 +294,7 @@ sites:
     url: https://lancensolomon.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -303,7 +303,7 @@ sites:
     url: https://lilfi.com
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -312,7 +312,7 @@ sites:
     url: https://littlegrooversdanceco.com
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -321,7 +321,7 @@ sites:
     url: https://livingword.org.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -330,7 +330,7 @@ sites:
     url: https://lmr.net.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -339,7 +339,7 @@ sites:
     url: https://legalinsite.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -348,7 +348,7 @@ sites:
     url: https://loungerepairguys.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -357,7 +357,7 @@ sites:
     url: https://ltconsulting.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -367,7 +367,7 @@ sites:
     headers:
       - "Content-Type: text/html"
     icon: https://getlucid.solutions/wp-content/uploads/2020/12/cropped-ls-icon-32x32.png
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -376,7 +376,7 @@ sites:
     url: https://thelucid.group
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -385,7 +385,7 @@ sites:
     url: https://mindsandhearts.net
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -394,7 +394,7 @@ sites:
     url: https://moncai.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -403,7 +403,7 @@ sites:
     url: https://nicnax.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -412,7 +412,7 @@ sites:
     url: https://nyarima.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -421,7 +421,7 @@ sites:
     url: https://oasishouse.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -430,7 +430,7 @@ sites:
     url: https://omegacoms.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -439,14 +439,14 @@ sites:
     url: https://optimisebnb.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Peak Horizons
     url: https://peakhorizons.com.au
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -455,7 +455,7 @@ sites:
     url: https://racequipment.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -464,7 +464,7 @@ sites:
     url: https://www.stonecreative.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -473,7 +473,7 @@ sites:
     url: https://swellplumbingandgas.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -482,7 +482,7 @@ sites:
     url: https://tracyhitchingsmusic.com
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -491,7 +491,7 @@ sites:
     url: https://vetanswers.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -500,7 +500,7 @@ sites:
     url: https://www.vetme.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -509,7 +509,7 @@ sites:
     url: https://womenofcourageaustralia.com.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -518,7 +518,7 @@ sites:
     url: https://worshipministriesinternational.com
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
@@ -527,7 +527,7 @@ sites:
     url: https://youngdiscoverers.org.au
     headers:
       - "Content-Type: text/html"
-    maxResponseTime: 30000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 0
       - 200
