@@ -1,7 +1,7 @@
 url: https://gcep.net.au
-status: up
-code: 200
-responseTime: 1297
-lastUpdated: 2026-02-18T07:45:45.294Z
+status: down
+code: 415
+responseTime: 1092
+lastUpdated: 2026-02-18T09:30:50.710Z
 startTime: 2023-07-25T20:13:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
