@@ -5,49 +5,63 @@ skipDeleteIssues: true
 
 sites:
   - name: Adam Brand Music
-    url: https://adambrandmusic.com/robots.txt
+    url: https://adambrandmusic.com
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: All Access Electrical
-    url: https://allaccesselectrical.com.au/robots.txt
+    url: https://allaccesselectrical.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Ausource International
-    url: https://ausourceintl.com.au/robots.txt
+    url: https://ausourceintl.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Australian Anti Ice Campaign
-    url: https://australianantiicecampaign.org.au/robots.txt
+    url: https://australianantiicecampaign.org.au
+    headers:
+      - "Content-Type: text/html"
     expectedStatusCodes:
       - 0
       - 200
       - 201
     maxResponseTime: 30000
   - name: Beulah Revival Network
-    url: https://beulah.net.au/robots.txt
+    url: https://beulah.net.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Bookkeeper to the Smart People
-    url: https://bksp.com.au/robots.txt
+    url: https://bksp.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Burdi
-    url: https://burdi.com.au/robots.txt
+    url: https://burdi.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
@@ -55,41 +69,53 @@ sites:
       - 201
   - name: Burdi - Selfservice
     url: https://manage.burdi.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Cafe7
-    url: https://cafe7.com.au/robots.txt
+    url: https://cafe7.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: CC Electrical and Air 
-    url: https://ccelectricalandair.com.au/robots.txt
+    url: https://ccelectricalandair.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Chariots of Light Australia 
-    url: https://chariotsoflight.org.au/robots.txt
+    url: https://chariotsoflight.org.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: ClaimsWrights
-    url: https://claimswrights.co.uk/robots.txt
+    url: https://claimswrights.co.uk
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Clear Cut Seafood Training
-    url: https://clearcutseafoodtraining.com/robots.txt
+    url: https://clearcutseafoodtraining.com
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
@@ -103,77 +129,99 @@ sites:
     #   - 200
     #   - 201
   - name: Clicki Digital
-    url: https://clickidigital.com.au/robots.txt
+    url: https://clickidigital.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Contreat
-    url: https://contreat.com.au/robots.txt
+    url: https://contreat.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Col Stringer
-    url: https://colstringer.com/robots.txt
+    url: https://colstringer.com
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Construction Training Institute
-    url: https://cti.edu.au/robots.txt
+    url: https://cti.edu.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Diverse AirCon & Mechanical
-    url: https://diverseaircon.com.au/robots.txt
+    url: https://diverseaircon.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Envirometal / We Buuy Scrap
-    url: https://webuyscrap.com.au/robots.txt
+    url: https://webuyscrap.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: First Harvest Coffee
-    url: https://firstharvestcoffee.com.au/robots.txt
+    url: https://firstharvestcoffee.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Gary Rucci
-    url: https://garyrucci.com/robots.txt
+    url: https://garyrucci.com
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Gold Coast Edge Protection
-    url: https://gcep.net.au/robots.txt
+    url: https://gcep.net.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Heritage of Faith Christian Church - Gold Coast
-    url: https://heritageoffaith.com.au/robots.txt
+    url: https://heritageoffaith.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: HopeAlley
-    url: https://hopealley.com/robots.txt
+    url: https://hopealley.com
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
@@ -181,34 +229,44 @@ sites:
       - 201
   - name: HopeAlley Ecards
     url: https://hopealley.com/ecards
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Hopelands Church
-    url: https://hopelands.church/robots.txt
+    url: https://hopelands.church
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Ian Slack
-    url: https://ianslack.com.au/robots.txt
+    url: https://ianslack.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Independent Wealth Management Australia
-    url: https://iwmaus.com.au/robots.txt
+    url: https://iwmaus.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Jerry Savelle Ministries International Australia
-    url: https://jsmiaustralia.org/robots.txt
+    url: https://jsmiaustralia.org
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 7500
     expectedStatusCodes:
       - 0
@@ -216,13 +274,17 @@ sites:
       - 201
   - name: Portal - Jerry Savelle Ministries International Australia
     url: https://portal.jsmiaustralia.org
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Keystone Leadership Group
-    url: https://keystoneleadership.com.au/robots.txt
+    url: https://keystoneleadership.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
@@ -230,55 +292,71 @@ sites:
       - 201
   - name: Lance N. Solomon
     url: https://lancensolomon.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Lil Fi
-    url: https://lilfi.com/robots.txt
+    url: https://lilfi.com
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Little Groovers Dance Co
-    url: https://littlegrooversdanceco.com/robots.txt
+    url: https://littlegrooversdanceco.com
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Living Word Church
-    url: https://livingword.org.au/robots.txt
+    url: https://livingword.org.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Lee Meehan Roofing
-    url: https://lmr.net.au/robots.txt
+    url: https://lmr.net.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Legal Insite
-    url: https://legalinsite.com.au/robots.txt
+    url: https://legalinsite.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Lounge Repair Guys
-    url: https://loungerepairguys.com.au/robots.txt
+    url: https://loungerepairguys.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: LT Consulting
-    url: https://ltconsulting.com.au/robots.txt
+    url: https://ltconsulting.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
@@ -286,6 +364,8 @@ sites:
       - 201
   - name: Lucid Solutions
     url: https://getlucid.solutions
+    headers:
+      - "Content-Type: text/html"
     icon: https://getlucid.solutions/wp-content/uploads/2020/12/cropped-ls-icon-32x32.png
     maxResponseTime: 30000
     expectedStatusCodes:
@@ -293,42 +373,54 @@ sites:
       - 200
       - 201
   - name: The Lucid Group
-    url: https://thelucid.group/robots.txt
+    url: https://thelucid.group
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Minds and Hearts
-    url: https://mindsandhearts.net/robots.txt
+    url: https://mindsandhearts.net
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Moncai
-    url: https://moncai.com.au/robots.txt
+    url: https://moncai.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: NicNax
-    url: https://nicnax.com.au/robots.txt
+    url: https://nicnax.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Nyarima
-    url: https://nyarima.com.au/robots.txt
+    url: https://nyarima.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Oasis House
-    url: https://oasishouse.com.au/robots.txt
+    url: https://oasishouse.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
@@ -336,90 +428,105 @@ sites:
       - 201
   - name: Omega Communication Services
     url: https://omegacoms.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Optimise BnB
-    url: https://optimisebnb.com.au/robots.txt
+    url: https://optimisebnb.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Peak Horizons
-    url: https://peakhorizons.com.au/robots.txt
+    url: https://peakhorizons.com.au
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: RAC Equipment
-    url: https://racequipment.com.au/robots.txt
+    url: https://racequipment.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Stone Creative Group
-    url: https://www.stonecreative.com.au/robots.txt
+    url: https://www.stonecreative.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Swell Plumbing and Gas
-    url: https://swellplumbingandgas.com.au/robots.txt
+    url: https://swellplumbingandgas.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Tracy Hitchings Music
-    url: https://tracyhitchingsmusic.com/robots.txt
+    url: https://tracyhitchingsmusic.com
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: VetAnswers
-    url: https://vetanswers.com.au/robots.txt
+    url: https://vetanswers.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: VetMe
-    url: https://www.vetme.com.au/robots.txt
+    url: https://www.vetme.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
-  # - name: Waves Concrete Pumping
-  #   url: https://wavesconcretepumping.com.au
-  #   maxResponseTime: 30000
-  #   expectedStatusCodes:
-  #     - 0
-  #     - 200
-  #     - 201
   - name: Woman of Courage
-    url: https://womenofcourageaustralia.com.au/robots.txt
+    url: https://womenofcourageaustralia.com.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Worship Ministries International
-    url: https://worshipministriesinternational.com/robots.txt
+    url: https://worshipministriesinternational.com
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
       - 200
       - 201
   - name: Young Discoverers
-    url: https://youngdiscoverers.org.au/robots.txt
+    url: https://youngdiscoverers.org.au
+    headers:
+      - "Content-Type: text/html"
     maxResponseTime: 30000
     expectedStatusCodes:
       - 0
