@@ -1,604 +1,133 @@
 owner: Clicki-Digital
 repo: uptime
-delay: 5000
+delay: 7000
 skipDeleteIssues: true
 
 sites:
   - name: Adam Brand Music
     url: https://adambrandmusic.com
-    method: "GET"
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: All Access Electrical
     url: https://allaccesselectrical.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Ausource International
     url: https://ausourceintl.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Australian Anti Ice Campaign
     url: https://australianantiicecampaign.org.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
-    maxResponseTime: 10000
   - name: Beulah Revival Network
     url: https://beulah.net.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Bookkeeper to the Smart People
     url: https://bksp.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Burdi
     url: https://burdi.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Burdi - Selfservice
     url: https://manage.burdi.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Cafe7
     url: https://cafe7.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
-  - name: CC Electrical and Air 
+  - name: CC Electrical and Air
     url: https://ccelectricalandair.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
-  - name: Chariots of Light Australia 
+  - name: Chariots of Light Australia
     url: https://chariotsoflight.org.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: ClaimsWrights
     url: https://claimswrights.co.uk
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Clear Cut Seafood Training
     url: https://clearcutseafoodtraining.com
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Clicki Digital
     url: https://clickidigital.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Contreat
     url: https://contreat.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Col Stringer
     url: https://colstringer.com
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Construction Training Institute
     url: https://cti.edu.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Diverse AirCon & Mechanical
     url: https://diverseaircon.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Envirometal / We Buuy Scrap
     url: https://webuyscrap.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: First Harvest Coffee
     url: https://firstharvestcoffee.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Gary Rucci
     url: https://garyrucci.com
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Gold Coast Edge Protection
     url: https://gcep.net.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Heritage of Faith Christian Church - Gold Coast
     url: https://heritageoffaith.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: HopeAlley
     url: https://hopealley.com
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: HopeAlley Ecards
     url: https://hopealley.com/ecards
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Hopelands Church
     url: https://hopelands.church
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Ian Slack
     url: https://ianslack.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Independent Wealth Management Australia
     url: https://iwmaus.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Jerry Savelle Ministries International Australia
     url: https://jsmiaustralia.org
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 7500
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Portal - Jerry Savelle Ministries International Australia
     url: https://portal.jsmiaustralia.org
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Keystone Leadership Group
     url: https://keystoneleadership.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Lance N. Solomon
     url: https://lancensolomon.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Lil Fi
     url: https://lilfi.com
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Little Groovers Dance Co
     url: https://littlegrooversdanceco.com
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Living Word Church
     url: https://livingword.org.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Lee Meehan Roofing
     url: https://lmr.net.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Legal Insite
     url: https://legalinsite.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Lounge Repair Guys
     url: https://loungerepairguys.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: LT Consulting
     url: https://ltconsulting.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Lucid Solutions
     url: https://getlucid.solutions
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    icon: https://getlucid.solutions/wp-content/uploads/2020/12/cropped-ls-icon-32x32.png
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: The Lucid Group
     url: https://thelucid.group
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Minds and Hearts
     url: https://mindsandhearts.net
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Moncai
     url: https://moncai.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: NicNax
     url: https://nicnax.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Nyarima
     url: https://nyarima.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Oasis House
     url: https://oasishouse.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Omega Communication Services
     url: https://omegacoms.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Optimise BnB
     url: https://optimisebnb.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Peak Horizons
     url: https://peakhorizons.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: RAC Equipment
     url: https://racequipment.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Stone Creative Group
     url: https://www.stonecreative.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Swell Plumbing and Gas
     url: https://swellplumbingandgas.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Tracy Hitchings Music
     url: https://tracyhitchingsmusic.com
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: VetAnswers
     url: https://vetanswers.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: VetMe
     url: https://www.vetme.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Woman of Courage
     url: https://womenofcourageaustralia.com.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Worship Ministries International
     url: https://worshipministriesinternational.com
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Young Discoverers
     url: https://youngdiscoverers.org.au
-    headers:
-      - "User-Agent: Mozilla/5.0 (Uptime Monitor)"
-      - "Accept: */*"
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
-    
-
-
 
 status-website:
   theme: light
   cname: status.clicki.digital
-  #baseUrl: /uptime
   logoUrl: https://clickidigital.com.au/wp-content/uploads/2021/02/ClickiDigital-horizontal-logo-FullColor.png
   name: Uptime Status
   introTitle: "**Clicki Digital** web hosting status"
-  introMessage: "This status page provides *real-time* updates for the below listed sites that are managed by the Clicki Digital Infrastructure as a Service (IaaS) solution.
-  <br>Clicki Digital utilises this tool to assist with unplanned outages."
+  introMessage: "This status page provides real-time updates for sites managed by the Clicki Digital Infrastructure as a Service (IaaS) solution.<br>Clicki Digital utilises this tool to assist with unplanned outages."
   navbar:
     - title: Status
       href: /
@@ -610,6 +139,3 @@ status-website:
     updateTemplate: "0 0 * * *"
     updates: "0 3 * * *"
     uptime: "*/7 * * * *"
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
