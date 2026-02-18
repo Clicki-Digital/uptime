@@ -1,7 +1,7 @@
 url: https://firstharvestcoffee.com.au
-status: up
-code: 200
-responseTime: 1096
-lastUpdated: 2026-02-18T07:45:28.581Z
+status: down
+code: 415
+responseTime: 500
+lastUpdated: 2026-02-18T09:30:29.627Z
 startTime: 2025-03-18T20:46:27.201Z
 generator: Upptime <https://github.com/upptime/upptime>
