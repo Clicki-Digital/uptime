@@ -1,7 +1,7 @@
 url: https://www.vetme.com.au
-status: up
-code: 200
-responseTime: 859
-lastUpdated: 2026-02-20T11:44:58.904Z
+status: down
+code: 415
+responseTime: 384
+lastUpdated: 2026-02-20T15:10:14.436Z
 startTime: 2025-08-28T10:44:56.172Z
 generator: Upptime <https://github.com/upptime/upptime>
