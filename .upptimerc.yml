@@ -108,8 +108,8 @@ sites:
     url: https://optimisebnb.com.au
   - name: Peak Horizons
     url: https://peakhorizons.com.au
-  - name: RAC Equipment
-    url: https://racequipment.com.au
+  # - name: RAC Equipment
+  #   url: https://racequipment.com.au
   - name: Stone Creative Group
     url: https://www.stonecreative.com.au
   - name: Swell Plumbing and Gas
