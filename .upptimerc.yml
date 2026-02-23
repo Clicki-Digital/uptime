@@ -32,118 +32,566 @@ sites:
       - 415
   - name: All Access Electrical
     url: https://allaccesselectrical.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Ausource International
     url: https://ausourceintl.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Australian Anti Ice Campaign
     url: https://australianantiicecampaign.org.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Beulah Revival Network
     url: https://beulah.net.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Bookkeeper to the Smart People
     url: https://bksp.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Burdi
     url: https://burdi.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Burdi - Selfservice
     url: https://manage.burdi.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Cafe7
     url: https://cafe7.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: CC Electrical and Air
     url: https://ccelectricalandair.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Chariots of Light Australia
     url: https://chariotsoflight.org.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: ClaimsWrights
     url: https://claimswrights.co.uk
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Clear Cut Seafood Training
     url: https://clearcutseafoodtraining.com
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Clicki Digital
     url: https://clickidigital.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Contreat
     url: https://contreat.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Col Stringer
     url: https://colstringer.com
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Construction Training Institute
     url: https://cti.edu.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Diverse AirCon & Mechanical
     url: https://diverseaircon.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Envirometal / We Buuy Scrap
     url: https://webuyscrap.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: First Harvest Coffee
     url: https://firstharvestcoffee.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Gary Rucci
     url: https://garyrucci.com
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Gold Coast Edge Protection
     url: https://gcep.net.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Heritage of Faith Christian Church - Gold Coast
     url: https://heritageoffaith.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: HopeAlley
     url: https://hopealley.com
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: HopeAlley Ecards
     url: https://hopealley.com/ecards
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Hopelands Church
     url: https://hopelands.church
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Ian Slack
     url: https://ianslack.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Independent Wealth Management Australia
     url: https://iwmaus.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Jerry Savelle Ministries International Australia
     url: https://jsmiaustralia.org
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Portal - Jerry Savelle Ministries International Australia
     url: https://portal.jsmiaustralia.org
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Keystone Leadership Group
     url: https://keystoneleadership.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Lance N. Solomon
     url: https://lancensolomon.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Lil Fi
     url: https://lilfi.com
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Little Groovers Dance Co
     url: https://littlegrooversdanceco.com
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Living Word Church
     url: https://livingword.org.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Lee Meehan Roofing
     url: https://lmr.net.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Legal Insite
     url: https://legalinsite.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Lounge Repair Guys
     url: https://loungerepairguys.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: LT Consulting
     url: https://ltconsulting.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Lucid Solutions
     url: https://getlucid.solutions
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: The Lucid Group
     url: https://thelucid.group
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Minds and Hearts
     url: https://mindsandhearts.net
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Moncai
     url: https://moncai.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: NicNax
     url: https://nicnax.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Nyarima
     url: https://nyarima.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Oasis House
     url: https://oasishouse.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Omega Communication Services
     url: https://omegacoms.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Optimise BnB
     url: https://optimisebnb.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Peak Horizons
     url: https://peakhorizons.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   # - name: RAC Equipment
   #   url: https://racequipment.com.au
   - name: Stone Creative Group
     url: https://www.stonecreative.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Swell Plumbing and Gas
     url: https://swellplumbingandgas.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Tracy Hitchings Music
     url: https://tracyhitchingsmusic.com
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: VetAnswers
     url: https://vetanswers.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: VetMe
     url: https://www.vetme.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Woman of Courage
     url: https://womenofcourageaustralia.com.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Worship Ministries International
     url: https://worshipministriesinternational.com
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: Young Discoverers
     url: https://youngdiscoverers.org.au
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
 
 status-website:
   theme: light
