@@ -263,17 +263,6 @@ sites:
       - 308
       - 403
       - 415
-  - name: Heritage of Faith Christian Church - Gold Coast
-    url: https://heritageoffaith.com.au
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 301
-      - 302
-      - 307
-      - 308
-      - 403
-      - 415
   - name: HopeAlley
     url: https://hopealley.com
     expectedStatusCodes:
