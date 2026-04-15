@@ -765,19 +765,19 @@
     "url": "https://colstringer.com",
     "icon": "https://icons.duckduckgo.com/ip3/colstringer.com.ico",
     "slug": "col-stringer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "62.71%",
-    "uptimeWeek": "94.67%",
-    "uptimeMonth": "98.77%",
+    "uptimeDay": "62.21%",
+    "uptimeWeek": "94.60%",
+    "uptimeMonth": "98.76%",
     "uptimeYear": "98.95%",
-    "time": 1545,
-    "timeDay": 1945,
-    "timeWeek": 2015,
-    "timeMonth": 2007,
-    "timeYear": 1440,
+    "time": 1548,
+    "timeDay": 2302,
+    "timeWeek": 2188,
+    "timeMonth": 2067,
+    "timeYear": 1442,
     "dailyMinutesDown": {
-      "2026-04-15": 537,
+      "2026-04-15": 544,
       "2026-02-23": 48,
       "2026-02-22": 26,
       "2026-02-21": 67,
@@ -809,7 +809,7 @@
       "2026-01-22": 57,
       "2026-01-21": 19,
       "2026-01-20": 9,
-      "2026-01-18": 72
+      "2026-01-18": 34
     }
   },
   {
