@@ -1,7 +1,7 @@
 url: https://getlucid.solutions
-status: up
-code: 200
-responseTime: 703
-lastUpdated: 2026-04-17T23:24:14.454Z
+status: down
+code: 503
+responseTime: 10590
+lastUpdated: 2026-04-18T18:01:52.421Z
 startTime: 2022-01-29T12:40:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
