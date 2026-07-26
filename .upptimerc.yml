@@ -219,7 +219,7 @@ sites:
       - 308
       - 403
       - 415
-  - name: Envirometal / We Buuy Scrap
+  - name: Envirometal / We Buy Scrap
     url: https://webuyscrap.com.au
     expectedStatusCodes:
       - 0
