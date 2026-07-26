@@ -450,6 +450,17 @@ sites:
       - 308
       - 403
       - 415
+  - name: LumaAsk
+    url: https://lumaask.com
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
+      - 403
+      - 415
   - name: The Lucid Group
     url: https://thelucid.group
     expectedStatusCodes:
