@@ -4,19 +4,18 @@
     "url": "https://adambrandmusic.com",
     "icon": "https://icons.duckduckgo.com/ip3/adambrandmusic.com.ico",
     "slug": "adam-brand-music",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.06%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.04%",
     "uptimeYear": "99.05%",
-    "time": 1657,
-    "timeDay": 960,
-    "timeWeek": 2495,
-    "timeMonth": 4851,
-    "timeYear": 1370,
+    "time": 1655,
+    "timeDay": 833,
+    "timeWeek": 2271,
+    "timeMonth": 4755,
+    "timeYear": 1369,
     "dailyMinutesDown": {
-      "2026-01-24": 11,
       "2026-01-25": 57,
       "2026-01-26": 50,
       "2026-01-28": 556,
@@ -55,7 +54,8 @@
       "2026-07-04": 24,
       "2026-07-17": 294,
       "2026-07-25": 88,
-      "2026-07-26": 3
+      "2026-07-26": 3,
+      "2026-08-04": 9
     }
   },
   {
