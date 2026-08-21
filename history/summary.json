@@ -1880,17 +1880,17 @@
     "url": "https://ltconsulting.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/ltconsulting.com.au.ico",
     "slug": "lt-consulting",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.08%",
-    "time": 1664,
-    "timeDay": 1213,
-    "timeWeek": 1942,
-    "timeMonth": 2205,
-    "timeYear": 1711,
+    "time": 1669,
+    "timeDay": 3068,
+    "timeWeek": 2479,
+    "timeMonth": 2340,
+    "timeYear": 1716,
     "dailyMinutesDown": {
       "2026-01-26": 27,
       "2026-01-28": 557,
@@ -1928,7 +1928,7 @@
       "2026-05-22": 27,
       "2026-05-24": 27,
       "2026-07-17": 290,
-      "2026-08-21": 7
+      "2026-08-21": 44
     }
   },
   {
