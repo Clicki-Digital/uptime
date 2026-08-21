@@ -6,9 +6,9 @@
     "slug": "adam-brand-music",
     "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "99.03%",
     "time": 1538,
     "timeDay": 2556,
@@ -56,7 +56,7 @@
       "2026-07-25": 88,
       "2026-07-26": 3,
       "2026-08-04": 98,
-      "2026-08-21": 14
+      "2026-08-21": 42
     }
   },
   {
@@ -117,19 +117,19 @@
     "url": "https://ausourceintl.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/ausourceintl.com.au.ico",
     "slug": "ausource-international",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.06%",
     "time": 1307,
-    "timeDay": 1074,
-    "timeWeek": 1793,
-    "timeMonth": 1537,
+    "timeDay": 906,
+    "timeWeek": 1661,
+    "timeMonth": 1513,
     "timeYear": 1326,
     "dailyMinutesDown": {
-      "2026-01-18": 34,
+      "2026-01-18": 23,
       "2026-01-20": 9,
       "2026-01-21": 19,
       "2026-01-22": 57,
@@ -164,7 +164,8 @@
       "2026-04-18": 110,
       "2026-05-17": 81,
       "2026-05-29": 68,
-      "2026-07-17": 153
+      "2026-07-17": 153,
+      "2026-08-21": 14
     }
   },
   {
@@ -268,10 +269,10 @@
     "slug": "bookkeeper-to-the-smart-people",
     "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.10%",
+    "uptimeDay": "97.13%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.09%",
     "time": 1486,
     "timeDay": 753,
     "timeWeek": 1036,
@@ -312,7 +313,7 @@
       "2026-02-23": 48,
       "2026-04-18": 144,
       "2026-07-17": 88,
-      "2026-08-21": 13
+      "2026-08-21": 41
     }
   },
   {
@@ -322,10 +323,10 @@
     "slug": "burdi",
     "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.00%",
+    "uptimeDay": "97.15%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "98.99%",
     "time": 2506,
     "timeDay": 1714,
     "timeWeek": 2613,
@@ -369,7 +370,7 @@
       "2026-06-04": 90,
       "2026-06-24": 50,
       "2026-07-17": 292,
-      "2026-08-21": 13
+      "2026-08-21": 41
     }
   },
   {
@@ -623,19 +624,19 @@
     "url": "https://clearcutseafoodtraining.com",
     "icon": "https://icons.duckduckgo.com/ip3/clearcutseafoodtraining.com.ico",
     "slug": "clear-cut-seafood-training",
-    "status": "up",
+    "status": "down",
     "uptime": "99.08%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.08%",
-    "time": 1426,
-    "timeDay": 1180,
-    "timeWeek": 1331,
-    "timeMonth": 1441,
-    "timeYear": 1426,
+    "time": 1425,
+    "timeDay": 860,
+    "timeWeek": 1232,
+    "timeMonth": 1414,
+    "timeYear": 1425,
     "dailyMinutesDown": {
-      "2026-01-17": 17,
+      "2026-01-17": 8,
       "2026-01-18": 34,
       "2026-01-20": 9,
       "2026-01-21": 19,
@@ -669,7 +670,8 @@
       "2026-02-22": 26,
       "2026-02-23": 48,
       "2026-04-18": 89,
-      "2026-07-17": 152
+      "2026-07-17": 152,
+      "2026-08-21": 13
     }
   },
   {
@@ -832,9 +834,9 @@
     "slug": "col-stringer",
     "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "97.58%",
     "time": 1494,
     "timeDay": 989,
@@ -876,7 +878,7 @@
       "2026-04-21": 611,
       "2026-07-17": 87,
       "2026-08-01": 60,
-      "2026-08-21": 12
+      "2026-08-21": 40
     }
   },
   {
@@ -914,10 +916,10 @@
     "slug": "diverse-air-con-and-mechanical",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.13%",
+    "uptimeDay": "97.24%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.12%",
     "time": 1570,
     "timeDay": 1794,
     "timeWeek": 1674,
@@ -958,7 +960,7 @@
       "2026-02-22": 26,
       "2026-02-23": 48,
       "2026-04-18": 50,
-      "2026-08-21": 12
+      "2026-08-21": 40
     }
   },
   {
@@ -967,18 +969,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/webuyscrap.com.au.ico",
     "slug": "envirometal-we-buy-scrap",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.90%",
+    "uptimeDay": "97.26%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 1195,
     "timeDay": 507,
     "timeWeek": 816,
     "timeMonth": 1195,
     "timeYear": 1195,
     "dailyMinutesDown": {
-      "2026-08-21": 12
+      "2026-08-21": 39
     }
   },
   {
@@ -986,19 +988,19 @@
     "url": "https://firstharvestcoffee.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/firstharvestcoffee.com.au.ico",
     "slug": "first-harvest-coffee",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "98.59%",
     "time": 913,
-    "timeDay": 661,
-    "timeWeek": 846,
-    "timeMonth": 796,
-    "timeYear": 903,
+    "timeDay": 613,
+    "timeWeek": 811,
+    "timeMonth": 789,
+    "timeYear": 902,
     "dailyMinutesDown": {
-      "2026-01-17": 57,
+      "2026-01-17": 42,
       "2026-01-18": 62,
       "2026-01-20": 9,
       "2026-01-21": 19,
@@ -1033,7 +1035,8 @@
       "2026-02-23": 48,
       "2026-03-06": 58,
       "2026-04-18": 83,
-      "2026-07-17": 205
+      "2026-07-17": 205,
+      "2026-08-21": 12
     }
   },
   {
@@ -1096,9 +1099,9 @@
     "slug": "gold-coast-edge-protection",
     "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.17%",
     "time": 1080,
     "timeDay": 759,
@@ -1139,7 +1142,7 @@
       "2026-02-22": 26,
       "2026-02-23": 48,
       "2026-04-18": 122,
-      "2026-08-21": 11
+      "2026-08-21": 39
     }
   },
   {
@@ -1242,10 +1245,10 @@
     "slug": "hopelands-church",
     "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.19%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.18%",
     "time": 1149,
     "timeDay": 832,
     "timeWeek": 1051,
@@ -1285,7 +1288,7 @@
       "2026-02-22": 26,
       "2026-02-23": 48,
       "2026-04-18": 82,
-      "2026-08-21": 11
+      "2026-08-21": 38
     }
   },
   {
@@ -1295,10 +1298,10 @@
     "slug": "ian-slack",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.14%",
+    "uptimeDay": "97.35%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.13%",
     "time": 1142,
     "timeDay": 1543,
     "timeWeek": 2515,
@@ -1339,7 +1342,7 @@
       "2026-04-18": 56,
       "2026-06-14": 43,
       "2026-07-17": 292,
-      "2026-08-21": 10
+      "2026-08-21": 38
     }
   },
   {
@@ -1347,11 +1350,11 @@
     "url": "https://iwmaus.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/iwmaus.com.au.ico",
     "slug": "independent-wealth-management-australia",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.10%",
     "time": 1373,
     "timeDay": 799,
@@ -1393,7 +1396,7 @@
       "2026-02-23": 48,
       "2026-04-18": 68,
       "2026-07-17": 86,
-      "2026-08-21": 10
+      "2026-08-21": 28
     }
   },
   {
@@ -1403,9 +1406,9 @@
     "slug": "jerry-savelle-ministries-international-australia",
     "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.05%",
     "time": 2184,
     "timeDay": 5170,
@@ -1450,7 +1453,7 @@
       "2026-06-14": 43,
       "2026-06-23": 51,
       "2026-07-17": 290,
-      "2026-08-21": 10
+      "2026-08-21": 38
     }
   },
   {
@@ -1478,9 +1481,9 @@
     "slug": "keystone-leadership-group",
     "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "97.43%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.05%",
     "time": 3164,
     "timeDay": 3106,
@@ -1525,7 +1528,7 @@
       "2026-05-17": 158,
       "2026-05-23": 51,
       "2026-07-17": 290,
-      "2026-08-21": 9
+      "2026-08-21": 37
     }
   },
   {
@@ -1638,19 +1641,19 @@
     "url": "https://littlegrooversdanceco.com",
     "icon": "https://icons.duckduckgo.com/ip3/littlegrooversdanceco.com.ico",
     "slug": "little-groovers-dance-co",
-    "status": "up",
+    "status": "down",
     "uptime": "98.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "98.73%",
     "time": 930,
-    "timeDay": 852,
-    "timeWeek": 1049,
-    "timeMonth": 1159,
+    "timeDay": 820,
+    "timeWeek": 1017,
+    "timeMonth": 1148,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2026-01-18": 34,
+      "2026-01-18": 23,
       "2026-01-20": 9,
       "2026-01-21": 19,
       "2026-01-22": 59,
@@ -1683,7 +1686,8 @@
       "2026-02-22": 26,
       "2026-02-23": 48,
       "2026-04-18": 133,
-      "2026-07-17": 204
+      "2026-07-17": 204,
+      "2026-08-21": 9
     }
   },
   {
@@ -1725,10 +1729,10 @@
     "slug": "lee-meehan-roofing",
     "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.18%",
+    "uptimeDay": "97.47%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.17%",
     "time": 1141,
     "timeDay": 834,
     "timeWeek": 1038,
@@ -1768,7 +1772,7 @@
       "2026-02-22": 26,
       "2026-02-23": 48,
       "2026-04-18": 157,
-      "2026-08-21": 9
+      "2026-08-21": 36
     }
   },
   {
@@ -1778,10 +1782,10 @@
     "slug": "legal-insite",
     "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "98.19%",
+    "uptimeDay": "97.49%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "98.18%",
     "time": 780,
     "timeDay": 554,
     "timeWeek": 704,
@@ -1825,7 +1829,7 @@
       "2026-03-07": 1440,
       "2026-04-18": 114,
       "2026-07-17": 86,
-      "2026-08-21": 9
+      "2026-08-21": 36
     }
   },
   {
@@ -1835,10 +1839,10 @@
     "slug": "lounge-repair-guys",
     "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.16%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.15%",
     "time": 923,
     "timeDay": 531,
     "timeWeek": 795,
@@ -1881,7 +1885,7 @@
       "2026-04-11": 13,
       "2026-04-18": 204,
       "2026-04-25": 16,
-      "2026-08-21": 8
+      "2026-08-21": 36
     }
   },
   {
@@ -1891,10 +1895,10 @@
     "slug": "lt-consulting",
     "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "96.41%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.08%",
+    "uptimeDay": "94.50%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.07%",
     "time": 1669,
     "timeDay": 2419,
     "timeWeek": 2278,
@@ -1937,7 +1941,7 @@
       "2026-05-22": 27,
       "2026-05-24": 27,
       "2026-07-17": 290,
-      "2026-08-21": 52
+      "2026-08-21": 80
     }
   },
   {
@@ -2071,10 +2075,10 @@
     "slug": "minds-and-hearts",
     "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.10%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.09%",
     "time": 1172,
     "timeDay": 762,
     "timeWeek": 990,
@@ -2115,7 +2119,7 @@
       "2026-02-22": 25,
       "2026-02-23": 48,
       "2026-04-18": 215,
-      "2026-08-21": 8
+      "2026-08-21": 35
     }
   },
   {
@@ -2218,19 +2222,19 @@
     "url": "https://nyarima.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/nyarima.com.au.ico",
     "slug": "nyarima",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.18%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.19%",
     "time": 943,
-    "timeDay": 975,
-    "timeWeek": 1091,
-    "timeMonth": 1437,
+    "timeDay": 878,
+    "timeWeek": 1053,
+    "timeMonth": 1417,
     "timeYear": 964,
     "dailyMinutesDown": {
-      "2026-01-18": 63,
+      "2026-01-18": 35,
       "2026-01-20": 10,
       "2026-01-21": 19,
       "2026-01-22": 59,
@@ -2263,7 +2267,8 @@
       "2026-02-22": 24,
       "2026-02-23": 47,
       "2026-03-06": 22,
-      "2026-04-18": 79
+      "2026-04-18": 79,
+      "2026-08-21": 7
     }
   },
   {
@@ -2273,9 +2278,9 @@
     "slug": "oasis-house",
     "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.09%",
     "time": 1383,
     "timeDay": 964,
@@ -2320,7 +2325,7 @@
       "2026-07-17": 86,
       "2026-07-26": 11,
       "2026-07-25": 24,
-      "2026-08-21": 7
+      "2026-08-21": 35
     }
   },
   {
@@ -2393,9 +2398,9 @@
     "slug": "optimise-bn-b",
     "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "98.21%",
     "time": 889,
     "timeDay": 633,
@@ -2441,7 +2446,7 @@
       "2026-04-18": 109,
       "2026-07-27": 10,
       "2026-07-26": 15,
-      "2026-08-21": 7
+      "2026-08-21": 34
     }
   },
   {
@@ -2557,9 +2562,9 @@
     "slug": "swell-plumbing-and-gas",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.12%",
     "time": 1013,
     "timeDay": 663,
@@ -2601,7 +2606,7 @@
       "2026-02-23": 47,
       "2026-04-18": 219,
       "2026-07-17": 237,
-      "2026-08-21": 6
+      "2026-08-21": 34
     }
   },
   {
@@ -2611,9 +2616,9 @@
     "slug": "tracy-hitchings-music",
     "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.18%",
     "time": 1033,
     "timeDay": 758,
@@ -2654,7 +2659,7 @@
       "2026-02-23": 47,
       "2026-04-06": 15,
       "2026-04-18": 58,
-      "2026-08-21": 6
+      "2026-08-21": 33
     }
   },
   {
@@ -2663,11 +2668,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/vetanswers.com.au.ico",
     "slug": "vet-answers",
     "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.00%",
+    "uptime": "99.73%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "98.99%",
     "time": 3353,
     "timeDay": 2400,
     "timeWeek": 4147,
@@ -2713,7 +2718,7 @@
       "2026-06-11": 45,
       "2026-07-08": 138,
       "2026-07-17": 287,
-      "2026-08-21": 6
+      "2026-08-21": 33
     }
   },
   {
@@ -2721,19 +2726,19 @@
     "url": "https://www.vetme.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/www.vetme.com.au.ico",
     "slug": "vet-me",
-    "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.14%",
-    "time": 897,
-    "timeDay": 805,
-    "timeWeek": 896,
-    "timeMonth": 1840,
-    "timeYear": 897,
+    "status": "down",
+    "uptime": "99.15%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.15%",
+    "time": 896,
+    "timeDay": 688,
+    "timeWeek": 855,
+    "timeMonth": 1802,
+    "timeYear": 896,
     "dailyMinutesDown": {
-      "2026-01-18": 24,
+      "2026-01-18": 13,
       "2026-01-20": 10,
       "2026-01-21": 19,
       "2026-01-22": 61,
@@ -2767,7 +2772,8 @@
       "2026-02-23": 47,
       "2026-03-06": 24,
       "2026-04-18": 37,
-      "2026-07-17": 202
+      "2026-07-17": 202,
+      "2026-08-21": 5
     }
   },
   {
@@ -2829,10 +2835,10 @@
     "slug": "worship-ministries-international",
     "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.00%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "98.99%",
     "time": 2367,
     "timeDay": 1368,
     "timeWeek": 3006,
@@ -2878,7 +2884,7 @@
       "2026-05-14": 21,
       "2026-06-11": 45,
       "2026-07-17": 287,
-      "2026-08-21": 6
+      "2026-08-21": 33
     }
   },
   {
@@ -2886,19 +2892,19 @@
     "url": "https://youngdiscoverers.org.au",
     "icon": "https://icons.duckduckgo.com/ip3/youngdiscoverers.org.au.ico",
     "slug": "young-discoverers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.13%",
     "time": 1035,
-    "timeDay": 964,
-    "timeWeek": 1120,
-    "timeMonth": 1015,
-    "timeYear": 1025,
+    "timeDay": 661,
+    "timeWeek": 1025,
+    "timeMonth": 995,
+    "timeYear": 1024,
     "dailyMinutesDown": {
-      "2026-01-18": 35,
+      "2026-01-18": 24,
       "2026-01-20": 10,
       "2026-01-21": 19,
       "2026-01-22": 61,
@@ -2931,7 +2937,8 @@
       "2026-02-22": 24,
       "2026-02-23": 48,
       "2026-04-18": 218,
-      "2026-07-17": 202
+      "2026-07-17": 202,
+      "2026-08-21": 4
     }
   }
 ]
