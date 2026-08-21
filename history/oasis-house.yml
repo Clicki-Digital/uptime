@@ -1,7 +1,7 @@
 url: https://oasishouse.com.au
-status: up
-code: 200
-responseTime: 1130
-lastUpdated: 2026-08-20T23:35:28.852Z
+status: down
+code: 500
+responseTime: 797
+lastUpdated: 2026-08-21T15:01:07.591Z
 startTime: 2022-12-12T21:54:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
