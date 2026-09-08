@@ -13,8 +13,8 @@
     "time": 1511,
     "timeDay": 3209,
     "timeWeek": 3458,
-    "timeMonth": 3156,
-    "timeYear": 1402,
+    "timeMonth": 3142,
+    "timeYear": 1403,
     "dailyMinutesDown": {
       "2026-01-25": 28,
       "2026-01-26": 50,
@@ -74,7 +74,7 @@
     "time": 995,
     "timeDay": 656,
     "timeWeek": 940,
-    "timeMonth": 1013,
+    "timeMonth": 1018,
     "timeYear": 992,
     "dailyMinutesDown": {
       "2026-01-18": 34,
@@ -127,8 +127,8 @@
     "time": 1308,
     "timeDay": 888,
     "timeWeek": 1065,
-    "timeMonth": 1371,
-    "timeYear": 1332,
+    "timeMonth": 1383,
+    "timeYear": 1328,
     "dailyMinutesDown": {
       "2026-01-20": 9,
       "2026-01-21": 19,
@@ -175,7 +175,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/australianantiicecampaign.org.au.ico",
     "slug": "australian-anti-ice-campaign",
     "status": "up",
-    "uptime": "99.07%",
+    "uptime": "99.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -183,8 +183,8 @@
     "time": 2108,
     "timeDay": 1084,
     "timeWeek": 1909,
-    "timeMonth": 1912,
-    "timeYear": 2259,
+    "timeMonth": 1918,
+    "timeYear": 2256,
     "dailyMinutesDown": {
       "2026-01-19": 11,
       "2026-02-18": 36,
@@ -224,8 +224,8 @@
     "time": 1132,
     "timeDay": 836,
     "timeWeek": 910,
-    "timeMonth": 1025,
-    "timeYear": 1132,
+    "timeMonth": 1026,
+    "timeYear": 1133,
     "dailyMinutesDown": {
       "2026-01-18": 63,
       "2026-01-20": 9,
@@ -277,7 +277,7 @@
     "time": 1479,
     "timeDay": 953,
     "timeWeek": 980,
-    "timeMonth": 1139,
+    "timeMonth": 1144,
     "timeYear": 1481,
     "dailyMinutesDown": {
       "2026-01-18": 12,
@@ -332,8 +332,8 @@
     "time": 2520,
     "timeDay": 2932,
     "timeWeek": 3035,
-    "timeMonth": 2617,
-    "timeYear": 2620,
+    "timeMonth": 2608,
+    "timeYear": 2619,
     "dailyMinutesDown": {
       "2026-01-25": 28,
       "2026-01-26": 50,
@@ -391,8 +391,8 @@
     "time": 3448,
     "timeDay": 4529,
     "timeWeek": 4075,
-    "timeMonth": 9820,
-    "timeYear": 3629,
+    "timeMonth": 9673,
+    "timeYear": 3632,
     "dailyMinutesDown": {
       "2025-10-08": 44,
       "2025-11-18": 87,
@@ -477,7 +477,7 @@
     "time": 897,
     "timeDay": 659,
     "timeWeek": 780,
-    "timeMonth": 848,
+    "timeMonth": 852,
     "timeYear": 894,
     "dailyMinutesDown": {
       "2026-01-17": 8,
@@ -530,7 +530,7 @@
     "time": 981,
     "timeDay": 665,
     "timeWeek": 765,
-    "timeMonth": 875,
+    "timeMonth": 881,
     "timeYear": 945,
     "dailyMinutesDown": {
       "2026-01-17": 8,
@@ -584,7 +584,7 @@
     "time": 945,
     "timeDay": 842,
     "timeWeek": 844,
-    "timeMonth": 1108,
+    "timeMonth": 1121,
     "timeYear": 928,
     "dailyMinutesDown": {
       "2026-01-17": 8,
@@ -637,7 +637,7 @@
     "time": 1425,
     "timeDay": 1233,
     "timeWeek": 1365,
-    "timeMonth": 1349,
+    "timeMonth": 1351,
     "timeYear": 1435,
     "dailyMinutesDown": {
       "2026-01-18": 23,
@@ -692,7 +692,7 @@
     "time": 845,
     "timeDay": 690,
     "timeWeek": 879,
-    "timeMonth": 1021,
+    "timeMonth": 1032,
     "timeYear": 831,
     "dailyMinutesDown": {
       "2026-01-18": 101,
@@ -748,7 +748,7 @@
     "time": 829,
     "timeDay": 1451,
     "timeWeek": 2467,
-    "timeMonth": 1518,
+    "timeMonth": 1534,
     "timeYear": 829,
     "dailyMinutesDown": {
       "2026-01-18": 23,
@@ -836,15 +836,15 @@
     "url": "https://colstringer.com",
     "icon": "https://icons.duckduckgo.com/ip3/colstringer.com.ico",
     "slug": "col-stringer",
-    "status": "down",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "10.21%",
-    "uptimeWeek": "78.78%",
-    "uptimeMonth": "93.73%",
-    "uptimeYear": "97.43%",
+    "uptimeDay": "11.08%",
+    "uptimeWeek": "77.54%",
+    "uptimeMonth": "93.45%",
+    "uptimeYear": "97.41%",
     "time": 1500,
-    "timeDay": 1484,
-    "timeWeek": 1504,
+    "timeDay": 1467,
+    "timeWeek": 1498,
     "timeMonth": 1571,
     "timeYear": 1528,
     "dailyMinutesDown": {
@@ -884,7 +884,8 @@
       "2026-08-22": 152,
       "2026-09-04": 157,
       "2026-09-06": 781,
-      "2026-09-07": 1201
+      "2026-09-07": 1293,
+      "2026-09-08": 32
     }
   },
   {
@@ -901,8 +902,8 @@
     "time": 4586,
     "timeDay": 43,
     "timeWeek": 329,
-    "timeMonth": 228,
-    "timeYear": 4898,
+    "timeMonth": 226,
+    "timeYear": 4904,
     "dailyMinutesDown": {
       "2025-12-20": 14,
       "2026-02-18": 35,
@@ -928,7 +929,7 @@
     "time": 1572,
     "timeDay": 1398,
     "timeWeek": 1863,
-    "timeMonth": 1690,
+    "timeMonth": 1696,
     "timeYear": 1584,
     "dailyMinutesDown": {
       "2026-01-18": 34,
@@ -982,7 +983,7 @@
     "time": 995,
     "timeDay": 730,
     "timeWeek": 660,
-    "timeMonth": 756,
+    "timeMonth": 755,
     "timeYear": 995,
     "dailyMinutesDown": {
       "2026-08-21": 453,
@@ -1003,7 +1004,7 @@
     "time": 924,
     "timeDay": 805,
     "timeWeek": 1462,
-    "timeMonth": 1190,
+    "timeMonth": 1203,
     "timeYear": 911,
     "dailyMinutesDown": {
       "2026-01-17": 24,
@@ -1060,7 +1061,7 @@
     "time": 938,
     "timeDay": 820,
     "timeWeek": 841,
-    "timeMonth": 894,
+    "timeMonth": 895,
     "timeYear": 915,
     "dailyMinutesDown": {
       "2026-01-18": 98,
@@ -1113,8 +1114,8 @@
     "time": 1077,
     "timeDay": 652,
     "timeWeek": 743,
-    "timeMonth": 957,
-    "timeYear": 1050,
+    "timeMonth": 960,
+    "timeYear": 1051,
     "dailyMinutesDown": {
       "2026-01-18": 23,
       "2026-01-20": 9,
@@ -1167,8 +1168,8 @@
     "time": 2690,
     "timeDay": 4131,
     "timeWeek": 2262,
-    "timeMonth": 2386,
-    "timeYear": 2853,
+    "timeMonth": 2399,
+    "timeYear": 2854,
     "dailyMinutesDown": {
       "2025-12-20": 14,
       "2026-02-18": 35,
@@ -1208,8 +1209,8 @@
     "time": 1814,
     "timeDay": 1679,
     "timeWeek": 1917,
-    "timeMonth": 1922,
-    "timeYear": 1945,
+    "timeMonth": 1933,
+    "timeYear": 1946,
     "dailyMinutesDown": {
       "2025-11-18": 24,
       "2025-12-28": 0,
@@ -1260,7 +1261,7 @@
     "time": 1152,
     "timeDay": 1097,
     "timeWeek": 1143,
-    "timeMonth": 1210,
+    "timeMonth": 1209,
     "timeYear": 1145,
     "dailyMinutesDown": {
       "2026-01-18": 23,
@@ -1314,8 +1315,8 @@
     "time": 1165,
     "timeDay": 1726,
     "timeWeek": 2377,
-    "timeMonth": 2265,
-    "timeYear": 1173,
+    "timeMonth": 2264,
+    "timeYear": 1174,
     "dailyMinutesDown": {
       "2026-01-22": 58,
       "2026-01-23": 30,
@@ -1367,7 +1368,7 @@
     "time": 1368,
     "timeDay": 1152,
     "timeWeek": 1213,
-    "timeMonth": 1269,
+    "timeMonth": 1274,
     "timeYear": 1372,
     "dailyMinutesDown": {
       "2026-01-18": 12,
@@ -1422,8 +1423,8 @@
     "time": 2268,
     "timeDay": 7263,
     "timeWeek": 7244,
-    "timeMonth": 6763,
-    "timeYear": 2361,
+    "timeMonth": 6698,
+    "timeYear": 2362,
     "dailyMinutesDown": {
       "2026-01-24": 34,
       "2026-01-25": 58,
@@ -1479,7 +1480,7 @@
     "time": 1372,
     "timeDay": 1906,
     "timeWeek": 2041,
-    "timeMonth": 1794,
+    "timeMonth": 1797,
     "timeYear": 1389,
     "dailyMinutesDown": {}
   },
@@ -1497,8 +1498,8 @@
     "time": 3241,
     "timeDay": 13811,
     "timeWeek": 8096,
-    "timeMonth": 5330,
-    "timeYear": 3551,
+    "timeMonth": 5336,
+    "timeYear": 3554,
     "dailyMinutesDown": {
       "2026-01-28": 560,
       "2026-01-27": 1394,
@@ -1554,7 +1555,7 @@
     "time": 856,
     "timeDay": 611,
     "timeWeek": 729,
-    "timeMonth": 770,
+    "timeMonth": 776,
     "timeYear": 857,
     "dailyMinutesDown": {
       "2026-01-18": 34,
@@ -1606,7 +1607,7 @@
     "time": 883,
     "timeDay": 731,
     "timeWeek": 1091,
-    "timeMonth": 904,
+    "timeMonth": 907,
     "timeYear": 880,
     "dailyMinutesDown": {
       "2026-01-17": 8,
@@ -1659,7 +1660,7 @@
     "time": 931,
     "timeDay": 851,
     "timeWeek": 1000,
-    "timeMonth": 960,
+    "timeMonth": 963,
     "timeYear": 931,
     "dailyMinutesDown": {
       "2026-01-20": 9,
@@ -1714,7 +1715,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1577,
+    "timeYear": 1576,
     "dailyMinutesDown": {
       "2025-12-28": 1,
       "2025-12-27": 1440,
@@ -1745,7 +1746,7 @@
     "time": 1138,
     "timeDay": 701,
     "timeWeek": 942,
-    "timeMonth": 985,
+    "timeMonth": 987,
     "timeYear": 1121,
     "dailyMinutesDown": {
       "2026-01-18": 13,
@@ -1799,7 +1800,7 @@
     "time": 780,
     "timeDay": 504,
     "timeWeek": 895,
-    "timeMonth": 979,
+    "timeMonth": 991,
     "timeYear": 776,
     "dailyMinutesDown": {
       "2026-01-22": 59,
@@ -1855,7 +1856,7 @@
     "time": 924,
     "timeDay": 812,
     "timeWeek": 819,
-    "timeMonth": 873,
+    "timeMonth": 878,
     "timeYear": 923,
     "dailyMinutesDown": {
       "2026-01-21": 19,
@@ -1910,7 +1911,7 @@
     "time": 1686,
     "timeDay": 2091,
     "timeWeek": 2655,
-    "timeMonth": 2140,
+    "timeMonth": 2134,
     "timeYear": 1733,
     "dailyMinutesDown": {
       "2026-01-28": 91,
@@ -1965,7 +1966,7 @@
     "time": 829,
     "timeDay": 517,
     "timeWeek": 695,
-    "timeMonth": 814,
+    "timeMonth": 821,
     "timeYear": 825,
     "dailyMinutesDown": {
       "2026-01-18": 13,
@@ -2017,7 +2018,7 @@
     "time": 932,
     "timeDay": 776,
     "timeWeek": 896,
-    "timeMonth": 926,
+    "timeMonth": 929,
     "timeYear": 932,
     "dailyMinutesDown": {}
   },
@@ -2035,7 +2036,7 @@
     "time": 1328,
     "timeDay": 911,
     "timeWeek": 1074,
-    "timeMonth": 1134,
+    "timeMonth": 1142,
     "timeYear": 1354,
     "dailyMinutesDown": {
       "2026-01-16": 6,
@@ -2089,7 +2090,7 @@
     "time": 1167,
     "timeDay": 898,
     "timeWeek": 996,
-    "timeMonth": 935,
+    "timeMonth": 936,
     "timeYear": 1183,
     "dailyMinutesDown": {
       "2026-01-17": 69,
@@ -2144,8 +2145,8 @@
     "time": 2222,
     "timeDay": 9997,
     "timeWeek": 2785,
-    "timeMonth": 2483,
-    "timeYear": 2386,
+    "timeMonth": 2525,
+    "timeYear": 2389,
     "dailyMinutesDown": {
       "2025-12-20": 15,
       "2026-02-18": 35,
@@ -2186,7 +2187,7 @@
     "time": 1021,
     "timeDay": 1042,
     "timeWeek": 1072,
-    "timeMonth": 1117,
+    "timeMonth": 1126,
     "timeYear": 1022,
     "dailyMinutesDown": {
       "2026-01-18": 35,
@@ -2239,7 +2240,7 @@
     "time": 950,
     "timeDay": 832,
     "timeWeek": 955,
-    "timeMonth": 1122,
+    "timeMonth": 1119,
     "timeYear": 975,
     "dailyMinutesDown": {
       "2026-01-18": 13,
@@ -2294,8 +2295,8 @@
     "time": 1391,
     "timeDay": 3763,
     "timeWeek": 1562,
-    "timeMonth": 1484,
-    "timeYear": 1404,
+    "timeMonth": 1497,
+    "timeYear": 1405,
     "dailyMinutesDown": {
       "2026-01-17": 59,
       "2026-01-18": 64,
@@ -2352,7 +2353,7 @@
     "time": 1408,
     "timeDay": 1269,
     "timeWeek": 1484,
-    "timeMonth": 1486,
+    "timeMonth": 1491,
     "timeYear": 1354,
     "dailyMinutesDown": {
       "2026-01-22": 25,
@@ -2415,7 +2416,7 @@
     "time": 887,
     "timeDay": 785,
     "timeWeek": 868,
-    "timeMonth": 870,
+    "timeMonth": 875,
     "timeYear": 873,
     "dailyMinutesDown": {
       "2026-01-22": 60,
@@ -2472,7 +2473,7 @@
     "time": 1090,
     "timeDay": 803,
     "timeWeek": 1315,
-    "timeMonth": 1089,
+    "timeMonth": 1097,
     "timeYear": 1060,
     "dailyMinutesDown": {
       "2026-01-18": 91,
@@ -2525,7 +2526,7 @@
     "time": 1069,
     "timeDay": 824,
     "timeWeek": 950,
-    "timeMonth": 1036,
+    "timeMonth": 1042,
     "timeYear": 1045,
     "dailyMinutesDown": {
       "2026-01-18": 89,
@@ -2578,8 +2579,8 @@
     "time": 1012,
     "timeDay": 819,
     "timeWeek": 826,
-    "timeMonth": 992,
-    "timeYear": 999,
+    "timeMonth": 999,
+    "timeYear": 1000,
     "dailyMinutesDown": {
       "2026-01-21": 19,
       "2026-01-22": 59,
@@ -2631,8 +2632,8 @@
     "time": 1036,
     "timeDay": 851,
     "timeWeek": 1031,
-    "timeMonth": 1153,
-    "timeYear": 1025,
+    "timeMonth": 1160,
+    "timeYear": 1018,
     "dailyMinutesDown": {
       "2026-01-21": 19,
       "2026-01-22": 59,
@@ -2684,8 +2685,8 @@
     "time": 3382,
     "timeDay": 3418,
     "timeWeek": 4890,
-    "timeMonth": 3872,
-    "timeYear": 3566,
+    "timeMonth": 3878,
+    "timeYear": 3568,
     "dailyMinutesDown": {
       "2026-01-23": 31,
       "2026-01-24": 23,
@@ -2743,7 +2744,7 @@
     "time": 900,
     "timeDay": 734,
     "timeWeek": 1293,
-    "timeMonth": 948,
+    "timeMonth": 955,
     "timeYear": 898,
     "dailyMinutesDown": {
       "2026-01-21": 19,
@@ -2797,7 +2798,7 @@
     "time": 1282,
     "timeDay": 3535,
     "timeWeek": 1601,
-    "timeMonth": 1317,
+    "timeMonth": 1329,
     "timeYear": 1248,
     "dailyMinutesDown": {
       "2026-01-18": 64,
@@ -2849,8 +2850,8 @@
     "time": 2395,
     "timeDay": 3379,
     "timeWeek": 3626,
-    "timeMonth": 3038,
-    "timeYear": 2476,
+    "timeMonth": 3028,
+    "timeYear": 2477,
     "dailyMinutesDown": {
       "2026-01-28": 90,
       "2026-01-29": 52,
@@ -2907,7 +2908,7 @@
     "time": 1037,
     "timeDay": 970,
     "timeWeek": 1504,
-    "timeMonth": 1133,
+    "timeMonth": 1140,
     "timeYear": 1023,
     "dailyMinutesDown": {
       "2026-01-20": 10,
