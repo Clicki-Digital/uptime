@@ -14,7 +14,7 @@
     "timeDay": 7116,
     "timeWeek": 8146,
     "timeMonth": 4684,
-    "timeYear": 1505,
+    "timeYear": 1506,
     "dailyMinutesDown": {
       "2026-01-25": 28,
       "2026-01-26": 50,
@@ -184,7 +184,7 @@
     "timeDay": 2918,
     "timeWeek": 3292,
     "timeMonth": 2508,
-    "timeYear": 2303,
+    "timeYear": 2304,
     "dailyMinutesDown": {
       "2026-01-19": 11,
       "2026-02-18": 36,
@@ -333,7 +333,7 @@
     "timeDay": 11295,
     "timeWeek": 5794,
     "timeMonth": 3606,
-    "timeYear": 2686,
+    "timeYear": 2687,
     "dailyMinutesDown": {
       "2026-01-25": 28,
       "2026-01-26": 50,
@@ -392,7 +392,7 @@
     "timeDay": 4062,
     "timeWeek": 3836,
     "timeMonth": 4035,
-    "timeYear": 3718,
+    "timeYear": 3722,
     "dailyMinutesDown": {
       "2025-10-08": 44,
       "2025-11-18": 87,
@@ -638,7 +638,7 @@
     "timeDay": 4374,
     "timeWeek": 3832,
     "timeMonth": 1914,
-    "timeYear": 1478,
+    "timeYear": 1479,
     "dailyMinutesDown": {
       "2026-01-18": 23,
       "2026-01-20": 9,
@@ -903,7 +903,7 @@
     "timeDay": 308,
     "timeWeek": 163,
     "timeMonth": 244,
-    "timeYear": 4531,
+    "timeYear": 4526,
     "dailyMinutesDown": {
       "2025-12-20": 14,
       "2026-02-18": 35,
@@ -1005,7 +1005,7 @@
     "timeDay": 942,
     "timeWeek": 904,
     "timeMonth": 1009,
-    "timeYear": 913,
+    "timeYear": 912,
     "dailyMinutesDown": {
       "2026-01-17": 24,
       "2026-01-18": 62,
@@ -1115,7 +1115,7 @@
     "timeDay": 826,
     "timeWeek": 937,
     "timeMonth": 968,
-    "timeYear": 1044,
+    "timeYear": 1043,
     "dailyMinutesDown": {
       "2026-01-18": 23,
       "2026-01-20": 9,
@@ -1169,7 +1169,7 @@
     "timeDay": 3545,
     "timeWeek": 3328,
     "timeMonth": 2481,
-    "timeYear": 2863,
+    "timeYear": 2857,
     "dailyMinutesDown": {
       "2025-12-20": 14,
       "2026-02-18": 35,
@@ -1201,7 +1201,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hopealley.com.ico",
     "slug": "hope-alley-ecards",
     "status": "up",
-    "uptime": "98.48%",
+    "uptime": "98.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1424,7 +1424,7 @@
     "timeDay": 10027,
     "timeWeek": 9705,
     "timeMonth": 7971,
-    "timeYear": 2529,
+    "timeYear": 2530,
     "dailyMinutesDown": {
       "2026-01-24": 34,
       "2026-01-25": 58,
@@ -1499,7 +1499,7 @@
     "timeDay": 3220,
     "timeWeek": 4999,
     "timeMonth": 5935,
-    "timeYear": 3661,
+    "timeYear": 3663,
     "dailyMinutesDown": {
       "2026-01-28": 560,
       "2026-01-27": 1394,
@@ -1912,7 +1912,7 @@
     "timeDay": 4717,
     "timeWeek": 3665,
     "timeMonth": 2785,
-    "timeYear": 1777,
+    "timeYear": 1778,
     "dailyMinutesDown": {
       "2026-01-28": 91,
       "2026-01-29": 32,
@@ -2146,7 +2146,7 @@
     "timeDay": 10117,
     "timeWeek": 6554,
     "timeMonth": 5127,
-    "timeYear": 2593,
+    "timeYear": 2594,
     "dailyMinutesDown": {
       "2025-12-20": 15,
       "2026-02-18": 35,
@@ -2188,7 +2188,7 @@
     "timeDay": 896,
     "timeWeek": 1084,
     "timeMonth": 1244,
-    "timeYear": 1032,
+    "timeYear": 1033,
     "dailyMinutesDown": {
       "2026-01-18": 35,
       "2026-01-20": 10,
@@ -2241,7 +2241,7 @@
     "timeDay": 902,
     "timeWeek": 1077,
     "timeMonth": 1166,
-    "timeYear": 986,
+    "timeYear": 987,
     "dailyMinutesDown": {
       "2026-01-18": 13,
       "2026-01-20": 10,
@@ -2676,16 +2676,16 @@
     "url": "https://vetanswers.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/vetanswers.com.au.ico",
     "slug": "vet-answers",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "98.89%",
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "84.75%",
+    "uptimeWeek": "97.82%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "98.85%",
     "time": 3470,
-    "timeDay": 12891,
-    "timeWeek": 9185,
-    "timeMonth": 5850,
+    "timeDay": 9219,
+    "timeWeek": 8373,
+    "timeMonth": 5730,
     "timeYear": 3694,
     "dailyMinutesDown": {
       "2026-01-23": 13,
@@ -2728,7 +2728,8 @@
       "2026-07-17": 287,
       "2026-08-21": 440,
       "2026-08-22": 159,
-      "2026-09-28": 6
+      "2026-09-29": 74,
+      "2026-09-28": 146
     }
   },
   {
@@ -2746,7 +2747,7 @@
     "timeDay": 761,
     "timeWeek": 915,
     "timeMonth": 1127,
-    "timeYear": 905,
+    "timeYear": 904,
     "dailyMinutesDown": {
       "2026-01-21": 19,
       "2026-01-22": 61,
@@ -2852,7 +2853,7 @@
     "timeDay": 7223,
     "timeWeek": 5567,
     "timeMonth": 4070,
-    "timeYear": 2548,
+    "timeYear": 2549,
     "dailyMinutesDown": {
       "2026-01-28": 90,
       "2026-01-29": 52,
