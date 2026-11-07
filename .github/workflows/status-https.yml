@@ -1,0 +1,60 @@
+name: Finish status HTTPS setup
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [master, codex/status-https-watcher]
+    paths: [.github/workflows/status-https.yml]
+permissions:
+  contents: read
+  actions: write
+concurrency:
+  group: finish-status-https
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+      - name: Check certificates and enforce HTTPS when available
+        id: certificates
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          node --input-type=module <<'JS'
+          import { appendFile } from 'node:fs/promises';
+          const headers = { Authorization: `Bearer ${process.env.GH_TOKEN}`, Accept: 'application/vnd.github+json', 'Content-Type': 'application/json' };
+          let complete = true;
+          const lines = ['## Status HTTPS setup', '', '| Host | HTTPS enforcement | Certificate |', '| --- | --- | --- |'];
+          for (const [repo, host] of [['uptime', 'status.getlucid.solutions'], ['status-redirect', 'status.clicki.digital']]) {
+            const url = `https://api.github.com/repos/Clicki-Digital/${repo}/pages`;
+            const response = await fetch(url, { headers });
+            if (!response.ok) throw new Error(`${repo}: cannot read Pages settings: HTTP ${response.status}`);
+            const pages = await response.json();
+            if (pages.cname !== host) throw new Error(`${repo}: custom domain changed; refusing to modify HTTPS settings`);
+            let enabled = pages.https_enforced;
+            if (!enabled) {
+              const updated = await fetch(url, { method: 'PUT', headers, body: JSON.stringify({ https_enforced: true }) });
+              if (updated.ok) enabled = true;
+              else {
+                const error = await updated.json();
+                if (updated.status !== 404 || !error.message?.includes('certificate has not yet been issued')) throw new Error(`${repo}: HTTP ${updated.status}: ${error.message}`);
+              }
+            }
+            if (!enabled) complete = false;
+            const state = pages.https_certificate?.state ?? 'unknown';
+            console.log(`${host}: HTTPS ${enabled ? 'enforced' : 'pending certificate'}; certificate ${state}.`);
+            lines.push(`| ${host} | ${enabled ? 'Enabled' : 'Pending — not enabled'} | ${state} |`);
+          }
+          await appendFile(process.env.GITHUB_STEP_SUMMARY, lines.join('\n') + '\n');
+          await appendFile(process.env.GITHUB_OUTPUT, `complete=${complete}\n`);
+          JS
+      - name: Disable this watcher once both sites are complete
+        if: steps.certificates.outputs.complete == 'true' && github.ref == 'refs/heads/master'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: gh workflow disable status-https.yml --repo "$GH_REPO"
