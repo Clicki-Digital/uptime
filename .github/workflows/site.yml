@@ -17,6 +17,7 @@
 name: Static Site CI
 on:
   push:
+    branches: [master]
     paths:
       - "assets/**"
   schedule:
@@ -31,7 +32,7 @@ jobs:
   release:
     name: Build and deploy site
     runs-on: ubuntu-latest
-    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+    if: "github.ref == 'refs/heads/master' && !contains(github.event.head_commit.message, '[skip ci]')"
     env:
       GH_APP_PRIVATE_KEY: ${{ secrets.GH_APP_PRIVATE_KEY }}
     steps:
