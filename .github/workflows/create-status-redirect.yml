@@ -8,7 +8,7 @@ permissions:
 jobs:
   configure:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - uses: actions/setup-node@v6
         with:
@@ -66,4 +66,53 @@ jobs:
           await api('PUT', `${repository}/pages`, { cname: 'status.clicki.digital' });
           console.log(`Redirect repository configured: https://github.com/${owner}/${name}; branch ${branch}. No DNS records changed.`);
           console.log('Pages build and certificate provisioning may still be pending.');
+          JS
+      - name: Refresh stalled status certificate request
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          node --input-type=module <<'JS'
+          const path = 'https://api.github.com/repos/Clicki-Digital/uptime/pages';
+          const hostname = 'status.getlucid.solutions';
+          const headers = { Authorization: `Bearer ${process.env.GH_TOKEN}`, Accept: 'application/vnd.github+json', 'Content-Type': 'application/json' };
+          async function pages(method = 'GET', body) {
+            const response = await fetch(path, { method, headers, ...(body ? { body: JSON.stringify(body) } : {}) });
+            if (!response.ok) throw new Error(`Pages request failed: HTTP ${response.status}`);
+            return response.status === 204 ? null : response.json();
+          }
+          const current = await pages();
+          if (current.cname !== hostname) throw new Error('Unexpected Pages domain; refusing to change it');
+          if (!current.https_enforced && current.https_certificate?.state === 'new') {
+            const dns = await fetch(`https://dns.google/resolve?name=${hostname}&type=CNAME`).then(response => response.json());
+            if (!dns.Answer?.some(answer => answer.type === 5 && answer.data.toLowerCase() === 'clicki-digital.github.io.')) throw new Error('DNS target is not confirmed; refusing domain reset');
+            await pages('PUT', { cname: null });
+            let restored = false;
+            for (let i = 0; i < 3; i++) {
+              try { await pages('PUT', { cname: hostname }); restored = true; break; }
+              catch (error) { if (i === 2) throw error; await new Promise(resolve => setTimeout(resolve, 1000)); }
+            }
+            if (!restored) throw new Error('Custom domain restoration failed');
+            console.log('Refreshed the stalled domain/certificate request and restored status.getlucid.solutions.');
+          } else console.log('Domain refresh was not needed.');
+          const status = await pages();
+          console.log(JSON.stringify({ cname: status.cname, https_enforced: status.https_enforced, certificate: status.https_certificate }));
+          JS
+      - name: Enable HTTPS when both certificates are ready
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          node --input-type=module <<'JS'
+          const pending = new Set(['uptime', 'status-redirect']);
+          const headers = { Authorization: `Bearer ${process.env.GH_TOKEN}`, Accept: 'application/vnd.github+json', 'Content-Type': 'application/json' };
+          for (let attempt = 1; attempt <= 35 && pending.size; attempt++) {
+            for (const repo of [...pending]) {
+              const response = await fetch(`https://api.github.com/repos/Clicki-Digital/${repo}/pages`, { method: 'PUT', headers, body: JSON.stringify({ https_enforced: true }) });
+              if (response.ok) { console.log(`HTTPS enforcement enabled: ${repo}`); pending.delete(repo); continue; }
+              const error = await response.json();
+              if (response.status !== 404 || !error.message?.includes('certificate has not yet been issued')) throw new Error(`${repo}: HTTP ${response.status}: ${error.message}`);
+              console.log(`${repo}: certificate pending (${attempt}/35).`);
+            }
+            if (pending.size && attempt < 35) await new Promise(resolve => setTimeout(resolve, 15000));
+          }
+          if (pending.size) throw new Error(`Certificates still pending for: ${[...pending].join(', ')}. HTTPS was not enabled for these sites.`);
           JS
