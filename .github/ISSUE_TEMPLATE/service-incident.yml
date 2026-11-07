@@ -1,0 +1,53 @@
+name: Service incident (staff)
+description: Record a public Lucid Solutions service incident and timestamped updates.
+title: "[Incident] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This is a public record. Keep credentials and private customer details out of the report.
+        Staff: apply the existing `status` label after review to publish this in Upptime.
+        Add timestamped updates as comments and close the issue when resolved.
+  - type: input
+    id: started
+    attributes:
+      label: Incident started
+      description: Include the date, time and timezone (for example AEST / UTC+10).
+      placeholder: "7 November 2026, 14:30 AEST (UTC+10)"
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Customer impact and affected services
+      description: Describe the observed impact without disclosing private customer information.
+    validations:
+      required: true
+  - type: dropdown
+    id: state
+    attributes:
+      label: Current phase
+      options:
+        - Investigating
+        - Identified
+        - Monitoring
+        - Resolved
+    validations:
+      required: true
+  - type: textarea
+    id: update
+    attributes:
+      label: Current update and workaround
+      description: State what is known, what is being investigated, and any verified workaround.
+    validations:
+      required: true
+  - type: textarea
+    id: references
+    attributes:
+      label: Public provider updates and references
+      description: Link relevant Cloudways, Cloudflare, DigitalOcean or other public incident reports. Keep private support ticket links in the staff runbook.
+  - type: input
+    id: next-update
+    attributes:
+      label: Next update
+      description: Give the planned next update time and timezone, if known.

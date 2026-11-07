@@ -653,14 +653,19 @@ sites:
 
 status-website:
   theme: light
-  cname: status.clicki.digital
-  logoUrl: https://clickidigital.com.au/wp-content/uploads/2021/02/ClickiDigital-horizontal-logo-FullColor.png
-  name: Uptime Status
-  introTitle: "**Clicki Digital** web hosting status"
-  introMessage: "This status page provides real-time updates for sites managed by the Clicki Digital Infrastructure as a Service (IaaS) solution.<br>Clicki Digital utilises this tool to assist with unplanned outages."
+  cname: status.getlucid.solutions
+  logoUrl: https://raw.githubusercontent.com/Clicki-Digital/uptime/master/assets/lucid-solutions-logo.png
+  favicon: https://raw.githubusercontent.com/Clicki-Digital/uptime/master/assets/lucid-solutions-icon.png
+  name: Lucid Solutions Status
+  introTitle: "**Lucid Solutions** infrastructure status"
+  introMessage: "Automated monitoring and published incident updates for hosting and infrastructure provided and managed by Lucid Solutions, including services for Clicki Digital customers. Checks run periodically; provider links and service updates are available on our website."
   navbar:
     - title: Status
       href: /
+    - title: Service updates
+      href: https://getlucid.solutions/service-updates/
+    - title: Lucid Solutions
+      href: https://getlucid.solutions
   workflowSchedule:
     graphs: "0 0 * * *"
     responseTime: "0 9 * * *"
