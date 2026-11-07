@@ -1,0 +1,20 @@
+name: Enable status HTTPS
+on:
+  workflow_dispatch:
+  push:
+    branches: [codex/enable-status-https]
+    paths: [.github/workflows/enable-status-https.yml]
+permissions:
+  contents: read
+  pages: write
+jobs:
+  enable:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Enable HTTPS enforcement for the configured Pages domain
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          gh api --method PUT "repos/$GH_REPO/pages" -F https_enforced=true
+          gh api "repos/$GH_REPO/pages" --jq '{cname,https_enforced,certificate:.https_certificate.state}'
