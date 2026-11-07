@@ -12,7 +12,7 @@ This repository remains `Clicki-Digital/uptime`. The public service owner/brand 
 6. Keep `status.clicki.digital` as a permanent HTTPS redirect to the new host using the DNS/edge provider, preserving paths and query strings. GitHub Pages supports one custom hostname; another CNAME alone does not configure a second custom certificate/domain.
 7. Verify both hosts, HTTP→HTTPS, existing `/history/...` links and `/incident/...` links. Avoid a redirect loop between old and new hosts.
 
-For Cloudflare, an edge redirect for the old hostname requires a proxied record and a valid edge certificate. The new primary hostname can remain DNS only for direct GitHub Pages HTTPS. No DNS/redirect rules or Pages settings are changed by this source PR.
+For Cloudflare, an edge redirect for the old hostname requires a proxied record and a valid edge certificate. The new primary hostname can remain DNS only for direct GitHub Pages HTTPS. No DNS/edge redirect rules were edited. The temporary feature-branch Pages deployment and restoration during preparation are recorded below; the intended canonical domain cutover remains pending.
 
 ## Incident publishing
 
