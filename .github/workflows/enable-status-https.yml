@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: Enable HTTPS enforcement for the configured Pages domain
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.GH_PAT || github.token }}
           GH_REPO: ${{ github.repository }}
         run: |
           gh api --method PUT "repos/$GH_REPO/pages" -F https_enforced=true
