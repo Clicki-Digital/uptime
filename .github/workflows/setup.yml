@@ -17,6 +17,7 @@
 name: Setup CI
 on:
   push:
+    branches: [master]
     paths:
       - ".upptimerc.yml"
   repository_dispatch:
@@ -27,6 +28,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   release:
+    if: github.ref == 'refs/heads/master'
     name: Setup Upptime
     runs-on: ubuntu-latest
     env:
