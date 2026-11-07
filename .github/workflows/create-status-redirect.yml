@@ -1,0 +1,118 @@
+name: Create legacy status redirect
+on:
+  push:
+    branches: [codex/create-status-redirect]
+    paths: [.github/workflows/create-status-redirect.yml]
+permissions:
+  contents: read
+jobs:
+  configure:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+      - name: Check new status domain DNS and certificate
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          gh api repos/Clicki-Digital/uptime/pages/health
+          gh api repos/Clicki-Digital/uptime/pages --jq '{cname,https_enforced,https_certificate}'
+      - uses: actions/checkout@v6
+        with:
+          repository: Clicki-Digital/lucidsolutions
+          ref: codex/status-domain-redirect
+          token: ${{ secrets.GH_PAT }}
+          persist-credentials: false
+          path: source
+          sparse-checkout: redirects/status.clicki.digital/github-pages
+      - name: Create and configure dedicated redirect Pages repository
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          node --input-type=module <<'JS'
+          import { readFile } from 'node:fs/promises';
+          const owner = 'Clicki-Digital', name = 'status-redirect';
+          const description = 'Redirect the legacy status.clicki.digital hostname to Lucid Solutions status';
+          const repository = `repos/${owner}/${name}`;
+          const headers = { Authorization: `Bearer ${process.env.GH_TOKEN}`, Accept: 'application/vnd.github+json', 'Content-Type': 'application/json', 'X-GitHub-Api-Version': '2022-11-28' };
+          async function api(method, path, body, allow404 = false) {
+            const response = await fetch(`https://api.github.com/${path}`, { method, headers, ...(body ? { body: JSON.stringify(body) } : {}) });
+            if (allow404 && response.status === 404) return null;
+            const data = response.status === 204 ? null : await response.json();
+            if (!response.ok) throw new Error(`${method} ${path}: HTTP ${response.status}: ${data?.message}`);
+            return data;
+          }
+          let repo = await api('GET', repository, null, true);
+          if (!repo) repo = await api('POST', `orgs/${owner}/repos`, { name, private: true, auto_init: true, description, homepage: 'https://status.clicki.digital' });
+          if (repo.description !== description) throw new Error('Existing repository is not identified as this redirect application; inspect before overwriting.');
+          const branch = repo.default_branch;
+          for (let i = 0; i < 15; i++) {
+            if (await api('GET', `${repository}/branches/${branch}`, null, true)) break;
+            if (i === 14) throw new Error('Repository initialisation did not finish');
+            await new Promise(resolve => setTimeout(resolve, 2000));
+          }
+          for (const file of ['index.html', '404.html', 'CNAME', '.nojekyll', 'README.md']) {
+            const content = await readFile(`source/redirects/status.clicki.digital/github-pages/${file}`);
+            const old = await api('GET', `${repository}/contents/${file}?ref=${encodeURIComponent(branch)}`, null, true);
+            const encoded = content.toString('base64');
+            if (old?.content?.replace(/\s/g, '') === encoded) continue;
+            await api('PUT', `${repository}/contents/${file}`, { message: `Configure legacy status redirect: ${file}`, content: encoded, branch, ...(old ? { sha: old.sha } : {}) });
+          }
+          let pages = await api('GET', `${repository}/pages`, null, true);
+          if (!pages) pages = await api('POST', `${repository}/pages`, { build_type: 'legacy', source: { branch, path: '/' } });
+          await api('PUT', `${repository}/pages`, { cname: 'status.clicki.digital' });
+          console.log(`Redirect repository configured: https://github.com/${owner}/${name}; branch ${branch}. No DNS records changed.`);
+          console.log('Pages build and certificate provisioning may still be pending.');
+          JS
+      - name: Refresh stalled status certificate request
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          node --input-type=module <<'JS'
+          const path = 'https://api.github.com/repos/Clicki-Digital/uptime/pages';
+          const hostname = 'status.getlucid.solutions';
+          const headers = { Authorization: `Bearer ${process.env.GH_TOKEN}`, Accept: 'application/vnd.github+json', 'Content-Type': 'application/json' };
+          async function pages(method = 'GET', body) {
+            const response = await fetch(path, { method, headers, ...(body ? { body: JSON.stringify(body) } : {}) });
+            if (!response.ok) throw new Error(`Pages request failed: HTTP ${response.status}`);
+            return response.status === 204 ? null : response.json();
+          }
+          const current = await pages();
+          if (current.cname !== hostname) throw new Error('Unexpected Pages domain; refusing to change it');
+          if (!current.https_enforced && current.https_certificate?.state === 'new') {
+            const dns = await fetch(`https://dns.google/resolve?name=${hostname}&type=CNAME`).then(response => response.json());
+            if (!dns.Answer?.some(answer => answer.type === 5 && answer.data.toLowerCase() === 'clicki-digital.github.io.')) throw new Error('DNS target is not confirmed; refusing domain reset');
+            await pages('PUT', { cname: null });
+            let restored = false;
+            for (let i = 0; i < 3; i++) {
+              try { await pages('PUT', { cname: hostname }); restored = true; break; }
+              catch (error) { if (i === 2) throw error; await new Promise(resolve => setTimeout(resolve, 1000)); }
+            }
+            if (!restored) throw new Error('Custom domain restoration failed');
+            console.log('Refreshed the stalled domain/certificate request and restored status.getlucid.solutions.');
+          } else console.log('Domain refresh was not needed.');
+          const status = await pages();
+          console.log(JSON.stringify({ cname: status.cname, https_enforced: status.https_enforced, certificate: status.https_certificate }));
+          JS
+      - name: Enable HTTPS when both certificates are ready
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          node --input-type=module <<'JS'
+          const pending = new Set(['uptime', 'status-redirect']);
+          const headers = { Authorization: `Bearer ${process.env.GH_TOKEN}`, Accept: 'application/vnd.github+json', 'Content-Type': 'application/json' };
+          for (let attempt = 1; attempt <= 35 && pending.size; attempt++) {
+            for (const repo of [...pending]) {
+              const response = await fetch(`https://api.github.com/repos/Clicki-Digital/${repo}/pages`, { method: 'PUT', headers, body: JSON.stringify({ https_enforced: true }) });
+              if (response.ok) { console.log(`HTTPS enforcement enabled: ${repo}`); pending.delete(repo); continue; }
+              const error = await response.json();
+              if (response.status !== 404 || !error.message?.includes('certificate has not yet been issued')) throw new Error(`${repo}: HTTP ${response.status}: ${error.message}`);
+              console.log(`${repo}: certificate pending (${attempt}/35).`);
+            }
+            if (pending.size && attempt < 35) await new Promise(resolve => setTimeout(resolve, 15000));
+          }
+          if (pending.size) throw new Error(`Certificates still pending for: ${[...pending].join(', ')}. HTTPS was not enabled for these sites.`);
+          JS
