@@ -4,8 +4,8 @@ This repository remains `Clicki-Digital/uptime`. The public service owner/brand 
 
 ## Before switching the custom domain
 
-1. Merge the companion Lucid website PR first so `/service-updates/` exists.
-2. Confirm `status.getlucid.solutions` has a DNS-only CNAME to `Clicki-Digital.github.io`. It currently redirects to `status.clicki.digital`; remove/bypass that old redirect for the new canonical host.
+1. Merge [Lucid website PR #8](https://github.com/Clicki-Digital/lucidsolutions/pull/8) first so `/service-updates/` exists.
+2. Confirm `status.getlucid.solutions` has a DNS-only CNAME to `Clicki-Digital.github.io`. It currently redirects to `status.clicki.digital` while the old hostname is canonical; this may be GitHub's canonical-host redirect. After switching Pages, ensure no separate edge redirect rule sends the new hostname back to the old one.
 3. Merge this PR. The new logo under `assets/` triggers the existing Static Site CI. If needed, run Static Site CI manually on master.
 4. In repository Pages settings, set the custom domain to `status.getlucid.solutions` (the generated CNAME uses the same value). Wait for DNS/certificate checks and enable HTTPS. The integration may not have permission to change Pages settings.
 5. Update the repository homepage/Web link to `https://status.getlucid.solutions` after confirming it serves the new site. Upptime also derives its homepage from the configured cname.
