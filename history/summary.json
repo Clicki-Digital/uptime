@@ -739,16 +739,16 @@
     "url": "https://contreat.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/contreat.com.au.ico",
     "slug": "contreat",
-    "status": "down",
+    "status": "up",
     "uptime": "95.32%",
-    "uptimeDay": "89.84%",
-    "uptimeWeek": "98.55%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "87.56%",
-    "time": 928,
-    "timeDay": 1620,
-    "timeWeek": 1548,
-    "timeMonth": 1731,
+    "uptimeDay": "87.15%",
+    "uptimeWeek": "98.16%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "87.55%",
+    "time": 929,
+    "timeDay": 1552,
+    "timeWeek": 1541,
+    "timeMonth": 1723,
     "timeYear": 943,
     "dailyMinutesDown": {
       "2026-01-20": 9,
@@ -829,7 +829,7 @@
       "2026-04-18": 127,
       "2026-07-17": 87,
       "2026-09-30": 237,
-      "2026-11-10": 146
+      "2026-11-10": 185
     }
   },
   {
